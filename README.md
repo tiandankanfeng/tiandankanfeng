@@ -1,3 +1,3 @@
-*这是良夜的 github，这里记录着个人成长历程*
-*个人心语：所有人都在努力，而你清醒着堕落*
-*个人博客地址：https://liangye-xo.xyz/*
+*liangye github*
+*个人博客地址：https://liangye-xo.xyz/, 默认登陆账户:daoyou pswd:daoyou*
+*喜欢交流技术，愿能遇到趣味道友，一起成长.*
