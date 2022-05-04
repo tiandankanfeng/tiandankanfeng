@@ -5,4 +5,7 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [spring-statemachine](https://liangye-xo.xyz/?p=750)
+- [spring-retry](https://liangye-xo.xyz/?p=747)
+- [hippo4j](https://liangye-xo.xyz/?p=743)
 <!-- BLOG-POST-LIST:END -->
