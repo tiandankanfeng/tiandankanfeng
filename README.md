@@ -4,4 +4,4 @@
 <!-- START_SECTION:blog -->
 <!-- END_SECTION:blog -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiandankanfeng&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiandankanfeng&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
