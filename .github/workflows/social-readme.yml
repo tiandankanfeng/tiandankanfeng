@@ -12,6 +12,6 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
       - name: Pull in dev.to posts
-        uses: tiandankanfeng/tiandankanfeng@master
+        uses: tiandankanfeng/tiandankanfeng@main
         with:
           feed_list: "https://liangye-xo.xyz/feed/"
