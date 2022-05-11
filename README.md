@@ -5,6 +5,7 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The design of GC](https://liangye-xo.xyz/?p=752)
 - [spring-statemachine](https://liangye-xo.xyz/?p=750)
 - [spring-retry](https://liangye-xo.xyz/?p=747)
 - [hippo4j](https://liangye-xo.xyz/?p=743)
