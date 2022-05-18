@@ -6,7 +6,7 @@
 #   base: ""
 #   plugin_topics: yes
 #   plugin_topics_limit: 12
-name: Metrics
+name: Metrics_02
 on:
   # Schedule daily updates
   schedule: [{cron: "0 0 * * *"}]
