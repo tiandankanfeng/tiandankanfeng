@@ -16,6 +16,6 @@ _- [spring-retry](https://liangye-xo.xyz/?p=747)_
 _- [hippo4j](https://liangye-xo.xyz/?p=743)_
 <!-- BLOG-POST-LIST:END -->
 
-![](./profile-3d-contrib/profile-night-view.svg)
+<!-- ![](./profile-3d-contrib/profile-night-view.svg) -->
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=tiandankanfeng&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
