@@ -6,10 +6,10 @@ _Nothing could affect you, Recognize yourself, and do it!_
 <!-- ![Metrics](https://metrics.lecoq.io/tiandankanfeng?template=classic&languages=1&stars=1&achievements=1&isocalendar=1&base.indepth=false&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stars.limit=4&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Etc%2FGMT-8) -->
 
 ![Metrics](/github-metrics.svg)
-![Metrics](/metrics.plugin.languages.indepth.svg)
+![Metrics](/metrics.plugin.languages.details.svg)
 ![Metrics](/metrics.plugin.stars.svg)
 ![Metrics](/metrics.plugin.starlists.languages.svg)
-![Metrics](/metrics.plugin.isocalendar.fullyear.svg)
+<!-- ![Metrics](/metrics.plugin.isocalendar.fullyear.svg) -->
 ![Metrics](/metrics.plugin.achievements.svg)
 
 _# Blog posts_
