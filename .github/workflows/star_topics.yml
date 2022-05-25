@@ -93,7 +93,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.anilist.characters.svg
-          token: NOT_NEEDED
+          token: QXc5q4ntu0BACilnr3CBKUSM0SR2vo
           base: ""
           plugin_anilist: yes
           plugin_anilist_sections: characters
