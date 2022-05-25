@@ -12,6 +12,7 @@ _Nothing could affect you, Recognize yourself, and do it!_
 ![Metrics](/metrics.plugin.starlists.languages.svg)
 <!-- ![Metrics](/metrics.plugin.isocalendar.fullyear.svg) -->
 ![Metrics](/metrics.plugin.achievements.svg)
+![Metrics](/metrics.plugin.anilist.characters.svg)
 
 _# Blog posts_
 <!-- BLOG-POST-LIST:START -->
