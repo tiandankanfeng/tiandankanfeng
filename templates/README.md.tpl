@@ -24,6 +24,6 @@
 {{- end}}
 
 #### 📜 Check out my recent blog posts
-{{range rss "https://tanxinyu.work/atom.xml" 5}}
+{{range rss "https://liangye-xo.xyz/?feed=rss2" 5}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
