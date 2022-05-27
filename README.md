@@ -30,8 +30,8 @@
 
 #### 📜 Check out my recent blog posts
 
-- [分布式事务概述和对应代码框架介绍](https://tanxinyu.work/talent-plan-transaction-talk/) (1 month ago)
-- [Raft 算法和对应代码框架介绍](https://tanxinyu.work/talent-plan-raft-talk/) (2 months ago)
-- [2021 年终总结：记我在清华 Apache IoTDB 组的成长](https://tanxinyu.work/2021-annual-summary/) (4 months ago)
-- [2021 Talent Plan KV 学习营结营总结](https://tanxinyu.work/tinykv/) (4 months ago)
-- [第一届九坤并行程序优化大赛总结](https://tanxinyu.work/jiu-kun-parallel-program-optimization-contest/) (6 months ago)
+- [spring-statemachine](https://liangye-xo.xyz/?p=750) (1 month ago)
+- [spring-retry](https://liangye-xo.xyz/?p=747) (1 month ago)
+- [一致性 hash](https://liangye-xo.xyz/?p=746) (1 month ago)
+- [缓存与数据库的双写一致性：](https://liangye-xo.xyz/?p=744) (1 month ago)
+- [hippo4j](https://liangye-xo.xyz/?p=743) (1 month ago)
