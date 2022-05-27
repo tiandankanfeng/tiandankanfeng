@@ -14,32 +14,32 @@ _Nothing could affect you, Recognize yourself, and do it!_
 
 <!-- BLOG-POST-LIST:START -->
 
-#### 👷 Currently working on
+#### 👷 Check out what I'm currently working on
 {{range recentContributions 5}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
 {{- end}}
 
-#### 🌱 My recent projects
+#### 🌱 Check out my recent projects
 {{range recentRepos 5}}
 - [{{.Name}}]({{.URL}}) - {{.Description}}
 {{- end}}
 
-#### ⭐ My recent stars
+#### ⭐ Check out my recent stars
 {{range recentStars 5}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .StarredAt}})
 {{- end}}
 
-<!-- #### 👯 My recent followers -->
+<!-- #### 👯 Check out my recent followers -->
 <!-- {{range followers 5}} -->
 <!-- - [{{.Login}}]({{.URL}}) -->
 <!-- {{- end}} -->
 
-#### 🔨 My recent pull requests
+#### 🔨 Check out my recent pull requests
 {{range recentPullRequests 5}}
 - [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
 
-#### 📜 My recent blog posts
+#### 📜 Check out my recent blog posts
 {{range rss "https://liangye-xo.xyz/?feed=rss2" 5}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
