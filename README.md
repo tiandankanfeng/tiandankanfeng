@@ -6,10 +6,8 @@ _Nothing could affect you, Recognize yourself, and do it!_
 ![Metrics](/metrics.plugin.languages.details.svg)
 ![Metrics](/metrics.plugin.languages.recent.svg)
 ![Metrics](/metrics.plugin.stars.svg)
-![Metrics](/metrics.plugin.starlists.languages.svg)
 
-![Metrics](/metrics.plugin.achievements.svg)
-![Metrics](/metrics.plugin.anilist.characters.svg)
+
 
 _# Blog posts_
 
@@ -51,3 +49,6 @@ _# Blog posts_
 - [一致性 hash](https://liangye-xo.xyz/?p=746) (1 month ago)
 - [缓存与数据库的双写一致性：](https://liangye-xo.xyz/?p=744) (1 month ago)
 - [hippo4j](https://liangye-xo.xyz/?p=743) (1 month ago)
+
+![Metrics](/metrics.plugin.achievements.svg)
+![Metrics](/metrics.plugin.anilist.characters.svg)
