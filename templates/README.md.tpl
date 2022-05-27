@@ -14,10 +14,10 @@ _Nothing could affect you, Recognize yourself, and do it!_
 
 <!-- BLOG-POST-LIST:START -->
 
-#### 👷 Check out what I'm currently working on
-{{range recentContributions 5}}
-- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
-{{- end}}
+<!--#### 👷 Check out what I'm currently working on -->
+<!-- {{range recentContributions 5}} -->
+<!-- - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}}) -->
+<!-- {{- end}} -->
 
 #### 🌱 Check out my recent projects
 {{range recentRepos 5}}
