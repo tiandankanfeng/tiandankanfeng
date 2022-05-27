@@ -40,7 +40,7 @@ _Nothing could affect you, Recognize yourself, and do it!_
 {{- end}}
 
 #### 📜 Check out my recent blog posts
-{{range rss "https://liangye-xo.xyz/?feed=rss2" 5}}
+{{range rss "https://liangye-xo.xyz/?feed=rss2" 10}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
 
