@@ -29,10 +29,10 @@ _Nothing could affect you, Recognize yourself, and do it!_
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .StarredAt}})
 {{- end}}
 
-#### 👯 My recent following
-{{range following 5}}
-- [{{.Login}}]({{.URL}})
-{{- end}}
+<!-- #### 👯 My recent followers -->
+<!-- {{range followers 5}} -->
+<!-- - [{{.Login}}]({{.URL}}) -->
+<!-- {{- end}} -->
 
 #### 🔨 My recent pull requests
 {{range recentPullRequests 5}}
