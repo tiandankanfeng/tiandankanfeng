@@ -1,3 +1,4 @@
+_Hi, I'm here!_
 _Nothing could affect you, Recognize yourself, and do it!_
 
 
@@ -9,7 +10,6 @@ _Nothing could affect you, Recognize yourself, and do it!_
 
 
 
-_# Blog posts_
 
 
 #### 👷 Check out what I'm currently working on
