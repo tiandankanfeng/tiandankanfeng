@@ -13,7 +13,7 @@ _Nothing could affect you, Recognize yourself, and do it!_
 
 
 
-#### 👷 Currently working on
+#### 👷 Check out what I'm currently working on
 
 - [tiandankanfeng/paper-share](https://github.com/tiandankanfeng/paper-share) - store some amazing papers which i have read. (today)
 - [tiandankanfeng/Go-Simple-Rpc-Examples](https://github.com/tiandankanfeng/Go-Simple-Rpc-Examples) -  (3 weeks ago)
@@ -21,7 +21,7 @@ _Nothing could affect you, Recognize yourself, and do it!_
 - [tiandankanfeng/cloud-mall](https://github.com/tiandankanfeng/cloud-mall) - 毕业设计，基于用户肖像的电商系统 (1 month ago)
 - [tiandankanfeng/Netty-RPC](https://github.com/tiandankanfeng/Netty-RPC) - 基于 Java实现的轻量级 Rpc框架 (10 months ago)
 
-#### 🌱 My recent projects
+#### 🌱 Check out my recent projects
 
 - [tiandankanfeng/paper-share](https://github.com/tiandankanfeng/paper-share) - store some amazing papers which i have read.
 - [tiandankanfeng/Go-Simple-Rpc-Examples](https://github.com/tiandankanfeng/Go-Simple-Rpc-Examples) - 
@@ -29,7 +29,7 @@ _Nothing could affect you, Recognize yourself, and do it!_
 - [tiandankanfeng/cloud-mall](https://github.com/tiandankanfeng/cloud-mall) - 毕业设计，基于用户肖像的电商系统
 - [tiandankanfeng/Netty-RPC](https://github.com/tiandankanfeng/Netty-RPC) - 基于 Java实现的轻量级 Rpc框架
 
-#### ⭐ My recent stars
+#### ⭐ Check out my recent stars
 
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (today)
 - [vpncn/vpncn.github.io](https://github.com/vpncn/vpncn.github.io) - 2022中国翻墙软件VPN推荐以及科学上网避坑，稳定好用。对比SSR机场、蓝灯、V2ray、老王VPN、VPS搭建梯子等科学上网与翻墙软件，中国最新科学上网翻墙梯子VPN下载推荐。 (today)
@@ -40,10 +40,10 @@ _Nothing could affect you, Recognize yourself, and do it!_
 
 
 
-#### 🔨 My recent pull requests
+#### 🔨 Check out my recent pull requests
 
 
-#### 📜 My recent blog posts
+#### 📜 Check out my recent blog posts
 
 - [spring-statemachine](https://liangye-xo.xyz/?p=750) (1 month ago)
 - [spring-retry](https://liangye-xo.xyz/?p=747) (1 month ago)
