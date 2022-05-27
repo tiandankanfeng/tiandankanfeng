@@ -55,11 +55,6 @@ _Nothing could affect you, Recognize yourself, and do it!_
 - [一致性 hash](https://liangye-xo.xyz/?p=746) (1 month ago)
 - [缓存与数据库的双写一致性：](https://liangye-xo.xyz/?p=744) (1 month ago)
 - [hippo4j](https://liangye-xo.xyz/?p=743) (1 month ago)
-- [](https://liangye-xo.xyz/?p=739) (1 month ago)
-- [可编程中断控制器](https://liangye-xo.xyz/?p=737) (2 months ago)
-- [](https://liangye-xo.xyz/?p=734) (2 months ago)
-- [全局唯一 ID](https://liangye-xo.xyz/?p=732) (2 months ago)
-- [HashMap源码解读](https://liangye-xo.xyz/?p=729) (3 months ago)
 
 ![Metrics](/metrics.plugin.achievements.svg)
 ![Metrics](/metrics.plugin.anilist.characters.svg)
