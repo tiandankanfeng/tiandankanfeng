@@ -41,9 +41,14 @@ _Nothing could affect you, Recognize yourself, and do it!_
 {{- end}}
 
 #### 📜 Check out my recent blog posts
-{{range rss "https://liangye-xo.xyz/?feed=rss2" 5}}
-- [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
-{{- end}}
+<!--{{range rss "https://liangye-xo.xyz/?feed=rss2" 5}} -->
+<!--- [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}}) -->
+<!--{{- end}} -->
+- [spring-statemachine](https://liangye-xo.xyz/?p=750) (1 month ago)
+- [spring-retry](https://liangye-xo.xyz/?p=747) (1 month ago)
+- [一致性 hash](https://liangye-xo.xyz/?p=746) (1 month ago)
+- [缓存与数据库的双写一致性：](https://liangye-xo.xyz/?p=744) (1 month ago)
+- [hippo4j](https://liangye-xo.xyz/?p=743) (1 month ago)
 
 ![Metrics](/metrics.plugin.achievements.svg)
 ![Metrics](/metrics.plugin.anilist.characters.svg)
