@@ -41,9 +41,6 @@ _Nothing could affect you, Recognize yourself, and do it!_
 {{- end}}
 
 #### 📜 Check out my recent blog posts
-<!--{{range rss "https://liangye-xo.xyz/?feed=rss2" 5}} -->
-<!--- [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}}) -->
-<!--{{- end}} -->
 - [spring-statemachine](https://liangye-xo.xyz/?p=750) (1 month ago)
 - [spring-retry](https://liangye-xo.xyz/?p=747) (1 month ago)
 - [一致性 hash](https://liangye-xo.xyz/?p=746) (1 month ago)
