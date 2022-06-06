@@ -9,6 +9,7 @@ _Nothing could affect you, Recognize yourself, and do it!_
 ![Metrics](/metrics.plugin.languages.details.svg)
 ![Metrics](/metrics.plugin.languages.recent.svg)
 ![Metrics](/metrics.plugin.stars.svg)
+![Metrics](/metrics.plugin.topics.svg)
 <!-- ![Metrics](/metrics.plugin.starlists.languages.svg) -->
 <!-- ![Metrics](/metrics.plugin.isocalendar.fullyear.svg) -->
 
