@@ -37,11 +37,11 @@ _Nothing could affect you, Recognize yourself, and do it!_
 
 #### ⭐ Check out my recent stars
 
+- [shimohq/chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation) - 中国程序员容易发音错误的单词 (today)
 - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss. (3 days ago)
 - [imuncle/live2d](https://github.com/imuncle/live2d) - live2d模型收集&#43;展示，可直接用于静态网站 (4 days ago)
 - [summerscar/live2dDemo](https://github.com/summerscar/live2dDemo) - live2dDemo http://summerscar.me/live2dDemo/ (4 days ago)
 - [mapstruct/mapstruct](https://github.com/mapstruct/mapstruct) - An annotation processor for generating type-safe bean mappers (4 days ago)
-- [CS-Masters-Application/CS-Masters-Application.github.io](https://github.com/CS-Masters-Application/CS-Masters-Application.github.io) - 计算机硕士出国申请 | CS Masters Application (1 week ago)
 
 
 
