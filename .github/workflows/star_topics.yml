@@ -92,7 +92,7 @@ jobs:
       - name: Favorites characters  
         uses: lowlighter/metrics@latest
         with:
-          user: tiandankanfeng
+          user: XVelpro
           plugin_anilist_user: Velpro
           filename: metrics.plugin.anilist.characters.svg
           token: NOT_NEEDED
