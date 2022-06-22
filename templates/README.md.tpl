@@ -49,3 +49,4 @@ _Nothing could affect you, Recognize yourself, and do it!_
 
 ![Metrics](/metrics.plugin.achievements.svg)
 ![Metrics](/metrics.plugin.anilist.characters.svg)
+![Metrics](/metrics.plugin.anilist.svg)
