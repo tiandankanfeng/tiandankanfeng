@@ -37,11 +37,11 @@ _Nothing could affect you, Recognize yourself, and do it!_
 
 #### ⭐ Check out my recent stars
 
-- [cornelk/hashmap](https://github.com/cornelk/hashmap) - A Golang lock-free thread-safe HashMap optimized for fastest read access. (today)
-- [apache/groovy](https://github.com/apache/groovy) - Apache Groovy: A powerful multi-faceted programming language for the JVM platform (today)
-- [openjdk/crac](https://github.com/openjdk/crac) - https://openjdk.java.net/projects/crac (1 day ago)
-- [coderQuad/New-Grad-Positions-2023](https://github.com/coderQuad/New-Grad-Positions-2023) - A collection of New Grad full time roles in SWE, Quant, and PM. (2 days ago)
-- [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file. (5 days ago)
+- [cornelk/hashmap](https://github.com/cornelk/hashmap) - A Golang lock-free thread-safe HashMap optimized for fastest read access. (1 day ago)
+- [apache/groovy](https://github.com/apache/groovy) - Apache Groovy: A powerful multi-faceted programming language for the JVM platform (1 day ago)
+- [openjdk/crac](https://github.com/openjdk/crac) - https://openjdk.java.net/projects/crac (2 days ago)
+- [coderQuad/New-Grad-Positions-2023](https://github.com/coderQuad/New-Grad-Positions-2023) - A collection of New Grad full time roles in SWE, Quant, and PM. (3 days ago)
+- [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file. (6 days ago)
 
 
 
