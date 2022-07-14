@@ -38,11 +38,11 @@ _Nothing could affect you, Recognize yourself, and do it!_
 
 #### ⭐ Check out my recent stars
 
+- [alibaba/COLA](https://github.com/alibaba/COLA) - 🥤 COLA: Clean Object-oriented &amp; Layered Architecture (today)
 - [batnoter/batnoter](https://github.com/batnoter/batnoter) - An open source, markdown-based, self-hosted note taking webapp. (today)
 - [WeNeedHome/SummaryOfLoanSuspension](https://github.com/WeNeedHome/SummaryOfLoanSuspension) - 全国各省市停贷通知汇总 (1 day ago)
 - [yichengchen/clashX](https://github.com/yichengchen/clashX) -  (2 days ago)
 - [heynickc/awesome-ddd](https://github.com/heynickc/awesome-ddd) - A curated list of Domain-Driven Design (DDD), Command Query Responsibility Segregation (CQRS), Event Sourcing, and Event Storming resources (2 days ago)
-- [goraft/raft](https://github.com/goraft/raft) - UNMAINTAINED: A Go implementation of the Raft distributed consensus protocol. (2 days ago)
 
 
 
