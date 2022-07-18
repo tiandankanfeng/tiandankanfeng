@@ -38,11 +38,11 @@ _Nothing could affect you, Recognize yourself, and do it!_
 
 #### ⭐ Check out my recent stars
 
+- [YangZhengkuan/auto.transform.encoding](https://github.com/YangZhengkuan/auto.transform.encoding) - JetBrains 自动转码插件 (today)
+- [rustlang-cn/Rustt](https://github.com/rustlang-cn/Rustt) - 🥇RustCn 翻译计划，代号 Rustt。这里有国内最优质、最实时的 Rust 技术文章、学习资料和新闻资讯，欢迎大家 🌟 订阅。 (today)
 - [anlingyi/xechat-idea](https://github.com/anlingyi/xechat-idea) - 让你能够在IDEA里实现聊天、下棋、斗地主！ (4 days ago)
 - [alibaba/COLA](https://github.com/alibaba/COLA) - 🥤 COLA: Clean Object-oriented &amp; Layered Architecture (4 days ago)
 - [batnoter/batnoter](https://github.com/batnoter/batnoter) - An open source, markdown-based, self-hosted note taking webapp. (4 days ago)
-- [WeNeedHome/SummaryOfLoanSuspension](https://github.com/WeNeedHome/SummaryOfLoanSuspension) - 全国各省市停贷通知汇总 (5 days ago)
-- [yichengchen/clashX](https://github.com/yichengchen/clashX) -  (6 days ago)
 
 
 
