@@ -38,11 +38,11 @@ _Nothing could affect you, Recognize yourself, and do it!_
 
 #### ⭐ Check out my recent stars
 
+- [gautamkrishnar/blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) - Show your latest blog posts from any sources or StackOverflow activity or Youtube Videos on your GitHub profile/project readme automatically using the RSS feed (today)
+- [eryajf/learning-weekly](https://github.com/eryajf/learning-weekly) - 📝 周刊内容以运维技术和Go语言周边为主，辅以GitHub上优秀项目或他人优秀经验。走过路过，如觉不错，麻烦点个赞👆🌟 (today)
 - [xmrth/xmrth](https://github.com/xmrth/xmrth) - xmrth网址发布页 (1 day ago)
 - [Hammerspoon/hammerspoon](https://github.com/Hammerspoon/hammerspoon) - Staggeringly powerful macOS desktop automation with Lua (1 day ago)
 - [soulmachine/system-design](https://github.com/soulmachine/system-design) - 系统设计面试题精选 (1 day ago)
-- [dreamhead/patterns-of-distributed-systems](https://github.com/dreamhead/patterns-of-distributed-systems) - 《Patterns of Distributed Systems》中文版 (2 days ago)
-- [sunym1993/flash-linux0.11-talk](https://github.com/sunym1993/flash-linux0.11-talk) - 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码 (2 days ago)
 
 
 
@@ -58,6 +58,10 @@ _Nothing could affect you, Recognize yourself, and do it!_
 - [一致性 hash](https://liangye-xo.xyz/?p=746) (1 month ago)
 - [缓存与数据库的双写一致性：](https://liangye-xo.xyz/?p=744) (1 month ago)
 - [hippo4j](https://liangye-xo.xyz/?p=743) (1 month ago)
+
+# Blog posts
+
+
 
 ![Metrics](/metrics.plugin.achievements.svg)
 ![Metrics](/metrics.plugin.anilist.characters.svg)
