@@ -60,6 +60,8 @@ _Nothing could affect you, Recognize yourself, and do it!_
 - [hippo4j](https://liangye-xo.xyz/?p=743) (1 month ago)
 
 # Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 
 
