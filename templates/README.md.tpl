@@ -48,6 +48,10 @@ _Nothing could affect you, Recognize yourself, and do it!_
 - [缓存与数据库的双写一致性：](https://liangye-xo.xyz/?p=744) (1 month ago)
 - [hippo4j](https://liangye-xo.xyz/?p=743) (1 month ago)
 
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ![Metrics](/metrics.plugin.achievements.svg)
 ![Metrics](/metrics.plugin.anilist.characters.svg)
 ![Metrics](/metrics.plugin.anilist.svg)
