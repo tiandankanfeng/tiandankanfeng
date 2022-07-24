@@ -40,12 +40,6 @@ _Nothing could affect you, Recognize yourself, and do it!_
 {{- end}}
 
 #### 📜 Check out my recent blog posts
-- [spring-statemachine](https://liangye-xo.xyz/?p=750) (1 month ago)
-- [spring-retry](https://liangye-xo.xyz/?p=747) (1 month ago)
-- [一致性 hash](https://liangye-xo.xyz/?p=746) (1 month ago)
-- [缓存与数据库的双写一致性：](https://liangye-xo.xyz/?p=744) (1 month ago)
-- [hippo4j](https://liangye-xo.xyz/?p=743) (1 month ago)
-
 <!-- BLOG-POST-LIST:START -->
 - [究竟是怎样的结局，才配得上这一路的颠沛流离？](https://liangye-xo.xyz/?p=863)
 - [Foregin Magazine 02 - Defence delivery drones Incoming!](https://liangye-xo.xyz/?p=830)
