@@ -15,41 +15,11 @@ _Nothing could affect you, Recognize yourself, and do it!_
 <!-- ![Metrics](/metrics.plugin.isocalendar.fullyear.svg) -->
 
 <!-- BLOG-POST-LIST:START -->
-
-<!--#### 👷 Check out what I'm currently working on -->
-<!-- {{range recentContributions 5}} -->
-<!-- - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}}) -->
-<!-- {{- end}} -->
-
-#### 🌱 Check out my recent projects
-{{range recentRepos 5}}
-- [{{.Name}}]({{.URL}}) - {{.Description}}
-{{- end}}
-
-#### ⭐ Check out my recent stars
-{{range recentStars 5}}
-- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .StarredAt}})
-{{- end}}
-
-<!-- #### 👯 Check out my recent followers -->
-<!-- {{range followers 5}} -->
-<!-- - [{{.Login}}]({{.URL}}) -->
-<!-- {{- end}} -->
-
-#### 🔨 Check out my recent pull requests
-{{range recentPullRequests 5}}
-- [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
-{{- end}}
-
-#### 📜 Check out my recent blog posts
-- [spring-statemachine](https://liangye-xo.xyz/?p=750) (1 month ago)
-- [spring-retry](https://liangye-xo.xyz/?p=747) (1 month ago)
-- [一致性 hash](https://liangye-xo.xyz/?p=746) (1 month ago)
-- [缓存与数据库的双写一致性：](https://liangye-xo.xyz/?p=744) (1 month ago)
-- [hippo4j](https://liangye-xo.xyz/?p=743) (1 month ago)
-
-# Blog posts
-<!-- BLOG-POST-LIST:START -->
+- [究竟是怎样的结局，才配得上这一路的颠沛流离？](https://liangye-xo.xyz/?p=863)
+- [Foregin Magazine 02 - Defence delivery drones Incoming!](https://liangye-xo.xyz/?p=830)
+- [2022.07.20 期待已久！](https://liangye-xo.xyz/?p=826)
+- [Foregin magazine 01 - There&#39;s no &#39;gay&#39; gene](https://liangye-xo.xyz/?p=800)
+- [Paper Share - GFS](https://liangye-xo.xyz/?p=774)
 <!-- BLOG-POST-LIST:END -->
 
 ![Metrics](/metrics.plugin.achievements.svg)
