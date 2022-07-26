@@ -111,7 +111,7 @@ jobs:
           plugin_anilist_user: Velpro
           plugin_anilist_medias: anime
           plugin_anilist_sections: favorites, watching
-          plugin_anilist_limit: 5
+          plugin_anilist_limit: 8
 
 
 
