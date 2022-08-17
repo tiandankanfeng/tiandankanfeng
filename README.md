@@ -58,10 +58,9 @@ _Nothing could affect you, Recognize yourself, and do it!_
 - 🚦 [2022.07.20 期待已久！](https://liangye-xo.xyz/?p=826) 
 
 
+#### 👯 Check out my recent followers
 
-
-
-
+- [vivekweb2013](https://github.com/vivekweb2013)
 
 ![Metrics](/metrics.plugin.achievements.svg)
 ![Metrics](/metrics.plugin.anilist.characters.svg)
