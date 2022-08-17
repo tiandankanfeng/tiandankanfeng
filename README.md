@@ -36,16 +36,11 @@ _Nothing could affect you, Recognize yourself, and do it!_
 
 #### ⭐ Check out my recent stars
 
+- [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design) - Learn how to design systems at scale and prepare for system design interviews (today)
 - [alibaba/transmittable-thread-local](https://github.com/alibaba/transmittable-thread-local) - 📌 TransmittableThreadLocal (TTL), the missing Java™ std lib(simple &amp; 0-dependency) for framework/middleware, provide an enhanced InheritableThreadLocal that transmits values between threads even using thread pooling components. (3 days ago)
 - [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer&#39;s guide about how to cook at home (Chinese only). (1 week ago)
 - [eryajf/read-list](https://github.com/eryajf/read-list) - 📖 优质内容订阅，阅读方为根本 (1 week ago)
 - [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:  (1 week ago)
-- [tw93/MiaoYan](https://github.com/tw93/MiaoYan) - ⛷ Lightweight Markdown app to help you write great sentences. ⛷ 轻灵的 Markdown 笔记本伴你写出妙言 (1 week ago)
-
-
-
-
-
 
 #### 🔨 Check out my recent pull requests
 
@@ -61,6 +56,11 @@ _Nothing could affect you, Recognize yourself, and do it!_
 - 👺 [Foregin Magazine 02 - Defence delivery drones Incoming!](https://liangye-xo.xyz/?p=830) 
 
 - 🚦 [2022.07.20 期待已久！](https://liangye-xo.xyz/?p=826) 
+
+
+
+
+
 
 
 ![Metrics](/metrics.plugin.achievements.svg)
