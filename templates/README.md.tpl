@@ -47,10 +47,10 @@ _Nothing could affect you, Recognize yourself, and do it!_
 - 🚦 [2022.07.20 期待已久！](https://liangye-xo.xyz/?p=826) 
 <!-- BLOG-POST-LIST:END -->
 
-<!-- #### 👯 Check out my recent followers -->
-<!-- {{range followers 5}} -->
-<!-- - [{{.Login}}]({{.URL}}) -->
-<!-- {{- end}} -->
+<!-- #### 👯 Check out my recent followers
+{{range followers 5}}
+- [{{.Login}}]({{.URL}})
+{{- end}}
 
 ![Metrics](/metrics.plugin.achievements.svg)
 ![Metrics](/metrics.plugin.anilist.characters.svg)
