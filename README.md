@@ -28,19 +28,19 @@ _Nothing could affect you, Recognize yourself, and do it!_
 
 #### 🌱 Check out my recent projects
 
+- [tiandankanfeng/Cource](https://github.com/tiandankanfeng/Cource) - Share some wonderful cources which I&#39;m learning.
 - [tiandankanfeng/Best-Storage-Service-Implementation](https://github.com/tiandankanfeng/Best-Storage-Service-Implementation) - 
 - [tiandankanfeng/Velpro.github.io](https://github.com/tiandankanfeng/Velpro.github.io) - 
 - [tiandankanfeng/paper-share](https://github.com/tiandankanfeng/paper-share) - store some amazing papers which i have read.
 - [tiandankanfeng/Go-Simple-Rpc-Examples](https://github.com/tiandankanfeng/Go-Simple-Rpc-Examples) - 
-- [tiandankanfeng/cloud-mall](https://github.com/tiandankanfeng/cloud-mall) - 毕业设计，基于用户肖像的电商系统
 
 #### ⭐ Check out my recent stars
 
+- [sirius1024/iterm2-with-oh-my-zsh](https://github.com/sirius1024/iterm2-with-oh-my-zsh) - iTerm2 &#43; Oh My Zsh 打造舒适终端体验 (today)
+- [the1812/Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved) - 强大的哔哩哔哩增强脚本 (today)
+- [PantsuDango/Dango-Translator](https://github.com/PantsuDango/Dango-Translator) - 团子翻译器 —— 个人兴趣制作的一款基于OCR技术的翻译器 (today)
 - [raryelcostasouza/pyTranscriber](https://github.com/raryelcostasouza/pyTranscriber) - pyTranscriber can be used to generate automatic transcription / automatic subtitles for audio/video files through a friendly graphical user interface. (today)
 - [alibaba/jetcache](https://github.com/alibaba/jetcache) - JetCache is a Java cache framework. (2 days ago)
-- [akka/akka](https://github.com/akka/akka) - Build highly concurrent, distributed, and resilient message-driven applications on the JVM (4 days ago)
-- [com-lihaoyi/Ammonite](https://github.com/com-lihaoyi/Ammonite) - Scala Scripting (4 days ago)
-- [PsiACE/databend-internals](https://github.com/PsiACE/databend-internals) - Databend 内幕大揭秘 (6 days ago)
 
 #### 🔨 Check out my recent pull requests
 
