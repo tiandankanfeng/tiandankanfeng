@@ -36,11 +36,11 @@ _Nothing could affect you, Recognize yourself, and do it!_
 
 #### ⭐ Check out my recent stars
 
+- [PKUFlyingPig/CS186](https://github.com/PKUFlyingPig/CS186) - Learning materials for UCB CS186: Introduction to Database System (today)
 - [talkgo/night](https://github.com/talkgo/night) - Weekly Go Online Meetup via Bilibili｜Go 夜读｜通过 bilibili 在线直播的方式分享 Go 相关的技术话题，每天大家在微信/telegram/Slack 上及时沟通交流编程技术话题。 (1 day ago)
 - [sirius1024/iterm2-with-oh-my-zsh](https://github.com/sirius1024/iterm2-with-oh-my-zsh) - iTerm2 &#43; Oh My Zsh 打造舒适终端体验 (1 day ago)
 - [the1812/Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved) - 强大的哔哩哔哩增强脚本 (1 day ago)
 - [PantsuDango/Dango-Translator](https://github.com/PantsuDango/Dango-Translator) - 团子翻译器 —— 个人兴趣制作的一款基于OCR技术的翻译器 (1 day ago)
-- [raryelcostasouza/pyTranscriber](https://github.com/raryelcostasouza/pyTranscriber) - pyTranscriber can be used to generate automatic transcription / automatic subtitles for audio/video files through a friendly graphical user interface. (1 day ago)
 
 #### 🔨 Check out my recent pull requests
 
