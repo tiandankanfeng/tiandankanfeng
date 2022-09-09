@@ -36,7 +36,7 @@ _Nothing could affect you, Recognize yourself, and do it!_
 
 #### ⭐ Check out my recent stars
 
-- [smart-doc-group/smart-doc](https://github.com/smart-doc-group/smart-doc) - Smart-doc is a java restful api document generation tool. Smart-doc is based on interface source code analysis to generate interface documentation, completely zero-injection. (4 days ago)
+- [smart-doc-group/smart-doc](https://github.com/smart-doc-group/smart-doc) - Smart-doc is a java restful api document generation tool. Smart-doc is based on interface source code analysis to generate interface documentation, completely zero-injection. (5 days ago)
 - [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET and TFTP. libcurl offers a myriad of powerful features (1 week ago)
 - [PKUFlyingPig/CS186](https://github.com/PKUFlyingPig/CS186) - Learning materials for UCB CS186: Introduction to Database System (1 week ago)
 - [talkgo/night](https://github.com/talkgo/night) - Weekly Go Online Meetup via Bilibili｜Go 夜读｜通过 bilibili 在线直播的方式分享 Go 相关的技术话题，每天大家在微信/telegram/Slack 上及时沟通交流编程技术话题。 (1 week ago)
