@@ -36,11 +36,11 @@ _Nothing could affect you, Recognize yourself, and do it!_
 
 #### ⭐ Check out my recent stars
 
+- [ReactiveX/RxNetty](https://github.com/ReactiveX/RxNetty) - Reactive Extension (Rx) Adaptor for Netty (today)
 - [smart-doc-group/smart-doc](https://github.com/smart-doc-group/smart-doc) - Smart-doc is a java restful api document generation tool. Smart-doc is based on interface source code analysis to generate interface documentation, completely zero-injection. (2 weeks ago)
 - [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET and TFTP. libcurl offers a myriad of powerful features (2 weeks ago)
 - [PKUFlyingPig/CS186](https://github.com/PKUFlyingPig/CS186) - Learning materials for UCB CS186: Introduction to Database System (3 weeks ago)
 - [talkgo/night](https://github.com/talkgo/night) - Weekly Go Online Meetup via Bilibili｜Go 夜读｜通过 bilibili 在线直播的方式分享 Go 相关的技术话题，每天大家在微信/telegram/Slack 上及时沟通交流编程技术话题。 (3 weeks ago)
-- [sirius1024/iterm2-with-oh-my-zsh](https://github.com/sirius1024/iterm2-with-oh-my-zsh) - iTerm2 &#43; Oh My Zsh 打造舒适终端体验 (3 weeks ago)
 
 #### 🔨 Check out my recent pull requests
 
