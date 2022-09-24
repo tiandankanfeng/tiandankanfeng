@@ -36,15 +36,15 @@ _Nothing could affect you, Recognize yourself, and do it!_
 
 #### 📜 Check out my recent blog posts
 <!-- BLOG-POST-LIST:START -->
-- 🦒 [SQL](https://liangye-xo.xyz/?p=882) 
+- 🦒 [Disk, Buffer, Files（一）](https://liangye-xo.xyz/?p=886) 
 
-- 🐲 [09-02 九月新开张](https://liangye-xo.xyz/?p=880) 
+- 🐲 [SQL](https://liangye-xo.xyz/?p=882) 
 
-- 💡 [大事、小事，梦寐以求的生活](https://liangye-xo.xyz/?p=877) 
+- 💡 [09-02 九月新开张](https://liangye-xo.xyz/?p=880) 
 
-- 👺 [七夕的今天，说点什么](https://liangye-xo.xyz/?p=874) 
+- 👺 [大事、小事，梦寐以求的生活](https://liangye-xo.xyz/?p=877) 
 
-- 🚦 [DDIA-Chapter1 Summary](https://liangye-xo.xyz/?p=868) 
+- 🚦 [七夕的今天，说点什么](https://liangye-xo.xyz/?p=874) 
 <!-- BLOG-POST-LIST:END -->
 
 #### 👯 Check out my recent followers
