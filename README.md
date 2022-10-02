@@ -36,11 +36,11 @@ _Nothing could affect you, Recognize yourself, and do it!_
 
 #### ⭐ Check out my recent stars
 
-- [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - 🔮 Seamlessly visualize your JSON data instantly into graphs; paste, import or fetch! (1 day ago)
-- [pentaho/mondrian](https://github.com/pentaho/mondrian) - Mondrian is an Online Analytical Processing (OLAP) server that enables business users to analyze large quantities of data in real-time. (2 days ago)
-- [rsocket/rsocket-java](https://github.com/rsocket/rsocket-java) - Java implementation of RSocket (6 days ago)
+- [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - 🔮 Seamlessly visualize your JSON data instantly into graphs; paste, import or fetch! (2 days ago)
+- [pentaho/mondrian](https://github.com/pentaho/mondrian) - Mondrian is an Online Analytical Processing (OLAP) server that enables business users to analyze large quantities of data in real-time. (3 days ago)
+- [rsocket/rsocket-java](https://github.com/rsocket/rsocket-java) - Java implementation of RSocket (1 week ago)
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software (1 week ago)
-- [jasync-sql/jasync-sql](https://github.com/jasync-sql/jasync-sql) - Java &amp; Kotlin Async DataBase Driver for MySQL and PostgreSQL written in Kotlin (1 week ago)
+- [jasync-sql/jasync-sql](https://github.com/jasync-sql/jasync-sql) - Java &amp; Kotlin Async DataBase Driver for MySQL and PostgreSQL written in Kotlin (2 weeks ago)
 
 #### 🔨 Check out my recent pull requests
 
