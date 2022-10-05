@@ -36,9 +36,9 @@ _Nothing could affect you, Recognize yourself, and do it!_
 
 #### ⭐ Check out my recent stars
 
-- [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather (today)
-- [smallrye/jandex](https://github.com/smallrye/jandex) - Java Annotation Indexer (1 day ago)
-- [pentaho/mondrian](https://github.com/pentaho/mondrian) - Mondrian is an Online Analytical Processing (OLAP) server that enables business users to analyze large quantities of data in real-time. (5 days ago)
+- [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather (1 day ago)
+- [smallrye/jandex](https://github.com/smallrye/jandex) - Java Annotation Indexer (2 days ago)
+- [pentaho/mondrian](https://github.com/pentaho/mondrian) - Mondrian is an Online Analytical Processing (OLAP) server that enables business users to analyze large quantities of data in real-time. (6 days ago)
 - [rsocket/rsocket-java](https://github.com/rsocket/rsocket-java) - Java implementation of RSocket (1 week ago)
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software (1 week ago)
 
