@@ -36,11 +36,11 @@ _Nothing could affect you, Recognize yourself, and do it!_
 
 #### ⭐ Check out my recent stars
 
+- [apache/skywalking](https://github.com/apache/skywalking) - APM, Application Performance Monitoring System (today)
 - [SkyAPM/document-cn-translation-of-skywalking](https://github.com/SkyAPM/document-cn-translation-of-skywalking) - The CN translation version of Apache SkyWalking document (today)
 - [electerm/electerm](https://github.com/electerm/electerm) - 📻Terminal/ssh/sftp client(linux, mac, win) (1 day ago)
 - [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather (2 days ago)
 - [smallrye/jandex](https://github.com/smallrye/jandex) - Java Annotation Indexer (3 days ago)
-- [pentaho/mondrian](https://github.com/pentaho/mondrian) - Mondrian is an Online Analytical Processing (OLAP) server that enables business users to analyze large quantities of data in real-time. (1 week ago)
 
 #### 🔨 Check out my recent pull requests
 
