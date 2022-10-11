@@ -36,11 +36,11 @@ _Nothing could affect you, Recognize yourself, and do it!_
 
 #### ⭐ Check out my recent stars
 
+- [apache/groovy](https://github.com/apache/groovy) - Apache Groovy: A powerful multi-faceted programming language for the JVM platform (today)
 - [apache/skywalking](https://github.com/apache/skywalking) - APM, Application Performance Monitoring System (5 days ago)
 - [SkyAPM/document-cn-translation-of-skywalking](https://github.com/SkyAPM/document-cn-translation-of-skywalking) - The CN translation version of Apache SkyWalking document (5 days ago)
 - [electerm/electerm](https://github.com/electerm/electerm) - 📻Terminal/ssh/sftp client(linux, mac, win) (6 days ago)
 - [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather (1 week ago)
-- [smallrye/jandex](https://github.com/smallrye/jandex) - Java Annotation Indexer (1 week ago)
 
 #### 🔨 Check out my recent pull requests
 
