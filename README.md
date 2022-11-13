@@ -60,6 +60,7 @@ _Nothing could affect you, Recognize yourself, and do it!_
 
 #### 👯 Check out my recent followers
 
+- [pinhe91](https://github.com/pinhe91)
 - [david-kariuki](https://github.com/david-kariuki)
 - [MosFazli](https://github.com/MosFazli)
 - [vivekweb2013](https://github.com/vivekweb2013)
