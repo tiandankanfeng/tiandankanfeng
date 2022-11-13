@@ -55,3 +55,5 @@ _Nothing could affect you, Recognize yourself, and do it!_
 ![Metrics](/metrics.plugin.achievements.svg)
 ![Metrics](/metrics.plugin.anilist.characters.svg)
 ![Metrics](/metrics.plugin.anilist.svg)
+
+[![Netease recently played](https://netease-recent-profile.vercel.app/?id=409050718&type=0)](https://netease-recent-profile.vercel.app/?id=409050718&type=0)
