@@ -44,6 +44,7 @@ _Nothing could affect you, Recognize yourself, and do it!_
 
 #### 🔨 Check out my recent pull requests
 
+- [feat: use ConcurrentHashMap instead of HashMap with Sync(as HashTable…](https://github.com/alibaba/QLExpress/pull/221) on [alibaba/QLExpress](https://github.com/alibaba/QLExpress) (today)
 
 #### 📜 Check out my recent blog posts
 
