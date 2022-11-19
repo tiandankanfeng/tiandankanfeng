@@ -30,17 +30,17 @@ _Nothing could affect you, Recognize yourself, and do it!_
 
 - [tiandankanfeng/Cource](https://github.com/tiandankanfeng/Cource) - Share some wonderful cources which I&#39;m learning.
 - [tiandankanfeng/Best-Storage-Service-Implementation](https://github.com/tiandankanfeng/Best-Storage-Service-Implementation) - 
-- [tiandankanfeng/Velpro.github.io](https://github.com/tiandankanfeng/Velpro.github.io) - 
+- [tiandankanfeng/tiandankanfeng.github.io](https://github.com/tiandankanfeng/tiandankanfeng.github.io) - 
 - [tiandankanfeng/paper-share](https://github.com/tiandankanfeng/paper-share) - store some amazing papers which i have read.
 - [tiandankanfeng/Go-Simple-Rpc-Examples](https://github.com/tiandankanfeng/Go-Simple-Rpc-Examples) - 
 
 #### ⭐ Check out my recent stars
 
+- [fluid-dev/hexo-theme-fluid](https://github.com/fluid-dev/hexo-theme-fluid) - :ocean: 一款 Material Design 风格的 Hexo 主题 / An elegant Material-Design theme for Hexo (today)
 - [withastro/astro](https://github.com/withastro/astro) - Build faster websites with Astro&#39;s next-gen island architecture 🏝✨ (4 days ago)
 - [zonemeen/netease-recent-profile](https://github.com/zonemeen/netease-recent-profile) - 🎧 将你的网易云音乐听歌记录生成一张可配置svg卡片 (6 days ago)
 - [tailwindcomponents/gradient-generator](https://github.com/tailwindcomponents/gradient-generator) - Tailwind Gradient Generator Build with Vue JS, Vite, and Tailwind CSS (1 week ago)
 - [rfyiamcool/share_ppt](https://github.com/rfyiamcool/share_ppt) - 🚗  我个人曾经做过的技术分享...  (1 week ago)
-- [StarRocks/starrocks](https://github.com/StarRocks/starrocks) - StarRocks is a next-gen sub-second MPP database for full analytics scenarios, including multi-dimensional analytics, real-time analytics and ad-hoc query. (1 week ago)
 
 #### 🔨 Check out my recent pull requests
 
