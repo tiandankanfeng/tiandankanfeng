@@ -1,4 +1,16 @@
-![Header](./github-header-image.png)
+_Hi, I'm here!👋_
+<br>
+_Nothing could affect you, Recognize yourself, and do it!_
+🎓 Just a cs programmer.
+
+💻 Interested in distributed storage system, db storage, cs, middleware, reactive.
+
+🖋 Blog：[liangye-xo.xyz](https://liangye-xo.xyz)
+
+📫 Email: [xvelpro8@gamil.com](mailto:xvelpro8@gamil.com)
+
+💬 Wechat: [click here](https://tiandankanfeng.github.io/about/)
+
 _Hi, I'm here!👋_
 <br>
 _Nothing could affect you, Recognize yourself, and do it!_
