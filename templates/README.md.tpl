@@ -1,6 +1,7 @@
-_Hi, I'm here!👋_
+Hi, I'm here!👋
 <br>
-_Nothing could affect you, Recognize yourself, and do it!_
+Nothing could affect you, Recognize yourself, and do it!
+<br>
 🎓 Just a cs programmer.
 
 💻 Interested in distributed storage system, db storage, cs, middleware, reactive.
@@ -10,10 +11,6 @@ _Nothing could affect you, Recognize yourself, and do it!_
 📫 Email: [xvelpro8@gamil.com](mailto:xvelpro8@gamil.com)
 
 💬 Wechat: [click here](https://tiandankanfeng.github.io/about/)
-
-_Hi, I'm here!👋_
-<br>
-_Nothing could affect you, Recognize yourself, and do it!_
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiandankanfeng&theme=tokyonight&count_private=true&show_icons=true&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiandankanfeng&theme=tokyonight&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) -->
