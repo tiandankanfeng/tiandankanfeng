@@ -45,11 +45,11 @@ Nothing could affect you, Recognize yourself, and do it!
 
 #### ⭐ Check out my recent stars
 
+- [graphql-java/graphql-java](https://github.com/graphql-java/graphql-java) - GraphQL Java implementation (today)
 - [fluid-dev/hexo-theme-fluid](https://github.com/fluid-dev/hexo-theme-fluid) - :ocean: 一款 Material Design 风格的 Hexo 主题 / An elegant Material-Design theme for Hexo (2 days ago)
 - [withastro/astro](https://github.com/withastro/astro) - Build faster websites with Astro&#39;s next-gen island architecture 🏝✨ (6 days ago)
 - [zonemeen/netease-recent-profile](https://github.com/zonemeen/netease-recent-profile) - 🎧 将你的网易云音乐听歌记录生成一张可配置svg卡片 (1 week ago)
 - [tailwindcomponents/gradient-generator](https://github.com/tailwindcomponents/gradient-generator) - Tailwind Gradient Generator Build with Vue JS, Vite, and Tailwind CSS (1 week ago)
-- [rfyiamcool/share_ppt](https://github.com/rfyiamcool/share_ppt) - 🚗  我个人曾经做过的技术分享...  (1 week ago)
 
 #### 🔨 Check out my recent pull requests
 
