@@ -45,15 +45,15 @@ Nothing could affect you, Recognize yourself, and do it!
 
 #### ⭐ Check out my recent stars
 
-- [graphql-java/graphql-java](https://github.com/graphql-java/graphql-java) - GraphQL Java implementation (today)
-- [fluid-dev/hexo-theme-fluid](https://github.com/fluid-dev/hexo-theme-fluid) - :ocean: 一款 Material Design 风格的 Hexo 主题 / An elegant Material-Design theme for Hexo (2 days ago)
-- [withastro/astro](https://github.com/withastro/astro) - Build faster websites with Astro&#39;s next-gen island architecture 🏝✨ (6 days ago)
-- [zonemeen/netease-recent-profile](https://github.com/zonemeen/netease-recent-profile) - 🎧 将你的网易云音乐听歌记录生成一张可配置svg卡片 (1 week ago)
-- [tailwindcomponents/gradient-generator](https://github.com/tailwindcomponents/gradient-generator) - Tailwind Gradient Generator Build with Vue JS, Vite, and Tailwind CSS (1 week ago)
+- [PKUFlyingPig/CS186](https://github.com/PKUFlyingPig/CS186) - Learning materials for UCB CS186: Introduction to Database System (1 day ago)
+- [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai) - An open-source Chinese font derived from Fontworks&#39; Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   (1 day ago)
+- [graphql-java/graphql-java](https://github.com/graphql-java/graphql-java) - GraphQL Java implementation (1 day ago)
+- [fluid-dev/hexo-theme-fluid](https://github.com/fluid-dev/hexo-theme-fluid) - :ocean: 一款 Material Design 风格的 Hexo 主题 / An elegant Material-Design theme for Hexo (3 days ago)
+- [withastro/astro](https://github.com/withastro/astro) - Build faster websites with Astro&#39;s next-gen island architecture 🏝✨ (1 week ago)
 
 #### 🔨 Check out my recent pull requests
 
-- [feat: use ConcurrentHashMap instead of HashMap with Sync(as HashTable…](https://github.com/alibaba/QLExpress/pull/221) on [alibaba/QLExpress](https://github.com/alibaba/QLExpress) (5 days ago)
+- [feat: use ConcurrentHashMap instead of HashMap with Sync(as HashTable…](https://github.com/alibaba/QLExpress/pull/221) on [alibaba/QLExpress](https://github.com/alibaba/QLExpress) (6 days ago)
 
 #### 📜 Check out my recent blog posts
 
