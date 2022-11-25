@@ -21,11 +21,11 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="458.7366850503296" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="458.7366850503296" y="0" width="0.5848166165018985" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="459.32150166683147" y="0" width="0.41237767332153413" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="459.733879340153" y="0" width="0.21611251203217607" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="459.9499918521852" y="0" width="0.05000814781481586" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="458.68796315493483" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="458.68796315493483" y="0" width="0.5847545038020799" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="459.27271765873695" y="0" width="0.4123338751634241" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="459.6850515339004" y="0" width="0.26494562959266926" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="459.9499971634931" y="0" width="0.050002836506986954" height="8" fill="#3572A5"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -38,7 +38,7 @@
                             </div>
                             <small>
                                 <div>214 MB</div>
-                                <div>99.73%</div>
+                                <div>99.71%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -87,8 +87,8 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>101 kB</div>
-                                <div>0.05%</div>
+                                <div>124 kB</div>
+                                <div>0.06%</div>
                             </small>
                         </div>
                     </section>
