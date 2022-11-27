@@ -45,11 +45,11 @@ Nothing could affect you, Recognize yourself, and do it!
 
 #### ⭐ Check out my recent stars
 
+- [qqxx6661/log-record](https://github.com/qqxx6661/log-record) - 使用注解优雅的记录系统日志，操作日志等，支持SpEL表达式，自定义上下文，自定义函数，实体类DIFF。并支持将日志消息传递至消息队列。 (today)
 - [pypa/pip](https://github.com/pypa/pip) - The Python package installer (4 days ago)
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works (4 days ago)
 - [SANYIMOE/VPN-free](https://github.com/SANYIMOE/VPN-free) - 玉桂家园免费VPN-科学上网，免费节点，白嫖节点，免费vpn，免费v2ray，免费Trojan，免费SSR，每日更新，Free VPN，Free v2ray，Free Trojan，Free SSR，Update daily (5 days ago)
 - [PKUFlyingPig/CS186](https://github.com/PKUFlyingPig/CS186) - Learning materials for UCB CS186: Introduction to Database System (6 days ago)
-- [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai) - An open-source Chinese font derived from Fontworks&#39; Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   (6 days ago)
 
 #### 🔨 Check out my recent pull requests
 
