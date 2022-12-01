@@ -45,11 +45,11 @@ Nothing could affect you, Recognize yourself, and do it!
 
 #### ⭐ Check out my recent stars
 
-- [mp911de/microbenchmark-runner](https://github.com/mp911de/microbenchmark-runner) - JUnit extensions to launch JMH benchmarks from your IDE during development (today)
-- [PKUFlyingPig/Princeton-Algorithm](https://github.com/PKUFlyingPig/Princeton-Algorithm) -  (2 days ago)
-- [open-telemetry/opentelemetry-java-instrumentation](https://github.com/open-telemetry/opentelemetry-java-instrumentation) - OpenTelemetry auto-instrumentation and instrumentation libraries for Java (2 days ago)
-- [DCtheTall/mit6.006](https://github.com/DCtheTall/mit6.006) - Implementations for algorithms from lectures from MIT 6.006 (2 days ago)
-- [qqxx6661/log-record](https://github.com/qqxx6661/log-record) - 使用注解优雅的记录系统日志，操作日志等，支持SpEL表达式，自定义上下文，自定义函数，实体类DIFF。并支持将日志消息传递至消息队列。 (3 days ago)
+- [mp911de/microbenchmark-runner](https://github.com/mp911de/microbenchmark-runner) - JUnit extensions to launch JMH benchmarks from your IDE during development (1 day ago)
+- [PKUFlyingPig/Princeton-Algorithm](https://github.com/PKUFlyingPig/Princeton-Algorithm) -  (3 days ago)
+- [open-telemetry/opentelemetry-java-instrumentation](https://github.com/open-telemetry/opentelemetry-java-instrumentation) - OpenTelemetry auto-instrumentation and instrumentation libraries for Java (3 days ago)
+- [DCtheTall/mit6.006](https://github.com/DCtheTall/mit6.006) - Implementations for algorithms from lectures from MIT 6.006 (3 days ago)
+- [qqxx6661/log-record](https://github.com/qqxx6661/log-record) - 使用注解优雅的记录系统日志，操作日志等，支持SpEL表达式，自定义上下文，自定义函数，实体类DIFF。并支持将日志消息传递至消息队列。 (4 days ago)
 
 #### 🔨 Check out my recent pull requests
 
