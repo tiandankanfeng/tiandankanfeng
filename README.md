@@ -45,11 +45,11 @@ Nothing could affect you, Recognize yourself, and do it!
 
 #### ⭐ Check out my recent stars
 
+- [niuhuan/jasmine](https://github.com/niuhuan/jasmine) - 一个美观易用的漫画客户端, 同时支持支持 Android / iOS / MacOS / Windows / Linux。 (today)
 - [Myphz/sortvisualizer](https://github.com/Myphz/sortvisualizer) - Sort Visualizer Web App (1 day ago)
 - [mp911de/microbenchmark-runner](https://github.com/mp911de/microbenchmark-runner) - JUnit extensions to launch JMH benchmarks from your IDE during development (2 days ago)
 - [PKUFlyingPig/Princeton-Algorithm](https://github.com/PKUFlyingPig/Princeton-Algorithm) -  (4 days ago)
 - [open-telemetry/opentelemetry-java-instrumentation](https://github.com/open-telemetry/opentelemetry-java-instrumentation) - OpenTelemetry auto-instrumentation and instrumentation libraries for Java (4 days ago)
-- [DCtheTall/mit6.006](https://github.com/DCtheTall/mit6.006) - Implementations for algorithms from lectures from MIT 6.006 (4 days ago)
 
 #### 🔨 Check out my recent pull requests
 
