@@ -45,11 +45,11 @@ Nothing could affect you, Recognize yourself, and do it!
 
 #### ⭐ Check out my recent stars
 
+- [Kaiyiwing/qwerty-learner](https://github.com/Kaiyiwing/qwerty-learner) - 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers (today)
 - [apache/dubbo-rust](https://github.com/apache/dubbo-rust) - Apache Dubbo Rust implementation (1 day ago)
 - [niuhuan/jasmine](https://github.com/niuhuan/jasmine) - 一个美观易用的漫画客户端, 同时支持支持 Android / iOS / MacOS / Windows / Linux。 (4 days ago)
 - [Myphz/sortvisualizer](https://github.com/Myphz/sortvisualizer) - Sort Visualizer Web App (5 days ago)
 - [mp911de/microbenchmark-runner](https://github.com/mp911de/microbenchmark-runner) - JUnit extensions to launch JMH benchmarks from your IDE during development (6 days ago)
-- [PKUFlyingPig/Princeton-Algorithm](https://github.com/PKUFlyingPig/Princeton-Algorithm) -  (1 week ago)
 
 #### 🔨 Check out my recent pull requests
 
