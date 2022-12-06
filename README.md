@@ -45,11 +45,11 @@ Nothing could affect you, Recognize yourself, and do it!
 
 #### ⭐ Check out my recent stars
 
-- [w1770946466/Auto_proxy](https://github.com/w1770946466/Auto_proxy) - 自动获取TG频道代理信息 (1 day ago)
-- [idontlovexjp/health-code-index.bak](https://github.com/idontlovexjp/health-code-index.bak) - 健康码模拟；变态清零，祸国殃民。（备份自 https://github.com/ilovexjp/health-code-index ）新家在此：👇 (2 days ago)
-- [niuhuan/jasmine](https://github.com/niuhuan/jasmine) - 一个美观易用的漫画客户端, 同时支持支持 Android / iOS / MacOS / Windows / Linux。 (3 days ago)
-- [Myphz/sortvisualizer](https://github.com/Myphz/sortvisualizer) - Sort Visualizer Web App (4 days ago)
-- [mp911de/microbenchmark-runner](https://github.com/mp911de/microbenchmark-runner) - JUnit extensions to launch JMH benchmarks from your IDE during development (5 days ago)
+- [apache/dubbo-rust](https://github.com/apache/dubbo-rust) - Apache Dubbo Rust implementation (1 day ago)
+- [niuhuan/jasmine](https://github.com/niuhuan/jasmine) - 一个美观易用的漫画客户端, 同时支持支持 Android / iOS / MacOS / Windows / Linux。 (4 days ago)
+- [Myphz/sortvisualizer](https://github.com/Myphz/sortvisualizer) - Sort Visualizer Web App (5 days ago)
+- [mp911de/microbenchmark-runner](https://github.com/mp911de/microbenchmark-runner) - JUnit extensions to launch JMH benchmarks from your IDE during development (6 days ago)
+- [PKUFlyingPig/Princeton-Algorithm](https://github.com/PKUFlyingPig/Princeton-Algorithm) -  (1 week ago)
 
 #### 🔨 Check out my recent pull requests
 
