@@ -45,11 +45,11 @@ Nothing could affect you, Recognize yourself, and do it!
 
 #### ⭐ Check out my recent stars
 
+- [BeyondDimension/SteamTools](https://github.com/BeyondDimension/SteamTools) - 🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。 (today)
+- [wong2/chat-gpt-google-extension](https://github.com/wong2/chat-gpt-google-extension) - A browser extension to display ChatGPT response alongside Google Search results (today)
 - [the-web-history/css-timeline](https://github.com/the-web-history/css-timeline) - Time line for the CSS evolution and history of tooling, libraries, frameworks and so on (today)
 - [Netflix/dgs-framework](https://github.com/Netflix/dgs-framework) - GraphQL for Java with Spring Boot made easy. (2 days ago)
 - [spring-projects/spring-graphql](https://github.com/spring-projects/spring-graphql) - Spring Integration for GraphQL  (2 days ago)
-- [liady/ChatGPT-pdf](https://github.com/liady/ChatGPT-pdf) - A Chrome extension for downloading your ChatGPT history to PNG, PDF or a sharable link (3 days ago)
-- [niuhuan/pikapika](https://github.com/niuhuan/pikapika) - 美观易用且无广告的漫画和游戏客户端，同时支持MacOS，Windows，Android，iOS。 (5 days ago)
 
 #### 🔨 Check out my recent pull requests
 
