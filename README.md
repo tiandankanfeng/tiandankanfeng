@@ -45,11 +45,11 @@ Nothing could affect you, Recognize yourself, and do it!
 
 #### ⭐ Check out my recent stars
 
-- [BeyondDimension/SteamTools](https://github.com/BeyondDimension/SteamTools) - 🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。 (1 day ago)
-- [wong2/chat-gpt-google-extension](https://github.com/wong2/chat-gpt-google-extension) - A browser extension to display ChatGPT response alongside search engine results (1 day ago)
-- [the-web-history/css-timeline](https://github.com/the-web-history/css-timeline) - Time line for the CSS evolution and history of tooling, libraries, frameworks and so on (1 day ago)
-- [Netflix/dgs-framework](https://github.com/Netflix/dgs-framework) - GraphQL for Java with Spring Boot made easy. (3 days ago)
-- [spring-projects/spring-graphql](https://github.com/spring-projects/spring-graphql) - Spring Integration for GraphQL  (3 days ago)
+- [BeyondDimension/SteamTools](https://github.com/BeyondDimension/SteamTools) - 🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。 (2 days ago)
+- [wong2/chat-gpt-google-extension](https://github.com/wong2/chat-gpt-google-extension) - A browser extension to display ChatGPT response alongside search engine results (2 days ago)
+- [the-web-history/css-timeline](https://github.com/the-web-history/css-timeline) - Time line for the CSS evolution and history of tooling, libraries, frameworks and so on (2 days ago)
+- [Netflix/dgs-framework](https://github.com/Netflix/dgs-framework) - GraphQL for Java with Spring Boot made easy. (4 days ago)
+- [spring-projects/spring-graphql](https://github.com/spring-projects/spring-graphql) - Spring Integration for GraphQL  (4 days ago)
 
 #### 🔨 Check out my recent pull requests
 
