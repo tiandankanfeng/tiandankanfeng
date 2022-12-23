@@ -45,11 +45,11 @@ Nothing could affect you, Recognize yourself, and do it!
 
 #### ⭐ Check out my recent stars
 
+- [vercel/vercel](https://github.com/vercel/vercel) - Develop. Preview. Ship. (today)
 - [forthespada/CampusShame](https://github.com/forthespada/CampusShame) - 互联网仍有记忆！那些曾经在校招过程中毁过口头offer、意向书、三方的公司！纵然人微言轻，也想尽绵薄之力！ (2 days ago)
 - [BeyondDimension/SteamTools](https://github.com/BeyondDimension/SteamTools) - 🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。 (1 week ago)
 - [wong2/chat-gpt-google-extension](https://github.com/wong2/chat-gpt-google-extension) - A browser extension to display ChatGPT response alongside search engine results (1 week ago)
 - [the-web-history/css-timeline](https://github.com/the-web-history/css-timeline) - Time line for the CSS evolution and history of tooling, libraries, frameworks and so on (1 week ago)
-- [Netflix/dgs-framework](https://github.com/Netflix/dgs-framework) - GraphQL for Java with Spring Boot made easy. (2 weeks ago)
 
 #### 🔨 Check out my recent pull requests
 
