@@ -45,8 +45,8 @@ Nothing could affect you, Recognize yourself, and do it!
 
 #### ⭐ Check out my recent stars
 
-- [vercel/vercel](https://github.com/vercel/vercel) - Develop. Preview. Ship. (3 days ago)
-- [forthespada/CampusShame](https://github.com/forthespada/CampusShame) - 互联网仍有记忆！那些曾经在校招过程中毁过口头offer、意向书、三方的公司！纵然人微言轻，也想尽绵薄之力！ (5 days ago)
+- [vercel/vercel](https://github.com/vercel/vercel) - Develop. Preview. Ship. (4 days ago)
+- [forthespada/CampusShame](https://github.com/forthespada/CampusShame) - 互联网仍有记忆！那些曾经在校招过程中毁过口头offer、意向书、三方的公司！纵然人微言轻，也想尽绵薄之力！ (6 days ago)
 - [BeyondDimension/SteamTools](https://github.com/BeyondDimension/SteamTools) - 🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。 (2 weeks ago)
 - [wong2/chat-gpt-google-extension](https://github.com/wong2/chat-gpt-google-extension) - A browser extension to display ChatGPT response alongside search engine results (2 weeks ago)
 - [the-web-history/css-timeline](https://github.com/the-web-history/css-timeline) - Time line for the CSS evolution and history of tooling, libraries, frameworks and so on (2 weeks ago)
@@ -70,11 +70,11 @@ Nothing could affect you, Recognize yourself, and do it!
 
 #### 👯 Check out my recent followers
 
-- [BEPb](https://github.com/BEPb)
 - [Ericsoo56](https://github.com/Ericsoo56)
 - [pinhe91](https://github.com/pinhe91)
 - [david-kariuki](https://github.com/david-kariuki)
 - [MosFazli](https://github.com/MosFazli)
+- [vivekweb2013](https://github.com/vivekweb2013)
 
 ![Metrics](/metrics.plugin.achievements.svg)
 ![Metrics](/metrics.plugin.anilist.characters.svg)
