@@ -45,15 +45,15 @@ Nothing could affect you, Recognize yourself, and do it!
 
 #### 📜 Check out my recent blog posts
 <!-- BLOG-POST-LIST:START -->
-- 🦒 [Disk, Buffer, Files（一）](https://liangye-xo.xyz/?p=886) 
+- 🦒 [开阔世界，冲破艰险 - 白日梦想家](https://liangye-xo.xyz/?p=906) 
 
-- 🐲 [SQL](https://liangye-xo.xyz/?p=882) 
+- 🐲 [Disk, Buffer, Files（一）](https://liangye-xo.xyz/?p=886) 
 
-- 💡 [09-02 九月新开张](https://liangye-xo.xyz/?p=880) 
+- 💡 [SQL](https://liangye-xo.xyz/?p=882) 
 
-- 👺 [大事、小事，梦寐以求的生活](https://liangye-xo.xyz/?p=877) 
+- 👺 [09-02 九月新开张](https://liangye-xo.xyz/?p=880) 
 
-- 🚦 [七夕的今天，说点什么](https://liangye-xo.xyz/?p=874) 
+- 🚦 [大事、小事，梦寐以求的生活](https://liangye-xo.xyz/?p=877) 
 <!-- BLOG-POST-LIST:END -->
 
 #### 👯 Check out my recent followers
