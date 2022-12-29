@@ -45,7 +45,7 @@ Nothing could affect you, Recognize yourself, and do it!
 
 #### ⭐ Check out my recent stars
 
-- [vercel/vercel](https://github.com/vercel/vercel) - Develop. Preview. Ship. (5 days ago)
+- [vercel/vercel](https://github.com/vercel/vercel) - Develop. Preview. Ship. (6 days ago)
 - [forthespada/CampusShame](https://github.com/forthespada/CampusShame) - 互联网仍有记忆！那些曾经在校招过程中毁过口头offer、意向书、三方的公司！纵然人微言轻，也想尽绵薄之力！ (1 week ago)
 - [BeyondDimension/SteamTools](https://github.com/BeyondDimension/SteamTools) - 🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。 (2 weeks ago)
 - [wong2/chat-gpt-google-extension](https://github.com/wong2/chat-gpt-google-extension) - A browser extension to display ChatGPT response alongside search engine results (2 weeks ago)
@@ -57,15 +57,15 @@ Nothing could affect you, Recognize yourself, and do it!
 
 #### 📜 Check out my recent blog posts
 
-- 🦒 [Disk, Buffer, Files（一）](https://liangye-xo.xyz/?p=886) 
+- 🦒 [开阔世界，冲破艰险 - 白日梦想家](https://liangye-xo.xyz/?p=906) 
 
-- 🐲 [SQL](https://liangye-xo.xyz/?p=882) 
+- 🐲 [Disk, Buffer, Files（一）](https://liangye-xo.xyz/?p=886) 
 
-- 💡 [09-02 九月新开张](https://liangye-xo.xyz/?p=880) 
+- 💡 [SQL](https://liangye-xo.xyz/?p=882) 
 
-- 👺 [大事、小事，梦寐以求的生活](https://liangye-xo.xyz/?p=877) 
+- 👺 [09-02 九月新开张](https://liangye-xo.xyz/?p=880) 
 
-- 🚦 [七夕的今天，说点什么](https://liangye-xo.xyz/?p=874) 
+- 🚦 [大事、小事，梦寐以求的生活](https://liangye-xo.xyz/?p=877) 
 
 
 #### 👯 Check out my recent followers
