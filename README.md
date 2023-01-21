@@ -45,11 +45,11 @@ Nothing could affect you, Recognize yourself, and do it!
 
 #### ⭐ Check out my recent stars
 
+- [Nepxion/Discovery](https://github.com/Nepxion/Discovery) - ☀️ Nepxion Discovery is a solution for Spring Cloud with blue green, gray, route, limitation, circuit breaker, degrade, isolation, tracing, dye, failover, active 蓝绿、灰度、路由、限流、熔断、降级、隔离、追踪、流量染色、故障转移、多活 (today)
 - [zeffon/english](https://github.com/zeffon/english) -  怎么练好英语口语？ (1 week ago)
 - [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么 (1 week ago)
 - [sofastack/sofa-tracer](https://github.com/sofastack/sofa-tracer) - SOFATracer is a component for the distributed system call trace. And through a unified traceId logging the logs of various network calls in the invoking link. These logs can be used for quick discovery of faults, service governance, etc. (1 week ago)
 - [Hunlongyu/ZY-Player](https://github.com/Hunlongyu/ZY-Player) - ▶️ 跨平台桌面端视频资源播放器.简洁无广告.免费高颜值. 🎞 (2 weeks ago)
-- [saveweb/review-2022](https://github.com/saveweb/review-2022) - 饿您饿饿年，你吃年终总结了馍？ (2 weeks ago)
 
 #### 🔨 Check out my recent pull requests
 
@@ -57,15 +57,15 @@ Nothing could affect you, Recognize yourself, and do it!
 
 #### 📜 Check out my recent blog posts
 
-- 🦒 [开阔世界，冲破艰险 - 白日梦想家](https://liangye-xo.xyz/?p=906) 
+- 🦒 [杂杂碎碎、姗姗来迟的年终杂记~](https://liangye-xo.xyz/?p=910) 
 
-- 🐲 [Disk, Buffer, Files（一）](https://liangye-xo.xyz/?p=886) 
+- 🐲 [开阔世界，冲破艰险 - 白日梦想家](https://liangye-xo.xyz/?p=906) 
 
-- 💡 [SQL](https://liangye-xo.xyz/?p=882) 
+- 💡 [Disk, Buffer, Files（一）](https://liangye-xo.xyz/?p=886) 
 
-- 👺 [09-02 九月新开张](https://liangye-xo.xyz/?p=880) 
+- 👺 [SQL](https://liangye-xo.xyz/?p=882) 
 
-- 🚦 [大事、小事，梦寐以求的生活](https://liangye-xo.xyz/?p=877) 
+- 🚦 [09-02 九月新开张](https://liangye-xo.xyz/?p=880) 
 
 
 #### 👯 Check out my recent followers
