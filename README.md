@@ -45,11 +45,11 @@ Nothing could affect you, Recognize yourself, and do it!
 
 #### ⭐ Check out my recent stars
 
+- [openjdk/leyden](https://github.com/openjdk/leyden) - https://openjdk.org/projects/leyden (today)
 - [geekplux/chinese-independent-blogs](https://github.com/geekplux/chinese-independent-blogs) - 中文独立博客列表 (today)
 - [Nepxion/Discovery](https://github.com/Nepxion/Discovery) - ☀️ Nepxion Discovery is a solution for Spring Cloud with blue green, gray, route, limitation, circuit breaker, degrade, isolation, tracing, dye, failover, active 蓝绿、灰度、路由、限流、熔断、降级、隔离、追踪、流量染色、故障转移、多活 (2 days ago)
 - [zeffon/english](https://github.com/zeffon/english) -  怎么练好英语口语？ (1 week ago)
 - [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么 (1 week ago)
-- [sofastack/sofa-tracer](https://github.com/sofastack/sofa-tracer) - SOFATracer is a component for the distributed system call trace. And through a unified traceId logging the logs of various network calls in the invoking link. These logs can be used for quick discovery of faults, service governance, etc. (2 weeks ago)
 
 #### 🔨 Check out my recent pull requests
 
