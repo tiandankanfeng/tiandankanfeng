@@ -70,11 +70,11 @@ Nothing could affect you, Recognize yourself, and do it!
 
 #### 👯 Check out my recent followers
 
-- [HyunCafe](https://github.com/HyunCafe)
 - [Ericsoo56](https://github.com/Ericsoo56)
 - [pinhe91](https://github.com/pinhe91)
 - [david-kariuki](https://github.com/david-kariuki)
 - [MosFazli](https://github.com/MosFazli)
+- [vivekweb2013](https://github.com/vivekweb2013)
 
 ![Metrics](/metrics.plugin.achievements.svg)
 ![Metrics](/metrics.plugin.anilist.characters.svg)
