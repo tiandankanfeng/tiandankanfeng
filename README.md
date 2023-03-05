@@ -45,11 +45,11 @@ Nothing could affect you, Recognize yourself, and do it!
 
 #### ⭐ Check out my recent stars
 
-- [ShixiangWang/weekly](https://github.com/ShixiangWang/weekly) - 生信爱好者周刊（每周日发布） (today)
-- [yetone/bob-plugin-openai-translator](https://github.com/yetone/bob-plugin-openai-translator) - 基于 ChatGPT API 的文本翻译、文本润色、语法纠错 Bob 插件，让我们一起迎接不需要巴别塔的新时代！ (today)
-- [shenweiyan/WebStack-Hugo](https://github.com/shenweiyan/WebStack-Hugo) - WebStack 网址导航 Hugo 主题，无需服务器，支持导航一键配置的纯静态网址导航网站。 (today)
-- [susam/mathb](https://github.com/susam/mathb) - Share mathematics on the web with LaTeX and Markdown (today)
-- [phodal/ai-research](https://github.com/phodal/ai-research) - 【🔞🔞🔞 内含不适合未成年人阅读的图片】基于我擅长的编程、绘画、写作展开的 AI 探索和总结：StableDiffusion 是一种强大的图像生成模型，能够通过对一张图片进行演化来生成新的图片。ChatGPT 是一个基于 Transformer 的语言生成模型，它能够自动为输入的主题生成合适的文章。而 Github Copilot 是一个智能编程助手，能够加速日常编程活动。 (5 days ago)
+- [ShixiangWang/weekly](https://github.com/ShixiangWang/weekly) - 生信爱好者周刊（每周日发布） (1 day ago)
+- [yetone/bob-plugin-openai-translator](https://github.com/yetone/bob-plugin-openai-translator) - 基于 ChatGPT API 的文本翻译、文本润色、语法纠错 Bob 插件，让我们一起迎接不需要巴别塔的新时代！ (1 day ago)
+- [shenweiyan/WebStack-Hugo](https://github.com/shenweiyan/WebStack-Hugo) - WebStack 网址导航 Hugo 主题，无需服务器，支持导航一键配置的纯静态网址导航网站。 (1 day ago)
+- [susam/mathb](https://github.com/susam/mathb) - Share mathematics on the web with LaTeX and Markdown (1 day ago)
+- [phodal/ai-research](https://github.com/phodal/ai-research) - 【🔞🔞🔞 内含不适合未成年人阅读的图片】基于我擅长的编程、绘画、写作展开的 AI 探索和总结：StableDiffusion 是一种强大的图像生成模型，能够通过对一张图片进行演化来生成新的图片。ChatGPT 是一个基于 Transformer 的语言生成模型，它能够自动为输入的主题生成合适的文章。而 Github Copilot 是一个智能编程助手，能够加速日常编程活动。 (6 days ago)
 
 #### 🔨 Check out my recent pull requests
 
