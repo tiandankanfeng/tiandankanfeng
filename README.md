@@ -45,11 +45,11 @@ Nothing could affect you, Recognize yourself, and do it!
 
 #### ⭐ Check out my recent stars
 
-- [changfengoss/pub](https://github.com/changfengoss/pub) - 科学上网工具 (today)
-- [ShixiangWang/weekly](https://github.com/ShixiangWang/weekly) - 生信爱好者周刊（每周日发布） (1 day ago)
-- [yetone/bob-plugin-openai-translator](https://github.com/yetone/bob-plugin-openai-translator) - 基于 ChatGPT API 的文本翻译、文本润色、语法纠错 Bob 插件，让我们一起迎接不需要巴别塔的新时代！ (1 day ago)
-- [shenweiyan/WebStack-Hugo](https://github.com/shenweiyan/WebStack-Hugo) - WebStack 网址导航 Hugo 主题，无需服务器，支持导航一键配置的纯静态网址导航网站。 (1 day ago)
-- [susam/mathb](https://github.com/susam/mathb) - Share mathematics on the web with LaTeX and Markdown (1 day ago)
+- [changfengoss/pub](https://github.com/changfengoss/pub) - 科学上网工具 (1 day ago)
+- [ShixiangWang/weekly](https://github.com/ShixiangWang/weekly) - 生信爱好者周刊（每周日发布） (2 days ago)
+- [yetone/bob-plugin-openai-translator](https://github.com/yetone/bob-plugin-openai-translator) - 基于 ChatGPT API 的文本翻译、文本润色、语法纠错 Bob 插件，让我们一起迎接不需要巴别塔的新时代！ (2 days ago)
+- [shenweiyan/WebStack-Hugo](https://github.com/shenweiyan/WebStack-Hugo) - WebStack 网址导航 Hugo 主题，无需服务器，支持导航一键配置的纯静态网址导航网站。 (2 days ago)
+- [susam/mathb](https://github.com/susam/mathb) - Share mathematics on the web with LaTeX and Markdown (2 days ago)
 
 #### 🔨 Check out my recent pull requests
 
