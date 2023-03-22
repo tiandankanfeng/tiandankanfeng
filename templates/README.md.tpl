@@ -45,15 +45,15 @@ Nothing could affect you, Recognize yourself, and do it!
 
 #### 📜 Check out my recent blog posts
 <!-- BLOG-POST-LIST:START -->
-- 🦒 [Looking forward to some interesting projects in 2023](http://tiandankanfeng.github.io/2023/01/24/Looking-forward-to-some-interesting-projects-in-2023/) 
+- 🦒 [所以，做自己吧](https://liangye-xo.xyz/?p=919) 
 
-- 🐲 [杂杂碎碎、姗姗来迟的年终杂记~](https://liangye-xo.xyz/?p=910) 
+- 🐲 [Looking forward to some interesting projects in 2023](http://tiandankanfeng.github.io/2023/01/24/Looking-forward-to-some-interesting-projects-in-2023/) 
 
-- 💡 [开阔世界，冲破艰险 - 白日梦想家](https://liangye-xo.xyz/?p=906) 
+- 💡 [杂杂碎碎、姗姗来迟的年终杂记~](https://liangye-xo.xyz/?p=910) 
 
-- 👺 [The top ten luxury goods](http://tiandankanfeng.github.io/2022/11/20/The-top-ten-luxury-goods/) 
+- 👺 [开阔世界，冲破艰险 - 白日梦想家](https://liangye-xo.xyz/?p=906) 
 
-- 🚦 [Disk, Buffer, Files（一）](https://liangye-xo.xyz/?p=886) 
+- 🚦 [The top ten luxury goods](http://tiandankanfeng.github.io/2022/11/20/The-top-ten-luxury-goods/) 
 <!-- BLOG-POST-LIST:END -->
 
 #### 👯 Check out my recent followers
