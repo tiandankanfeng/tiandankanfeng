@@ -45,11 +45,11 @@ Nothing could affect you, Recognize yourself, and do it!
 
 #### ⭐ Check out my recent stars
 
+- [Yidadaa/ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) - 一键拥有你自己的 ChatGPT 网页服务。 One-Click to deploy your own ChatGPT web UI. (today)
 - [timqian/openprompt.co](https://github.com/timqian/openprompt.co) - Create. Use. Share. ChatGPT prompts (2 days ago)
 - [didi/booster](https://github.com/didi/booster) - 🚀Optimizer for mobile applications (1 week ago)
 - [oldwinter/knowledge-garden](https://github.com/oldwinter/knowledge-garden) - 我的第二大脑 second brain，我的数字花园 digital garden，用obsidian双链笔记软件写作而成 (1 week ago)
 - [bucket4j/bucket4j](https://github.com/bucket4j/bucket4j) - Java rate limiting library based on token-bucket algorithm. (1 week ago)
-- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App (1 week ago)
 
 #### 🔨 Check out my recent pull requests
 
