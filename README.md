@@ -37,19 +37,19 @@ Nothing could affect you, Recognize yourself, and do it!
 
 #### 🌱 Check out my recent projects
 
+- [tiandankanfeng/ms-ra-forwarder](https://github.com/tiandankanfeng/ms-ra-forwarder) - 
 - [tiandankanfeng/mkdocs](https://github.com/tiandankanfeng/mkdocs) - 
 - [tiandankanfeng/discussion-blog](https://github.com/tiandankanfeng/discussion-blog) - 
 - [tiandankanfeng/Cource](https://github.com/tiandankanfeng/Cource) - Share some wonderful cources which I&#39;m learning.
 - [tiandankanfeng/Best-Storage-Service-Implementation](https://github.com/tiandankanfeng/Best-Storage-Service-Implementation) - 
-- [tiandankanfeng/tiandankanfeng.github.io](https://github.com/tiandankanfeng/tiandankanfeng.github.io) - 
 
 #### ⭐ Check out my recent stars
 
-- [tpn/pdfs](https://github.com/tpn/pdfs) - Technically-oriented PDF Collection (Papers, Specs, Decks, Manuals, etc) (5 days ago)
-- [elyase/awesome-gpt3](https://github.com/elyase/awesome-gpt3) -  (5 days ago)
+- [troyeguo/koodo-reader](https://github.com/troyeguo/koodo-reader) - A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux and Web (1 day ago)
+- [tpn/pdfs](https://github.com/tpn/pdfs) - Technically-oriented PDF Collection (Papers, Specs, Decks, Manuals, etc) (6 days ago)
+- [elyase/awesome-gpt3](https://github.com/elyase/awesome-gpt3) -  (6 days ago)
 - [hax/heshijun_v_360](https://github.com/hax/heshijun_v_360) - 贺师俊与360的劳动争议诉讼 (1 week ago)
 - [careercup/CtCI-6th-Edition](https://github.com/careercup/CtCI-6th-Edition) - Cracking the Coding Interview 6th Ed. Solutions (1 week ago)
-- [F8F-1BearCat/CtCI-6th-Edition-CN](https://github.com/F8F-1BearCat/CtCI-6th-Edition-CN) - 《Cracking the Coding Interview, 6th Edition》CtCI中文翻译  (1 week ago)
 
 #### 🔨 Check out my recent pull requests
 
