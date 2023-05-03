@@ -45,11 +45,11 @@ Nothing could affect you, Recognize yourself, and do it!
 
 #### ⭐ Check out my recent stars
 
+- [liu673cn/box](https://github.com/liu673cn/box) - TVbox开源版（空壳-自行配置） (today)
+- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App (today)
 - [lindylearn/unclutter](https://github.com/lindylearn/unclutter) - A modern reader mode and article library for your browser. (5 days ago)
 - [rholder/guava-retrying](https://github.com/rholder/guava-retrying) - This is a small extension to Google&#39;s Guava library to allow for the creation of configurable retrying strategies for an arbitrary function call, such as something that talks to a remote service with flaky uptime. (6 days ago)
 - [troyeguo/koodo-reader](https://github.com/troyeguo/koodo-reader) - A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux and Web (1 week ago)
-- [tpn/pdfs](https://github.com/tpn/pdfs) - Technically-oriented PDF Collection (Papers, Specs, Decks, Manuals, etc) (1 week ago)
-- [elyase/awesome-gpt3](https://github.com/elyase/awesome-gpt3) -  (1 week ago)
 
 #### 🔨 Check out my recent pull requests
 
