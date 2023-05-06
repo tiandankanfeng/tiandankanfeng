@@ -45,9 +45,9 @@ Nothing could affect you, Recognize yourself, and do it!
 
 #### ⭐ Check out my recent stars
 
-- [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age (1 day ago)
-- [liu673cn/box](https://github.com/liu673cn/box) - TVbox开源版（空壳-自行配置） (2 days ago)
-- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App (2 days ago)
+- [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age (2 days ago)
+- [liu673cn/box](https://github.com/liu673cn/box) - TVbox开源版（空壳-自行配置） (3 days ago)
+- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App (3 days ago)
 - [lindylearn/unclutter](https://github.com/lindylearn/unclutter) - A modern reader mode and article library for your browser. (1 week ago)
 - [rholder/guava-retrying](https://github.com/rholder/guava-retrying) - This is a small extension to Google&#39;s Guava library to allow for the creation of configurable retrying strategies for an arbitrary function call, such as something that talks to a remote service with flaky uptime. (1 week ago)
 
