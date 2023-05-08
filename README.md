@@ -45,11 +45,11 @@ Nothing could affect you, Recognize yourself, and do it!
 
 #### ⭐ Check out my recent stars
 
-- [dice2o/BingGPT](https://github.com/dice2o/BingGPT) - Desktop application of new Bing&#39;s AI-powered chat (Windows, macOS and Linux) (today)
-- [iamadamdev/bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass Paywalls web browser extension for Chrome and Firefox. (today)
-- [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age (3 days ago)
-- [liu673cn/box](https://github.com/liu673cn/box) - TVbox开源版（空壳-自行配置） (4 days ago)
-- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App (4 days ago)
+- [dice2o/BingGPT](https://github.com/dice2o/BingGPT) - Desktop application of new Bing&#39;s AI-powered chat (Windows, macOS and Linux) (1 day ago)
+- [iamadamdev/bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass Paywalls web browser extension for Chrome and Firefox. (1 day ago)
+- [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age (4 days ago)
+- [liu673cn/box](https://github.com/liu673cn/box) - TVbox开源版（空壳-自行配置） (5 days ago)
+- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App (5 days ago)
 
 #### 🔨 Check out my recent pull requests
 
