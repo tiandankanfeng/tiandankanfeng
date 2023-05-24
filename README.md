@@ -45,7 +45,7 @@ Nothing could affect you, Recognize yourself, and do it!
 
 #### ⭐ Check out my recent stars
 
-- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: an ecosystem of open-source chatbots trained on a massive collections of clean assistant data including code, stories and dialogue (6 days ago)
+- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: an ecosystem of open-source chatbots trained on a massive collections of clean assistant data including code, stories and dialogue (1 week ago)
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more. (1 week ago)
 - [opendilab/awesome-RLHF](https://github.com/opendilab/awesome-RLHF) - A curated list of reinforcement learning with human feedback resources (continually updated) (1 week ago)
 - [Mikoto10032/DeepLearning](https://github.com/Mikoto10032/DeepLearning) - 深度学习入门教程, 优秀文章, Deep Learning Tutorial (1 week ago)
@@ -67,7 +67,6 @@ Nothing could affect you, Recognize yourself, and do it!
 - [side-wipe](https://github.com/side-wipe)
 - [Ericsoo56](https://github.com/Ericsoo56)
 - [pinhe91](https://github.com/pinhe91)
-- [MosFazli](https://github.com/MosFazli)
 - [vivekweb2013](https://github.com/vivekweb2013)
 
 ![Metrics](/metrics.plugin.achievements.svg)
