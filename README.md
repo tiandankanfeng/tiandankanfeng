@@ -45,11 +45,11 @@ Nothing could affect you, Recognize yourself, and do it!
 
 #### ⭐ Check out my recent stars
 
-- [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant (1 day ago)
-- [manifold-systems/manifold](https://github.com/manifold-systems/manifold) - Manifold is a Java compiler plugin, its features include Metaprogramming, Properties, Extension Methods, Operator Overloading, Templates, a Preprocessor, and more. (2 days ago)
-- [datawhalechina/prompt-engineering-for-developers](https://github.com/datawhalechina/prompt-engineering-for-developers) - 吴恩达大模型系列课程中文版，包括《Prompt Engineering》、《Building System》和《LangChain》 (4 days ago)
-- [intel/intel-one-mono](https://github.com/intel/intel-one-mono) - Intel One Mono font repository (4 days ago)
-- [QiuChenlyOpenSource/MyMacsAppCrack](https://github.com/QiuChenlyOpenSource/MyMacsAppCrack) - MacBook 自用软件破解（macOS Intel） (5 days ago)
+- [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant (2 days ago)
+- [manifold-systems/manifold](https://github.com/manifold-systems/manifold) - Manifold is a Java compiler plugin, its features include Metaprogramming, Properties, Extension Methods, Operator Overloading, Templates, a Preprocessor, and more. (3 days ago)
+- [datawhalechina/prompt-engineering-for-developers](https://github.com/datawhalechina/prompt-engineering-for-developers) - 吴恩达大模型系列课程中文版，包括《Prompt Engineering》、《Building System》和《LangChain》 (5 days ago)
+- [intel/intel-one-mono](https://github.com/intel/intel-one-mono) - Intel One Mono font repository (5 days ago)
+- [QiuChenlyOpenSource/MyMacsAppCrack](https://github.com/QiuChenlyOpenSource/MyMacsAppCrack) - MacBook 自用软件破解（macOS Intel） (6 days ago)
 
 #### 🔨 Check out my recent pull requests
 
