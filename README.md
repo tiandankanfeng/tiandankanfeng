@@ -45,11 +45,11 @@ Nothing could affect you, Recognize yourself, and do it!
 
 #### ⭐ Check out my recent stars
 
+- [notion-enhancer/notion-enhancer](https://github.com/notion-enhancer/notion-enhancer) - an enhancer/customiser for the all-in-one productivity workspace notion.so (today)
 - [alibaba/Chat2DB](https://github.com/alibaba/Chat2DB) - 🔥 🔥 🔥 An intelligent and versatile general-purpose SQL client and reporting tool for databases which integrates ChatGPT capabilities.(智能的通用数据库SQL客户端和报表工具) (1 day ago)
 - [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant (5 days ago)
 - [manifold-systems/manifold](https://github.com/manifold-systems/manifold) - Manifold is a Java compiler plugin, its features include Metaprogramming, Properties, Extension Methods, Operator Overloading, Templates, a Preprocessor, and more. (6 days ago)
 - [datawhalechina/prompt-engineering-for-developers](https://github.com/datawhalechina/prompt-engineering-for-developers) - 吴恩达大模型系列课程中文版，包括《Prompt Engineering》、《Building System》和《LangChain》 (1 week ago)
-- [intel/intel-one-mono](https://github.com/intel/intel-one-mono) - Intel One Mono font repository (1 week ago)
 
 #### 🔨 Check out my recent pull requests
 
