@@ -45,11 +45,11 @@ Nothing could affect you, Recognize yourself, and do it!
 
 #### ⭐ Check out my recent stars
 
+- [julycoding/The-Art-Of-Programming-By-July-2nd](https://github.com/julycoding/The-Art-Of-Programming-By-July-2nd) - 本项目曾冲到全球第一，干货集锦见本页面最底部，另完整精致的纸质版《编程之法：面试和算法心得》已在京东/当当上销售 (today)
 - [metowolf/MetingJS](https://github.com/metowolf/MetingJS) - :cake: A powerful plugin connect APlayer and Meting (4 days ago)
 - [hizzgdev/jsmind](https://github.com/hizzgdev/jsmind) - a mind mapping library built by javascript (5 days ago)
 - [notion-enhancer/notion-enhancer](https://github.com/notion-enhancer/notion-enhancer) - an enhancer/customiser for the all-in-one productivity workspace notion.so (6 days ago)
 - [alibaba/Chat2DB](https://github.com/alibaba/Chat2DB) - 🔥 🔥 🔥 An intelligent and versatile general-purpose SQL client and reporting tool for databases which integrates ChatGPT capabilities.(智能的通用数据库SQL客户端和报表工具) (1 week ago)
-- [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant (1 week ago)
 
 #### 🔨 Check out my recent pull requests
 
@@ -57,9 +57,9 @@ Nothing could affect you, Recognize yourself, and do it!
 
 #### 📜 Check out my recent blog posts
 
-- 🦒 [五月初五](https://liangye-xo.xyz//article/life-article2) 
+- 🦒 [五月初五](https://blog.liangye-xo.xyz//article/life-article2) 
 
-- 🐲 [玩物丧志，不如玩物养志](https://liangye-xo.xyz//article/life-article1) 
+- 🐲 [玩物丧志，不如玩物养志](https://blog.liangye-xo.xyz//article/life-article1) 
 
 - 💡 [所以，做自己吧](https://liangye-xo.xyz/?p=919) 
 
