@@ -57,9 +57,9 @@ Nothing could affect you, Recognize yourself, and do it!
 
 #### 📜 Check out my recent blog posts
 
-- 🦒 [五月初五](https://blog.liangye-xo.xyz//article/life-article2) 
+- 🦒 [五月初五](https://liangye-xo.xyz//article/life-article2) 
 
-- 🐲 [玩物丧志，不如玩物养志](https://blog.liangye-xo.xyz//article/life-article1) 
+- 🐲 [玩物丧志，不如玩物养志](https://liangye-xo.xyz//article/life-article1) 
 
 - 💡 [所以，做自己吧](https://liangye-xo.xyz/?p=919) 
 
