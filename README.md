@@ -45,11 +45,11 @@ Nothing could affect you, Recognize yourself, and do it!
 
 #### ⭐ Check out my recent stars
 
+- [xdite/memory-hack](https://github.com/xdite/memory-hack) - 打造超人大脑 (today)
 - [XPoet/picx](https://github.com/XPoet/picx) - 🏞️ PicX 是一款基于 GitHub API 开发的图床工具，提供图片上传托管、生成图片链接和常用图片工具箱服务。 (5 days ago)
 - [zhongsp/TypeScript](https://github.com/zhongsp/TypeScript) - TypeScript 使用手册（中文版）翻译。http://www.typescriptlang.org (5 days ago)
 - [ezshine/live2d-model-collections](https://github.com/ezshine/live2d-model-collections) - 收藏我从互联网上搜集到的live2d模型并进行整理 (5 days ago)
 - [xiazeyu/live2d-widget-models](https://github.com/xiazeyu/live2d-widget-models) - The model library for live2d-widget.js (5 days ago)
-- [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development. (1 week ago)
 
 #### 🔨 Check out my recent pull requests
 
