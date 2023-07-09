@@ -45,8 +45,8 @@ Nothing could affect you, Recognize yourself, and do it!
 
 #### ⭐ Check out my recent stars
 
-- [RUCAIBox/LLMSurvey](https://github.com/RUCAIBox/LLMSurvey) - The official GitHub page for the survey paper &#34;A Survey of Large Language Models&#34;. (1 day ago)
-- [xdite/memory-hack](https://github.com/xdite/memory-hack) - 打造超人大脑 (2 days ago)
+- [RUCAIBox/LLMSurvey](https://github.com/RUCAIBox/LLMSurvey) - The official GitHub page for the survey paper &#34;A Survey of Large Language Models&#34;. (2 days ago)
+- [xdite/memory-hack](https://github.com/xdite/memory-hack) - 打造超人大脑 (3 days ago)
 - [XPoet/picx](https://github.com/XPoet/picx) - 🏞️ PicX 是一款基于 GitHub API 开发的图床工具，提供图片上传托管、生成图片链接和常用图片工具箱服务。 (1 week ago)
 - [zhongsp/TypeScript](https://github.com/zhongsp/TypeScript) - TypeScript 使用手册（中文版）翻译。http://www.typescriptlang.org (1 week ago)
 - [ezshine/live2d-model-collections](https://github.com/ezshine/live2d-model-collections) - 收藏我从互联网上搜集到的live2d模型并进行整理 (1 week ago)
