@@ -45,9 +45,9 @@ Nothing could affect you, Recognize yourself, and do it!
 
 #### ⭐ Check out my recent stars
 
-- [zenghongtu/PPet](https://github.com/zenghongtu/PPet) - 👻在你的桌面放一个萌妹子，多一点乐趣😏~（支持Mac、Win和Linux） (today)
-- [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) - 12 Weeks, 24 Lessons, AI for All! (today)
-- [vigna/fastutil](https://github.com/vigna/fastutil) - fastutil extends the Java™ Collections Framework by providing type-specific maps, sets, lists and queues. (3 days ago)
+- [zenghongtu/PPet](https://github.com/zenghongtu/PPet) - 👻在你的桌面放一个萌妹子，多一点乐趣😏~（支持Mac、Win和Linux） (1 day ago)
+- [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) - 12 Weeks, 24 Lessons, AI for All! (1 day ago)
+- [vigna/fastutil](https://github.com/vigna/fastutil) - fastutil extends the Java™ Collections Framework by providing type-specific maps, sets, lists and queues. (4 days ago)
 - [RUCAIBox/LLMSurvey](https://github.com/RUCAIBox/LLMSurvey) - The official GitHub page for the survey paper &#34;A Survey of Large Language Models&#34;. (1 week ago)
 - [xdite/memory-hack](https://github.com/xdite/memory-hack) - 打造超人大脑 (1 week ago)
 
