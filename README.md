@@ -6,7 +6,7 @@ Nothing could affect you, Recognize yourself, and do it!
 
 💻 Interested in distributed storage system, db storage, cs, middleware, reactive.
 
-🖋 Blog：[liangye-xo.xyz](https://liangye-xo.xyz)
+🖋 Blog：[birtney.link](https://birtney.link)
 
 📫 Email: [xvelpro8@gamil.com](mailto:xvelpro8@gamil.com)
 
