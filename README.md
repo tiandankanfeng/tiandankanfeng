@@ -1,6 +1,6 @@
 Hi, I'm here!👋
 <br>
-Nothing could affect you, Recognize yourself, and do it!
+Concentrate on yourself, it's enough.
 <br>
 🎓 Just a cs programmer.
 
