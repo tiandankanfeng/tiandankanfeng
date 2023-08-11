@@ -45,10 +45,10 @@ Concentrate on yourself, it's enough.
 
 #### ⭐ Check out my recent stars
 
-- [ymcui/Chinese-LLaMA-Alpaca-2](https://github.com/ymcui/Chinese-LLaMA-Alpaca-2) - 中文 LLaMA-2 &amp; Alpaca-2 大模型二期项目 &#43; 本地CPU/GPU训练部署  (Chinese LLaMA-2 &amp; Alpaca-2 LLMs) (today)
-- [iluwatar/java-design-patterns](https://github.com/iluwatar/java-design-patterns) - Design patterns implemented in Java (4 days ago)
-- [binjie09/duckduckgo-api](https://github.com/binjie09/duckduckgo-api) - 免费的无限制的搜索接口 (5 days ago)
-- [chaitin/safeline](https://github.com/chaitin/safeline) - 一款足够简单、足够好用、足够强的免费 WAF。基于业界领先的语义引擎检测技术，作为反向代理接入，保护你的网站不受黑客攻击。 (1 week ago)
+- [ymcui/Chinese-LLaMA-Alpaca-2](https://github.com/ymcui/Chinese-LLaMA-Alpaca-2) - 中文 LLaMA-2 &amp; Alpaca-2 大模型二期项目 &#43; 本地CPU/GPU训练部署  (Chinese LLaMA-2 &amp; Alpaca-2 LLMs) (1 day ago)
+- [iluwatar/java-design-patterns](https://github.com/iluwatar/java-design-patterns) - Design patterns implemented in Java (5 days ago)
+- [binjie09/duckduckgo-api](https://github.com/binjie09/duckduckgo-api) - 免费的无限制的搜索接口 (6 days ago)
+- [chaitin/safeline](https://github.com/chaitin/safeline) - 一款足够简单、足够好用、足够强的免费 WAF。基于业界领先的语义引擎检测技术，作为反向代理接入，保护你的网站不受黑客攻击。 (2 weeks ago)
 - [tw93/Maple](https://github.com/tw93/Maple) - 🍁 Hide the bookmark bar, use Maple Bookmarks to surf smoothly.  🍁 隐藏书签栏，使用枫叶书签让你行云流水。 (2 weeks ago)
 
 #### 🔨 Check out my recent pull requests
