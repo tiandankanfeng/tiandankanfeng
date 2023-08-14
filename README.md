@@ -45,8 +45,8 @@ Concentrate on yourself, it's enough.
 
 #### ⭐ Check out my recent stars
 
-- [casey/just](https://github.com/casey/just) - 🤖 Just a command runner (1 day ago)
-- [ymcui/Chinese-LLaMA-Alpaca-2](https://github.com/ymcui/Chinese-LLaMA-Alpaca-2) - 中文 LLaMA-2 &amp; Alpaca-2 大模型二期项目 &#43; 本地CPU/GPU训练部署  (Chinese LLaMA-2 &amp; Alpaca-2 LLMs) (3 days ago)
+- [casey/just](https://github.com/casey/just) - 🤖 Just a command runner (2 days ago)
+- [ymcui/Chinese-LLaMA-Alpaca-2](https://github.com/ymcui/Chinese-LLaMA-Alpaca-2) - 中文 LLaMA-2 &amp; Alpaca-2 大模型二期项目 &#43; 本地CPU/GPU训练部署  (Chinese LLaMA-2 &amp; Alpaca-2 LLMs) (4 days ago)
 - [iluwatar/java-design-patterns](https://github.com/iluwatar/java-design-patterns) - Design patterns implemented in Java (1 week ago)
 - [binjie09/duckduckgo-api](https://github.com/binjie09/duckduckgo-api) - 免费的无限制的搜索接口 (1 week ago)
 - [chaitin/safeline](https://github.com/chaitin/safeline) - 一款足够简单、足够好用、足够强的免费 WAF。基于业界领先的语义引擎检测技术，作为反向代理接入，保护你的网站不受黑客攻击。 (2 weeks ago)
