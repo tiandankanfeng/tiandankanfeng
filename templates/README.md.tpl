@@ -61,7 +61,7 @@ Concentrate on yourself, it's enough.
 - [{{.Login}}]({{.URL}})
 {{- end}}
 
-![Metrics](/metrics.plugin.achievements.svg)
+![Metrics](/metrics.plugin.achievements.compact.svg)
 ![Metrics](/metrics.plugin.anilist.characters.svg)
 ![Metrics](/metrics.plugin.anilist.svg)
 
