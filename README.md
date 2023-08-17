@@ -45,9 +45,9 @@ Concentrate on yourself, it's enough.
 
 #### ⭐ Check out my recent stars
 
-- [sweepai/sweep](https://github.com/sweepai/sweep) - Sweep: AI-powered Junior Developer for small features and bug fixes. (1 day ago)
-- [casey/just](https://github.com/casey/just) - 🤖 Just a command runner (4 days ago)
-- [ymcui/Chinese-LLaMA-Alpaca-2](https://github.com/ymcui/Chinese-LLaMA-Alpaca-2) - 中文 LLaMA-2 &amp; Alpaca-2 大模型二期项目 &#43; 本地CPU/GPU训练部署  (Chinese LLaMA-2 &amp; Alpaca-2 LLMs) (6 days ago)
+- [sweepai/sweep](https://github.com/sweepai/sweep) - Sweep: AI-powered Junior Developer for small features and bug fixes. (2 days ago)
+- [casey/just](https://github.com/casey/just) - 🤖 Just a command runner (5 days ago)
+- [ymcui/Chinese-LLaMA-Alpaca-2](https://github.com/ymcui/Chinese-LLaMA-Alpaca-2) - 中文 LLaMA-2 &amp; Alpaca-2 大模型二期项目 &#43; 本地CPU/GPU训练部署  (Chinese LLaMA-2 &amp; Alpaca-2 LLMs) (1 week ago)
 - [iluwatar/java-design-patterns](https://github.com/iluwatar/java-design-patterns) - Design patterns implemented in Java (1 week ago)
 - [binjie09/duckduckgo-api](https://github.com/binjie09/duckduckgo-api) - 免费的无限制的搜索接口 (1 week ago)
 
