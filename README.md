@@ -45,11 +45,11 @@ Concentrate on yourself, it's enough.
 
 #### ⭐ Check out my recent stars
 
+- [limbopro/Profiles4limbo](https://github.com/limbopro/Profiles4limbo) - 毒奶自用，懒人配置文件（Quantumult X）：去广告分流规则、Tiktok解锁重写、VSCO解锁、神机分流、blackmatrix7分流规则。 (today)
 - [sweepai/sweep](https://github.com/sweepai/sweep) - Sweep: AI-powered Junior Developer for small features and bug fixes. (4 days ago)
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner (1 week ago)
 - [ymcui/Chinese-LLaMA-Alpaca-2](https://github.com/ymcui/Chinese-LLaMA-Alpaca-2) - 中文 LLaMA-2 &amp; Alpaca-2 大模型二期项目 &#43; 本地CPU/GPU训练部署  (Chinese LLaMA-2 &amp; Alpaca-2 LLMs) (1 week ago)
 - [iluwatar/java-design-patterns](https://github.com/iluwatar/java-design-patterns) - Design patterns implemented in Java (1 week ago)
-- [binjie09/duckduckgo-api](https://github.com/binjie09/duckduckgo-api) - 免费的无限制的搜索接口 (2 weeks ago)
 
 #### 🔨 Check out my recent pull requests
 
