@@ -72,11 +72,11 @@ Concentrate on yourself, it's enough.
 
 #### 👯 Check out my recent followers
 
+- [noemiecode](https://github.com/noemiecode)
 - [Asbaharoon](https://github.com/Asbaharoon)
 - [side-wipe](https://github.com/side-wipe)
 - [Ericsoo56](https://github.com/Ericsoo56)
 - [pinhe91](https://github.com/pinhe91)
-- [vivekweb2013](https://github.com/vivekweb2013)
 
 ![Metrics](/metrics.plugin.achievements.compact.svg)
 ![Metrics](/metrics.plugin.anilist.characters.svg)
