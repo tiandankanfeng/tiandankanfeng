@@ -51,9 +51,9 @@ Concentrate on yourself, it's enough.
 
 - 💡 [玩物丧志，不如玩物养志](https://liangye-xo.xyz//article/life-article1) 
 
-- 👺 [Looking forward to some interesting projects in 2023](http://tiandankanfeng.github.io/2023/01/24/Looking-forward-to-some-interesting-projects-in-2023/) 
+- 👺 [所以，做自己吧](https://liangye-xo.xyz/?p=919) 
 
-- 🚦 [The top ten luxury goods](http://tiandankanfeng.github.io/2022/11/20/The-top-ten-luxury-goods/) 
+- 🚦 [Looking forward to some interesting projects in 2023](http://tiandankanfeng.github.io/2023/01/24/Looking-forward-to-some-interesting-projects-in-2023/) 
 <!-- BLOG-POST-LIST:END -->
 
 #### 👯 Check out my recent followers
