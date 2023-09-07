@@ -45,8 +45,8 @@ Concentrate on yourself, it's enough.
 
 #### ⭐ Check out my recent stars
 
-- [wimdeblauwe/error-handling-spring-boot-starter](https://github.com/wimdeblauwe/error-handling-spring-boot-starter) - Spring Boot starter for configurable REST API error handling (3 days ago)
-- [ReaVNaiL/New-Grad-2024](https://github.com/ReaVNaiL/New-Grad-2024) - 👋 Hey there new grad🎉! We&#39;ve put together a collection of full-time job openings for SWE, Quant, PM and tech roles in 2024! 🚀 (4 days ago)
+- [wimdeblauwe/error-handling-spring-boot-starter](https://github.com/wimdeblauwe/error-handling-spring-boot-starter) - Spring Boot starter for configurable REST API error handling (4 days ago)
+- [ReaVNaiL/New-Grad-2024](https://github.com/ReaVNaiL/New-Grad-2024) - 👋 Hey there new grad🎉! We&#39;ve put together a collection of full-time job openings for SWE, Quant, PM and tech roles in 2024! 🚀 (5 days ago)
 - [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor (1 week ago)
 - [itgoyo/TelegramGroup](https://github.com/itgoyo/TelegramGroup) - 悄咪咪收集的1000&#43;个Telegram群合集，如果有更多好玩的telegram群，欢迎在 issue 提出或者pull requests (1 week ago)
 - [google/oss-fuzz](https://github.com/google/oss-fuzz) - OSS-Fuzz - continuous fuzzing for open source software. (2 weeks ago)
