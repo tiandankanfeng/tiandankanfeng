@@ -45,11 +45,11 @@ Concentrate on yourself, it's enough.
 
 #### ⭐ Check out my recent stars
 
+- [chengyi/BlindDateGuideForProgrammer](https://github.com/chengyi/BlindDateGuideForProgrammer) - 程序员相亲指南 (today)
 - [labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm) - 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.  (2 days ago)
 - [xudaolong/CodeVar](https://github.com/xudaolong/CodeVar) - 生成可用的代码变量 (CodeVar that return u a better variable from Chinese to English . ) (2 days ago)
 - [wimdeblauwe/error-handling-spring-boot-starter](https://github.com/wimdeblauwe/error-handling-spring-boot-starter) - Spring Boot starter for configurable REST API error handling (6 days ago)
 - [ReaVNaiL/New-Grad-2024](https://github.com/ReaVNaiL/New-Grad-2024) - 👋 Hey there new grad🎉! We&#39;ve put together a collection of full-time job openings for SWE, Quant, PM and tech roles in 2024! 🚀 (1 week ago)
-- [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor (1 week ago)
 
 #### 🔨 Check out my recent pull requests
 
@@ -72,11 +72,11 @@ Concentrate on yourself, it's enough.
 
 #### 👯 Check out my recent followers
 
-- [noemiecode](https://github.com/noemiecode)
 - [Asbaharoon](https://github.com/Asbaharoon)
 - [side-wipe](https://github.com/side-wipe)
 - [Ericsoo56](https://github.com/Ericsoo56)
 - [pinhe91](https://github.com/pinhe91)
+- [vivekweb2013](https://github.com/vivekweb2013)
 
 ![Metrics](/metrics.plugin.achievements.compact.svg)
 ![Metrics](/metrics.plugin.anilist.characters.svg)
