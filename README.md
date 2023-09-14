@@ -45,11 +45,11 @@ Concentrate on yourself, it's enough.
 
 #### ⭐ Check out my recent stars
 
-- [CarpenterLee/JavaLambdaInternals](https://github.com/CarpenterLee/JavaLambdaInternals) - 深入理解Java函数式编程和Streams API (1 day ago)
-- [doocs/technical-books](https://github.com/doocs/technical-books) - 😆 国内外互联网技术大牛们都写了哪些书籍：计算机基础、网络、前端、后端、数据库、架构、大数据、深度学习... (3 days ago)
-- [SharingSource/LogicStack-LeetCode](https://github.com/SharingSource/LogicStack-LeetCode) - 公众号「宫水三叶的刷题日记」刷穿 LeetCode 系列文章源码 (3 days ago)
-- [isno/theByteBook](https://github.com/isno/theByteBook) - 深入讲解内核网络、Kubernetes、ServiceMesh、容器等云原生相关技术。经历实践检验的 DevOps、SRE指南。如发现错误，谢谢提issue (3 days ago)
-- [chengyi/BlindDateGuideForProgrammer](https://github.com/chengyi/BlindDateGuideForProgrammer) - 程序员相亲指南 (4 days ago)
+- [CarpenterLee/JavaLambdaInternals](https://github.com/CarpenterLee/JavaLambdaInternals) - 深入理解Java函数式编程和Streams API (2 days ago)
+- [doocs/technical-books](https://github.com/doocs/technical-books) - 😆 国内外互联网技术大牛们都写了哪些书籍：计算机基础、网络、前端、后端、数据库、架构、大数据、深度学习... (4 days ago)
+- [SharingSource/LogicStack-LeetCode](https://github.com/SharingSource/LogicStack-LeetCode) - 公众号「宫水三叶的刷题日记」刷穿 LeetCode 系列文章源码 (4 days ago)
+- [isno/theByteBook](https://github.com/isno/theByteBook) - 深入讲解内核网络、Kubernetes、ServiceMesh、容器等云原生相关技术。经历实践检验的 DevOps、SRE指南。如发现错误，谢谢提issue (4 days ago)
+- [chengyi/BlindDateGuideForProgrammer](https://github.com/chengyi/BlindDateGuideForProgrammer) - 程序员相亲指南 (5 days ago)
 
 #### 🔨 Check out my recent pull requests
 
