@@ -45,15 +45,15 @@ Concentrate on yourself, it's enough.
 
 #### 📜 Check out my recent blog posts
 <!-- BLOG-POST-LIST:START -->
-- 🦒 [缄默的时代](https://liangye-xo.xyz//article/life-article3) 
+- 🦒 [好好锻炼](https://liangye-xo.xyz//article/life-article4) 
 
-- 🐲 [五月初五](https://liangye-xo.xyz//article/life-article2) 
+- 🐲 [缄默的时代](https://liangye-xo.xyz//article/life-article3) 
 
-- 💡 [玩物丧志，不如玩物养志](https://liangye-xo.xyz//article/life-article1) 
+- 💡 [五月初五](https://liangye-xo.xyz//article/life-article2) 
 
-- 👺 [所以，做自己吧](https://liangye-xo.xyz/?p=919) 
+- 👺 [玩物丧志，不如玩物养志](https://liangye-xo.xyz//article/life-article1) 
 
-- 🚦 [Looking forward to some interesting projects in 2023](http://tiandankanfeng.github.io/2023/01/24/Looking-forward-to-some-interesting-projects-in-2023/) 
+- 🚦 [所以，做自己吧](https://liangye-xo.xyz/?p=919) 
 <!-- BLOG-POST-LIST:END -->
 
 #### 👯 Check out my recent followers
