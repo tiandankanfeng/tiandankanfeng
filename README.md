@@ -45,16 +45,16 @@ Concentrate on yourself, it's enough.
 
 #### ⭐ Check out my recent stars
 
-- [papis/papis](https://github.com/papis/papis) - Powerful and highly extensible command-line based document and bibliography manager. (1 day ago)
-- [istio/istio](https://github.com/istio/istio) - Connect, secure, control, and observe services. (1 day ago)
-- [CarpenterLee/JavaLambdaInternals](https://github.com/CarpenterLee/JavaLambdaInternals) - 深入理解Java函数式编程和Streams API (1 week ago)
+- [papis/papis](https://github.com/papis/papis) - Powerful and highly extensible command-line based document and bibliography manager. (2 days ago)
+- [istio/istio](https://github.com/istio/istio) - Connect, secure, control, and observe services. (2 days ago)
+- [CarpenterLee/JavaLambdaInternals](https://github.com/CarpenterLee/JavaLambdaInternals) - 深入理解Java函数式编程和Streams API (2 weeks ago)
 - [doocs/technical-books](https://github.com/doocs/technical-books) - 😆 国内外互联网技术大牛们都写了哪些书籍：计算机基础、网络、前端、后端、数据库、架构、大数据、深度学习... (2 weeks ago)
 - [SharingSource/LogicStack-LeetCode](https://github.com/SharingSource/LogicStack-LeetCode) - 公众号「宫水三叶的刷题日记」刷穿 LeetCode 系列文章源码 (2 weeks ago)
 
 #### 🔨 Check out my recent pull requests
 
 - [Web3](https://github.com/tangly1024/NotionNext/pull/1228) on [tangly1024/NotionNext](https://github.com/tangly1024/NotionNext) (2 months ago)
-- [Deploy/4everland](https://github.com/tiandankanfeng/Birtney-NotionNext/pull/1) on [tiandankanfeng/Birtney-NotionNext](https://github.com/tiandankanfeng/Birtney-NotionNext) (2 months ago)
+- [Deploy/4everland](https://github.com/tiandankanfeng/Birtney-NotionNext/pull/1) on [tiandankanfeng/Birtney-NotionNext](https://github.com/tiandankanfeng/Birtney-NotionNext) (3 months ago)
 - [feat: use ConcurrentHashMap instead of HashMap with Sync(as HashTable…](https://github.com/alibaba/QLExpress/pull/221) on [alibaba/QLExpress](https://github.com/alibaba/QLExpress) (10 months ago)
 
 #### 📜 Check out my recent blog posts
