@@ -45,11 +45,11 @@ Concentrate on yourself, it's enough.
 
 #### ⭐ Check out my recent stars
 
+- [vert-x3/vertx-examples](https://github.com/vert-x3/vertx-examples) - Vert.x examples (today)
 - [vert-x3/vertx-awesome](https://github.com/vert-x3/vertx-awesome) - A curated list of awesome Vert.x resources, libraries, and other nice things. (today)
 - [papis/papis](https://github.com/papis/papis) - Powerful and highly extensible command-line based document and bibliography manager. (3 days ago)
 - [istio/istio](https://github.com/istio/istio) - Connect, secure, control, and observe services. (3 days ago)
 - [CarpenterLee/JavaLambdaInternals](https://github.com/CarpenterLee/JavaLambdaInternals) - 深入理解Java函数式编程和Streams API (2 weeks ago)
-- [doocs/technical-books](https://github.com/doocs/technical-books) - 😆 国内外互联网技术大牛们都写了哪些书籍：计算机基础、网络、前端、后端、数据库、架构、大数据、深度学习... (2 weeks ago)
 
 #### 🔨 Check out my recent pull requests
 
