@@ -45,8 +45,8 @@ Concentrate on yourself, it's enough.
 
 #### ⭐ Check out my recent stars
 
-- [papis/papis](https://github.com/papis/papis) - Powerful and highly extensible command-line based document and bibliography manager. (2 days ago)
-- [istio/istio](https://github.com/istio/istio) - Connect, secure, control, and observe services. (2 days ago)
+- [papis/papis](https://github.com/papis/papis) - Powerful and highly extensible command-line based document and bibliography manager. (3 days ago)
+- [istio/istio](https://github.com/istio/istio) - Connect, secure, control, and observe services. (3 days ago)
 - [CarpenterLee/JavaLambdaInternals](https://github.com/CarpenterLee/JavaLambdaInternals) - 深入理解Java函数式编程和Streams API (2 weeks ago)
 - [doocs/technical-books](https://github.com/doocs/technical-books) - 😆 国内外互联网技术大牛们都写了哪些书籍：计算机基础、网络、前端、后端、数据库、架构、大数据、深度学习... (2 weeks ago)
 - [SharingSource/LogicStack-LeetCode](https://github.com/SharingSource/LogicStack-LeetCode) - 公众号「宫水三叶的刷题日记」刷穿 LeetCode 系列文章源码 (2 weeks ago)
