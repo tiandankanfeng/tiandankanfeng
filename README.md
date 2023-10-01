@@ -45,10 +45,10 @@ Concentrate on yourself, it's enough.
 
 #### ⭐ Check out my recent stars
 
-- [vert-x3/vertx-examples](https://github.com/vert-x3/vertx-examples) - Vert.x examples (3 days ago)
-- [vert-x3/vertx-awesome](https://github.com/vert-x3/vertx-awesome) - A curated list of awesome Vert.x resources, libraries, and other nice things. (3 days ago)
-- [papis/papis](https://github.com/papis/papis) - Powerful and highly extensible command-line based document and bibliography manager. (6 days ago)
-- [istio/istio](https://github.com/istio/istio) - Connect, secure, control, and observe services. (6 days ago)
+- [vert-x3/vertx-examples](https://github.com/vert-x3/vertx-examples) - Vert.x examples (4 days ago)
+- [vert-x3/vertx-awesome](https://github.com/vert-x3/vertx-awesome) - A curated list of awesome Vert.x resources, libraries, and other nice things. (4 days ago)
+- [papis/papis](https://github.com/papis/papis) - Powerful and highly extensible command-line based document and bibliography manager. (1 week ago)
+- [istio/istio](https://github.com/istio/istio) - Connect, secure, control, and observe services. (1 week ago)
 - [CarpenterLee/JavaLambdaInternals](https://github.com/CarpenterLee/JavaLambdaInternals) - 深入理解Java函数式编程和Streams API (2 weeks ago)
 
 #### 🔨 Check out my recent pull requests
