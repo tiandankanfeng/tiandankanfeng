@@ -45,11 +45,11 @@ Concentrate on yourself, it's enough.
 
 #### ⭐ Check out my recent stars
 
+- [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - GPT-powered chat for documentation, chat with your documents (today)
 - [vert-x3/vertx-examples](https://github.com/vert-x3/vertx-examples) - Vert.x examples (1 week ago)
 - [vert-x3/vertx-awesome](https://github.com/vert-x3/vertx-awesome) - A curated list of awesome Vert.x resources, libraries, and other nice things. (1 week ago)
 - [papis/papis](https://github.com/papis/papis) - Powerful and highly extensible command-line based document and bibliography manager. (1 week ago)
 - [istio/istio](https://github.com/istio/istio) - Connect, secure, control, and observe services. (1 week ago)
-- [CarpenterLee/JavaLambdaInternals](https://github.com/CarpenterLee/JavaLambdaInternals) - 深入理解Java函数式编程和Streams API (3 weeks ago)
 
 #### 🔨 Check out my recent pull requests
 
