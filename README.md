@@ -45,8 +45,8 @@ Concentrate on yourself, it's enough.
 
 #### ⭐ Check out my recent stars
 
-- [TrionesType/zhuque](https://github.com/TrionesType/zhuque) - 朱雀仿宋/朱雀宋朝/Zhuque Fangsong: An open-source Fansong typeface project (today)
-- [HaolinZhong/PMCA](https://github.com/HaolinZhong/PMCA) - Practice Makes Code Accepted (1 day ago)
+- [TrionesType/zhuque](https://github.com/TrionesType/zhuque) - 朱雀仿宋/朱雀宋朝/Zhuque Fangsong: An open-source Fansong typeface project (1 day ago)
+- [HaolinZhong/PMCA](https://github.com/HaolinZhong/PMCA) - Practice Makes Code Accepted (2 days ago)
 - [vert-x3/vertx-examples](https://github.com/vert-x3/vertx-examples) - Vert.x examples (1 week ago)
 - [vert-x3/vertx-awesome](https://github.com/vert-x3/vertx-awesome) - A curated list of awesome Vert.x resources, libraries, and other nice things. (1 week ago)
 - [papis/papis](https://github.com/papis/papis) - Powerful and highly extensible command-line based document and bibliography manager. (2 weeks ago)
