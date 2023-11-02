@@ -45,9 +45,9 @@ Concentrate on yourself, it's enough.
 
 #### ⭐ Check out my recent stars
 
-- [ReactiveX/RxJava](https://github.com/ReactiveX/RxJava) - RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM. (5 days ago)
-- [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs. (6 days ago)
-- [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews. (6 days ago)
+- [ReactiveX/RxJava](https://github.com/ReactiveX/RxJava) - RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM. (6 days ago)
+- [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs. (1 week ago)
+- [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews. (1 week ago)
 - [TrionesType/zhuque](https://github.com/TrionesType/zhuque) - 朱雀仿宋/朱雀宋朝/Zhuque Fangsong: An open-source Fansong typeface project (3 weeks ago)
 - [HaolinZhong/PMCA](https://github.com/HaolinZhong/PMCA) - Practice Makes Code Accepted (3 weeks ago)
 
@@ -59,15 +59,15 @@ Concentrate on yourself, it's enough.
 
 #### 📜 Check out my recent blog posts
 
-- 🦒 [好好锻炼](https://liangye-xo.xyz//article/life-article4) 
+- 🦒 [在健身房的若干姿势](https://liangye-xo.xyz//article/exercise-lab-article-1) 
 
-- 🐲 [缄默的时代](https://liangye-xo.xyz//article/life-article3) 
+- 🐲 [好好锻炼](https://liangye-xo.xyz//article/life-article4) 
 
-- 💡 [五月初五](https://liangye-xo.xyz//article/life-article2) 
+- 💡 [缄默的时代](https://liangye-xo.xyz//article/life-article3) 
 
-- 👺 [玩物丧志，不如玩物养志](https://liangye-xo.xyz//article/life-article1) 
+- 👺 [五月初五](https://liangye-xo.xyz//article/life-article2) 
 
-- 🚦 [所以，做自己吧](https://liangye-xo.xyz/?p=919) 
+- 🚦 [玩物丧志，不如玩物养志](https://liangye-xo.xyz//article/life-article1) 
 
 
 #### 👯 Check out my recent followers
