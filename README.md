@@ -43,10 +43,10 @@ Concentrate on yourself, it's enough.
 
 #### ⭐ Check out my recent stars
 
-- [xiaolai/everyone-can-use-english](https://github.com/xiaolai/everyone-can-use-english) - 人人都能用英语 (today)
-- [kunal-kushwaha/DSA-Bootcamp-Java](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java) - This repository consists of the code samples, assignments, and notes for the Java data structures &amp; algorithms &#43; interview preparation bootcamp of WeMakeDevs. (1 day ago)
-- [ascoders/weekly](https://github.com/ascoders/weekly) - 前端精读周刊。帮你理解最前沿、实用的技术。 (1 day ago)
-- [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler) - Crawl a site to generate knowledge files to create your own custom GPT from a URL (2 days ago)
+- [xiaolai/everyone-can-use-english](https://github.com/xiaolai/everyone-can-use-english) - 人人都能用英语 (1 day ago)
+- [kunal-kushwaha/DSA-Bootcamp-Java](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java) - This repository consists of the code samples, assignments, and notes for the Java data structures &amp; algorithms &#43; interview preparation bootcamp of WeMakeDevs. (2 days ago)
+- [ascoders/weekly](https://github.com/ascoders/weekly) - 前端精读周刊。帮你理解最前沿、实用的技术。 (2 days ago)
+- [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler) - Crawl a site to generate knowledge files to create your own custom GPT from a URL (3 days ago)
 - [lzyzsd/Awesome-RxJava](https://github.com/lzyzsd/Awesome-RxJava) - RxJava resources (1 week ago)
 
 #### 🔨 Check out my recent pull requests
