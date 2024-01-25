@@ -41,11 +41,11 @@ Concentrate on yourself, it's enough.
 
 #### ⭐ Check out my recent stars
 
+- [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) - An advanced guide to learn English which might benefit you a lot 🎉 .  离谱的英语学习指南/英语学习教程。 (today)
 - [oddfar/campus-imaotai](https://github.com/oddfar/campus-imaotai) - i茅台app自动预约，每日自动预约，支持docker一键部署 (1 week ago)
 - [bookfere/Ebook-Translator-Calibre-Plugin](https://github.com/bookfere/Ebook-Translator-Calibre-Plugin) - A Calibre plugin to translate ebook into a specified language. (2 weeks ago)
 - [devv-ai/devv](https://github.com/devv-ai/devv) - An AI-powered search engine for developers. (2 weeks ago)
 - [linexjlin/GPTs](https://github.com/linexjlin/GPTs) - leaked prompts of GPTs (3 weeks ago)
-- [vual/ChatGPT-Next-Web-Pro](https://github.com/vual/ChatGPT-Next-Web-Pro) - 基于chatgpt-next-web，增加了midjourney绘画功能，接入了stable-diffusion，支持oss，支持dall-e-3、gpt4-vision-preview、whisper、tts，支持gpt-4-all，正在增加注册登录，后台管理，接入知识库等。 (3 weeks ago)
 
 #### 🔨 Check out my recent pull requests
 
