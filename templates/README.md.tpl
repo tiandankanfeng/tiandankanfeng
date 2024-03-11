@@ -45,15 +45,15 @@ Concentrate on yourself, it's enough.
 
 #### 📜 Check out my recent blog posts
 <!-- BLOG-POST-LIST:START -->
-- 🦒 [23Y总结](https://liangye-xo.xyz//article/f6389799-6046-45ac-bd78-f4c21bcd0b76) 
+- 🦒 [困住你的是什么？](https://liangye-xo.xyz//article/life-article5) 
 
-- 🐲 [在健身房的若干姿势](https://liangye-xo.xyz//article/exercise-lab-article-1) 
+- 🐲 [23Y总结](https://liangye-xo.xyz//article/f6389799-6046-45ac-bd78-f4c21bcd0b76) 
 
-- 💡 [好好锻炼](https://liangye-xo.xyz//article/life-article4) 
+- 💡 [在健身房的若干姿势](https://liangye-xo.xyz//article/exercise-lab-article-1) 
 
-- 👺 [缄默的时代](https://liangye-xo.xyz//article/life-article3) 
+- 👺 [好好锻炼](https://liangye-xo.xyz//article/life-article4) 
 
-- 🚦 [五月初五](https://liangye-xo.xyz//article/life-article2) 
+- 🚦 [缄默的时代](https://liangye-xo.xyz//article/life-article3) 
 <!-- BLOG-POST-LIST:END -->
 
 #### 👯 Check out my recent followers
