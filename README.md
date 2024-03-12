@@ -39,11 +39,11 @@ Concentrate on yourself, it's enough.
 
 #### ⭐ Check out my recent stars
 
-- [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about (1 day ago)
-- [zh-google-styleguide/zh-google-styleguide](https://github.com/zh-google-styleguide/zh-google-styleguide) - Google 开源项目风格指南 (中文版) (1 day ago)
-- [hakadao/BewlyBewly](https://github.com/hakadao/BewlyBewly) - Improve your Bilibili homepage by redesigning it, adding more features, and personalizing it to match your preferences. (English | 简体中文 | 正體中文 | 廣東話) (2 days ago)
-- [Ranchero-Software/NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire) - RSS reader for macOS and iOS. (3 days ago)
-- [MrKai77/Loop](https://github.com/MrKai77/Loop) - MacOS window management made elegant. (5 days ago)
+- [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about (2 days ago)
+- [zh-google-styleguide/zh-google-styleguide](https://github.com/zh-google-styleguide/zh-google-styleguide) - Google 开源项目风格指南 (中文版) (2 days ago)
+- [hakadao/BewlyBewly](https://github.com/hakadao/BewlyBewly) - Improve your Bilibili homepage by redesigning it, adding more features, and personalizing it to match your preferences. (English | 简体中文 | 正體中文 | 廣東話) (3 days ago)
+- [Ranchero-Software/NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire) - RSS reader for macOS and iOS. (4 days ago)
+- [MrKai77/Loop](https://github.com/MrKai77/Loop) - MacOS window management made elegant. (6 days ago)
 
 #### 🔨 Check out my recent pull requests
 
@@ -53,15 +53,15 @@ Concentrate on yourself, it's enough.
 
 #### 📜 Check out my recent blog posts
 
-- 🦒 [23Y总结](https://liangye-xo.xyz//article/f6389799-6046-45ac-bd78-f4c21bcd0b76) 
+- 🦒 [困住你的是什么？](https://liangye-xo.xyz//article/life-article5) 
 
-- 🐲 [在健身房的若干姿势](https://liangye-xo.xyz//article/exercise-lab-article-1) 
+- 🐲 [23Y总结](https://liangye-xo.xyz//article/f6389799-6046-45ac-bd78-f4c21bcd0b76) 
 
-- 💡 [好好锻炼](https://liangye-xo.xyz//article/life-article4) 
+- 💡 [在健身房的若干姿势](https://liangye-xo.xyz//article/exercise-lab-article-1) 
 
-- 👺 [缄默的时代](https://liangye-xo.xyz//article/life-article3) 
+- 👺 [好好锻炼](https://liangye-xo.xyz//article/life-article4) 
 
-- 🚦 [五月初五](https://liangye-xo.xyz//article/life-article2) 
+- 🚦 [缄默的时代](https://liangye-xo.xyz//article/life-article3) 
 
 
 #### 👯 Check out my recent followers
