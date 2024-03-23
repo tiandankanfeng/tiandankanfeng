@@ -39,11 +39,11 @@ Concentrate on yourself, it's enough.
 
 #### ⭐ Check out my recent stars
 
+- [phodal/prompt-patterns](https://github.com/phodal/prompt-patterns) - Prompt 编写模式：如何将思维框架赋予机器，以设计模式的形式来思考 prompt (today)
 - [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (today)
 - [LetTTGACO/elog](https://github.com/LetTTGACO/elog) - Markdown 批量导出工具、开放式跨平台博客解决方案，随意组合写作平台(语雀/Notion/FlowUs/飞书)和博客平台(Hexo/Vitepress/Halo/Confluence/WordPress等) (today)
 - [OpenMindClub/awesome-chatgpt](https://github.com/OpenMindClub/awesome-chatgpt) - ⚡ Everything about ChatGPT (1 week ago)
 - [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程，支持 Python, C&#43;&#43;, Java, C#, Go, Swift, JS, TS, Dart, Rust, C, Zig 等语言。English edition ongoing (1 week ago)
-- [will-che/flink-recommandSystem-demo](https://github.com/will-che/flink-recommandSystem-demo) - :helicopter::rocket:基于Flink实现的商品实时推荐系统。flink统计商品热度，放入redis缓存，分析日志信息，将画像标签和实时记录放入Hbase。在用户发起推荐请求后，根据用户画像重排序热度榜，并结合协同过滤和标签两个推荐模块为新生成的榜单的每一个产品添加关联产品，最后返回新的用户列表。 (1 week ago)
 
 #### 🔨 Check out my recent pull requests
 
@@ -53,15 +53,15 @@ Concentrate on yourself, it's enough.
 
 #### 📜 Check out my recent blog posts
 
-- 🦒 [三月上旬-允许万事万物穿透自己](https://liangye-xo.xyz//article/life-article6) 
+- 🦒 [三月上旬-允许万事万物穿透自己](https://birtney.link/article/life-article6) 
 
-- 🐲 [困住你的是什么？](https://liangye-xo.xyz//article/life-article5) 
+- 🐲 [困住你的是什么？](https://birtney.link/article/life-article5) 
 
-- 💡 [23Y总结](https://liangye-xo.xyz//article/f6389799-6046-45ac-bd78-f4c21bcd0b76) 
+- 💡 [23Y总结](https://birtney.link/article/f6389799-6046-45ac-bd78-f4c21bcd0b76) 
 
-- 👺 [在健身房的若干姿势](https://liangye-xo.xyz//article/exercise-lab-article-1) 
+- 👺 [在健身房的若干姿势](https://birtney.link/article/exercise-lab-article-1) 
 
-- 🚦 [好好锻炼](https://liangye-xo.xyz//article/life-article4) 
+- 🚦 [好好锻炼](https://birtney.link/article/life-article4) 
 
 
 #### 👯 Check out my recent followers
