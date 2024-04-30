@@ -39,7 +39,7 @@ Concentrate on yourself, it's enough.
 
 #### ⭐ Check out my recent stars
 
-- [Azure/fetch-event-source](https://github.com/Azure/fetch-event-source) - A better API for making Event Source requests, with all the features of fetch() (6 days ago)
+- [Azure/fetch-event-source](https://github.com/Azure/fetch-event-source) - A better API for making Event Source requests, with all the features of fetch() (1 week ago)
 - [zhangyaoo/fastim](https://github.com/zhangyaoo/fastim) - 🚀基于Netty高可用分布式即时通讯系统，支持长连接网关管理、单聊、群聊、离线消息、消息推送消息、消息已读未读、消息未读数、红包、消息漫游等功能，支持集群部署的分布式架构。 (3 weeks ago)
 - [phodal/prompt-patterns](https://github.com/phodal/prompt-patterns) - Prompt 编写模式：如何将思维框架赋予机器，以设计模式的形式来思考 prompt (1 month ago)
 - [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol. (1 month ago)
