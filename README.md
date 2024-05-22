@@ -39,11 +39,11 @@ Concentrate on yourself, it's enough.
 
 #### ⭐ Check out my recent stars
 
+- [Tohrusky/Final2x](https://github.com/Tohrusky/Final2x) - 2^x Image Super-Resolution (today)
 - [slince-zero/IMaker](https://github.com/slince-zero/IMaker) - Create striking covers effortlessly with our easy-to-use IMaker. (3 days ago)
 - [Lakr233/MoneyProgress](https://github.com/Lakr233/MoneyProgress) - 借一个上班的进度条。 (4 days ago)
 - [Azure/fetch-event-source](https://github.com/Azure/fetch-event-source) - A better API for making Event Source requests, with all the features of fetch() (4 weeks ago)
 - [zhangyaoo/fastim](https://github.com/zhangyaoo/fastim) - 🚀基于Netty高可用分布式即时通讯系统，支持长连接网关管理、单聊、群聊、离线消息、消息推送消息、消息已读未读、消息未读数、红包、消息漫游等功能，支持集群部署的分布式架构。 (1 month ago)
-- [phodal/prompt-patterns](https://github.com/phodal/prompt-patterns) - Prompt 编写模式：如何将思维框架赋予机器，以设计模式的形式来思考 prompt (2 months ago)
 
 #### 🔨 Check out my recent pull requests
 
