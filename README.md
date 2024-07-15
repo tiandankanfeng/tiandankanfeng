@@ -37,7 +37,7 @@ Concentrate on yourself, it's enough.
 
 #### ⭐ Check out my recent stars
 
-- [shuding/next-view-transitions](https://github.com/shuding/next-view-transitions) - Use CSS View Transitions API in Next.js App Router. (1 day ago)
+- [shuding/next-view-transitions](https://github.com/shuding/next-view-transitions) - Use CSS View Transitions API in Next.js App Router. (2 days ago)
 - [yihong0618/running_page](https://github.com/yihong0618/running_page) - Make your own running home page (2 weeks ago)
 - [malinkang/weread2notion-pro](https://github.com/malinkang/weread2notion-pro) -  (2 weeks ago)
 - [HenryC-3/D2N](https://github.com/HenryC-3/D2N) - D2N：将豆瓣书籍信息保存到 Notion (2 weeks ago)
