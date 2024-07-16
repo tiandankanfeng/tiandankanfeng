@@ -37,11 +37,11 @@ Concentrate on yourself, it's enough.
 
 #### ⭐ Check out my recent stars
 
+- [YunaiV/yudao-cloud](https://github.com/YunaiV/yudao-cloud) - ruoyi-vue-pro 全新 Cloud 版本，优化重构所有功能。基于 Spring Cloud Alibaba &#43; MyBatis Plus &#43; Vue &amp; Element 实现的后台管理系统 &#43; 用户小程序，支持 RBAC 动态权限、多租户、数据权限、工作流、三方登录、支付、短信、商城、CRM、ERP 等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！ (today)
+- [Ceelog/DictionaryByGPT4](https://github.com/Ceelog/DictionaryByGPT4) - 一本 GPT4 生成的单词书📚，超过 8000 个单词分析，涵盖了词义、例句、词根词缀、变形、文化背景、记忆技巧和小故事 (today)
 - [shuding/next-view-transitions](https://github.com/shuding/next-view-transitions) - Use CSS View Transitions API in Next.js App Router. (3 days ago)
 - [yihong0618/running_page](https://github.com/yihong0618/running_page) - Make your own running home page (2 weeks ago)
 - [malinkang/weread2notion-pro](https://github.com/malinkang/weread2notion-pro) -  (2 weeks ago)
-- [HenryC-3/D2N](https://github.com/HenryC-3/D2N) - D2N：将豆瓣书籍信息保存到 Notion (2 weeks ago)
-- [Librum-Reader/Librum](https://github.com/Librum-Reader/Librum) - The Librum client application (2 weeks ago)
 
 #### 🔨 Check out my recent pull requests
 
