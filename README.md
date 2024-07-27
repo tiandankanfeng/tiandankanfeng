@@ -51,15 +51,15 @@ Concentrate on yourself, it's enough.
 
 #### 📜 Check out my recent blog posts
 
-- 🦒 [四月-去做令你感到恐惧的事](https://birtney.link/article/1fff021f-44f6-4b87-995e-0807420fbf72) 
+- 🦒 [六月-人生是旷野，不是轨道](https://birtney.link/article/9ec81d92-282e-4d0e-8ee7-b4e9e3254470) 
 
-- 🐲 [三月下旬-你是怎么看待这个世界的？](https://birtney.link/article/abc0fe34-18d0-45f0-8f9a-b4536426d845) 
+- 🐲 [五月-透过指缝间的阳光洒落下来](https://birtney.link/article/739a22aa-5715-4123-a9ef-f121c4d1df7f) 
 
-- 💡 [三月上旬-允许万事万物穿透自己](https://birtney.link/article/life-article6) 
+- 💡 [四月-去做令你感到恐惧的事](https://birtney.link/article/1fff021f-44f6-4b87-995e-0807420fbf72) 
 
-- 👺 [困住你的是什么？](https://birtney.link/article/life-article5) 
+- 👺 [三月下旬-你是怎么看待这个世界的？](https://birtney.link/article/abc0fe34-18d0-45f0-8f9a-b4536426d845) 
 
-- 🚦 [23Y总结](https://birtney.link/article/f6389799-6046-45ac-bd78-f4c21bcd0b76) 
+- 🚦 [三月上旬-允许万事万物穿透自己](https://birtney.link/article/life-article6) 
 
 
 #### 👯 Check out my recent followers
