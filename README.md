@@ -37,11 +37,11 @@ Concentrate on yourself, it's enough.
 
 #### ⭐ Check out my recent stars
 
+- [qiangmzsx/Software-Engineering-at-Google](https://github.com/qiangmzsx/Software-Engineering-at-Google) - 《Software Engineering at Google》的中英文对译版本 (today)
+- [chen08209/FlClash](https://github.com/chen08209/FlClash) - A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free. (today)
 - [ryanuo/blazeB2](https://github.com/ryanuo/blazeB2) - 📷An image bed tool with CDN acceleration function developed based on backBlazeb2 API &amp; ⚡ cloudflare (4 weeks ago)
 - [Pintree-io/pintree](https://github.com/Pintree-io/pintree) - An intuitive tool for managing and exporting your local bookmarks into a shareable website.  (4 weeks ago)
 - [SagerNet/sing-box](https://github.com/SagerNet/sing-box) - The universal proxy platform (4 weeks ago)
-- [o2sh/onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool (4 weeks ago)
-- [YunaiV/yudao-cloud](https://github.com/YunaiV/yudao-cloud) - ruoyi-vue-pro 全新 Cloud 版本，优化重构所有功能。基于 Spring Cloud Alibaba &#43; MyBatis Plus &#43; Vue &amp; Element 实现的后台管理系统 &#43; 用户小程序，支持 RBAC 动态权限、多租户、数据权限、工作流、三方登录、支付、短信、商城、CRM、ERP、AI 大模型等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！ (1 month ago)
 
 #### 🔨 Check out my recent pull requests
 
