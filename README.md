@@ -37,7 +37,7 @@ Concentrate on yourself, it's enough.
 
 #### ⭐ Check out my recent stars
 
-- [ChatGPTNextWeb/NextChat-Awesome-Plugins](https://github.com/ChatGPTNextWeb/NextChat-Awesome-Plugins) - NextChat Awesome Plugins (2 days ago)
+- [ChatGPTNextWeb/NextChat-Awesome-Plugins](https://github.com/ChatGPTNextWeb/NextChat-Awesome-Plugins) - NextChat Awesome Plugins (3 days ago)
 - [OwO-Network/DeepLX](https://github.com/OwO-Network/DeepLX) - Powerful Free DeepL API, No Token Required (1 week ago)
 - [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled. (2 weeks ago)
 - [mushan0x0/AI0x0.com](https://github.com/mushan0x0/AI0x0.com) - 一个多模态多模型通用型的全局全能 AI 查询生成桌面悬浮助手应用 (3 weeks ago)
@@ -67,8 +67,8 @@ Concentrate on yourself, it's enough.
 - [cassimahmedattia](https://github.com/cassimahmedattia)
 - [Asbaharoon](https://github.com/Asbaharoon)
 - [side-wipe](https://github.com/side-wipe)
-- [Ericsoo56](https://github.com/Ericsoo56)
 - [pinhe91](https://github.com/pinhe91)
+- [vivekweb2013](https://github.com/vivekweb2013)
 
 ![Metrics](/metrics.plugin.achievements.compact.svg)
 ![Metrics](/metrics.plugin.anilist.characters.svg)
