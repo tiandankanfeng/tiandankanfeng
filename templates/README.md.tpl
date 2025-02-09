@@ -45,15 +45,15 @@ Concentrate on yourself, it's enough.
 
 #### 📜 Check out my recent blog posts
 <!-- BLOG-POST-LIST:START -->
-- 🦒 [六月-人生是旷野，不是轨道](https://birtney.link/article/9ec81d92-282e-4d0e-8ee7-b4e9e3254470) 
+- 🦒 [十一月-允许一切发生，然后勇敢面对](https://birtney.link/article/life-article14) 
 
-- 🐲 [五月-透过指缝间的阳光洒落下来](https://birtney.link/article/739a22aa-5715-4123-a9ef-f121c4d1df7f) 
+- 🐲 [十月-允许一切如其所是](https://birtney.link/article/life-article13) 
 
-- 💡 [四月-去做令你感到恐惧的事](https://birtney.link/article/1fff021f-44f6-4b87-995e-0807420fbf72) 
+- 💡 [八月-循此苦旅，以抵繁星](https://birtney.link/article/life-article12) 
 
-- 👺 [三月下旬-你是怎么看待这个世界的？](https://birtney.link/article/abc0fe34-18d0-45f0-8f9a-b4536426d845) 
+- 👺 [七月-别听世俗的耳语，去看自己喜欢的风景](https://birtney.link/article/life-article11) 
 
-- 🚦 [三月上旬-允许万事万物穿透自己](https://birtney.link/article/life-article6) 
+- 🚦 [六月-人生是旷野，不是轨道](https://birtney.link/article/life-article10) 
 <!-- BLOG-POST-LIST:END -->
 
 #### 👯 Check out my recent followers
