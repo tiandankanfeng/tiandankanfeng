@@ -35,11 +35,11 @@ Concentrate on yourself, it's enough.
 
 #### ⭐ Check out my recent stars
 
+- [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown. (today)
+- [MikhailKravets/mkdocs_puml](https://github.com/MikhailKravets/mkdocs_puml) - Inline PlantUML diagrams in your MkDocs documentation (today)
 - [linyuxuanlin/Obsidian_Publish_MkDocs_Material_Vercel_template](https://github.com/linyuxuanlin/Obsidian_Publish_MkDocs_Material_Vercel_template) - 使用 Obsidian 写笔记，用 MkDocs 公开分享（使用 Vercel 部署，极简配置步骤） (3 days ago)
 - [nxshell/nxshell](https://github.com/nxshell/nxshell) - An easy to use new terminal.  (4 days ago)
 - [huggingface/open-r1](https://github.com/huggingface/open-r1) - Fully open reproduction of DeepSeek-R1 (5 days ago)
-- [nicejade/wealth-tracker](https://github.com/nicejade/wealth-tracker) - 💰生财有迹（Wealth Tracker）是一款专注于个人资产分析的应用程序。其核心功能是：全面记录并展示用户的资产状况，帮助用户轻松了解财务现状；运用 AI 能力，结合每种资产的特性和当前环境，提供适宜的财务建议。 (6 days ago)
-- [deepseek-ai/awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration) -  (6 days ago)
 
 #### 🔨 Check out my recent pull requests
 
