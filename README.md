@@ -35,11 +35,11 @@ Concentrate on yourself, it's enough.
 
 #### ⭐ Check out my recent stars
 
-- [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown. (today)
-- [MikhailKravets/mkdocs_puml](https://github.com/MikhailKravets/mkdocs_puml) - Inline PlantUML diagrams in your MkDocs documentation (today)
-- [linyuxuanlin/Obsidian_Publish_MkDocs_Material_Vercel_template](https://github.com/linyuxuanlin/Obsidian_Publish_MkDocs_Material_Vercel_template) - 使用 Obsidian 写笔记，用 MkDocs 公开分享（使用 Vercel 部署，极简配置步骤） (3 days ago)
-- [nxshell/nxshell](https://github.com/nxshell/nxshell) - An easy to use new terminal.  (4 days ago)
-- [huggingface/open-r1](https://github.com/huggingface/open-r1) - Fully open reproduction of DeepSeek-R1 (5 days ago)
+- [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown. (1 day ago)
+- [MikhailKravets/mkdocs_puml](https://github.com/MikhailKravets/mkdocs_puml) - Inline PlantUML diagrams in your MkDocs documentation (1 day ago)
+- [linyuxuanlin/Obsidian_Publish_MkDocs_Material_Vercel_template](https://github.com/linyuxuanlin/Obsidian_Publish_MkDocs_Material_Vercel_template) - 使用 Obsidian 写笔记，用 MkDocs 公开分享（使用 Vercel 部署，极简配置步骤） (4 days ago)
+- [nxshell/nxshell](https://github.com/nxshell/nxshell) - An easy to use new terminal.  (5 days ago)
+- [huggingface/open-r1](https://github.com/huggingface/open-r1) - Fully open reproduction of DeepSeek-R1 (6 days ago)
 
 #### 🔨 Check out my recent pull requests
 
