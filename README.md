@@ -35,11 +35,11 @@ Concentrate on yourself, it's enough.
 
 #### ⭐ Check out my recent stars
 
+- [MartialBE/one-hub](https://github.com/MartialBE/one-hub) - OpenAI 接口管理 &amp; 分发系统，改自songquanpeng/one-api。支持更多模型，加入统计页面，完善非openai模型的函数调用。 (today)
+- [mkdocs/catalog](https://github.com/mkdocs/catalog) - :trophy: :books: A list of awesome MkDocs projects and plugins.  (today)
 - [getAsterisk/deepclaude](https://github.com/getAsterisk/deepclaude) - A high-performance LLM inference API and Chat UI that integrates DeepSeek R1&#39;s CoT reasoning traces with Anthropic Claude models. (today)
 - [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown. (4 days ago)
 - [MikhailKravets/mkdocs_puml](https://github.com/MikhailKravets/mkdocs_puml) - Inline PlantUML diagrams in your MkDocs documentation (4 days ago)
-- [linyuxuanlin/Obsidian_Publish_MkDocs_Material_Vercel_template](https://github.com/linyuxuanlin/Obsidian_Publish_MkDocs_Material_Vercel_template) - 使用 Obsidian 写笔记，用 MkDocs 公开分享（使用 Vercel 部署，极简配置步骤） (1 week ago)
-- [nxshell/nxshell](https://github.com/nxshell/nxshell) - An easy to use new terminal.  (1 week ago)
 
 #### 🔨 Check out my recent pull requests
 
