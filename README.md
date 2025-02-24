@@ -35,11 +35,11 @@ Concentrate on yourself, it's enough.
 
 #### ⭐ Check out my recent stars
 
+- [zilliztech/deep-searcher](https://github.com/zilliztech/deep-searcher) - Open Source Deep Research Alternative to Reason and Search on Private Data. Written in Python. (today)
 - [google/fonts](https://github.com/google/fonts) - Font files available from Google Fonts, and a public issue tracker for all things Google Fonts (1 day ago)
 - [carbon-app/carbon](https://github.com/carbon-app/carbon) - :black_heart: Create and share beautiful images of your source code (2 days ago)
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place (3 days ago)
 - [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) - Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI (4 days ago)
-- [MartialBE/one-hub](https://github.com/MartialBE/one-hub) - OpenAI 接口管理 &amp; 分发系统，改自songquanpeng/one-api。支持更多模型，加入统计页面，完善非openai模型的函数调用。 (5 days ago)
 
 #### 🔨 Check out my recent pull requests
 
@@ -62,11 +62,11 @@ Concentrate on yourself, it's enough.
 
 #### 👯 Check out my recent followers
 
-- [XiaomingX](https://github.com/XiaomingX)
 - [idimetrix](https://github.com/idimetrix)
 - [cassimahmedattia](https://github.com/cassimahmedattia)
 - [Asbaharoon](https://github.com/Asbaharoon)
 - [side-wipe](https://github.com/side-wipe)
+- [pinhe91](https://github.com/pinhe91)
 
 ![Metrics](/metrics.plugin.achievements.compact.svg)
 ![Metrics](/metrics.plugin.anilist.characters.svg)
