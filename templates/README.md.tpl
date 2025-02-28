@@ -45,15 +45,15 @@ Concentrate on yourself, it's enough.
 
 #### 📜 Check out my recent blog posts
 <!-- BLOG-POST-LIST:START -->
-- 🦒 [十一月-允许一切发生，然后勇敢面对](https://birtney.link/article/life-article14) 
+- 🦒 [所以，做自己吧](https://liangye-xo.xyz/?p=919) 
 
-- 🐲 [十月-允许一切如其所是](https://birtney.link/article/life-article13) 
+- 🐲 [Looking forward to some interesting projects in 2023](http://tiandankanfeng.github.io/2023/01/24/Looking-forward-to-some-interesting-projects-in-2023/) 
 
-- 💡 [八月-循此苦旅，以抵繁星](https://birtney.link/article/life-article12) 
+- 💡 [杂杂碎碎、姗姗来迟的年终杂记~](https://liangye-xo.xyz/?p=910) 
 
-- 👺 [七月-别听世俗的耳语，去看自己喜欢的风景](https://birtney.link/article/life-article11) 
+- 👺 [开阔世界，冲破艰险 - 白日梦想家](https://liangye-xo.xyz/?p=906) 
 
-- 🚦 [六月-人生是旷野，不是轨道](https://birtney.link/article/life-article10) 
+- 🚦 [The top ten luxury goods](http://tiandankanfeng.github.io/2022/11/20/The-top-ten-luxury-goods/) 
 <!-- BLOG-POST-LIST:END -->
 
 #### 👯 Check out my recent followers
