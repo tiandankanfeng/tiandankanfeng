@@ -49,15 +49,9 @@ Concentrate on yourself, it's enough.
 
 #### 📜 Check out my recent blog posts
 
-- 🦒 [十一月-允许一切发生，然后勇敢面对](https://birtney.link/article/life-article14) 
+- 🦒 [Looking forward to some interesting projects in 2023](http://tiandankanfeng.github.io/2023/01/24/Looking-forward-to-some-interesting-projects-in-2023/) 
 
-- 🐲 [十月-允许一切如其所是](https://birtney.link/article/life-article13) 
-
-- 💡 [八月-循此苦旅，以抵繁星](https://birtney.link/article/life-article12) 
-
-- 👺 [七月-别听世俗的耳语，去看自己喜欢的风景](https://birtney.link/article/life-article11) 
-
-- 🚦 [六月-人生是旷野，不是轨道](https://birtney.link/article/life-article10) 
+- 🐲 [The top ten luxury goods](http://tiandankanfeng.github.io/2022/11/20/The-top-ten-luxury-goods/) 
 
 
 #### 👯 Check out my recent followers
