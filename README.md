@@ -6,11 +6,11 @@ Concentrate on yourself, it's enough.
 
 💻 Interested in distributed storage system, db storage, cs, middleware, reactive.
 
-🖋 Blog：[birtney.link](https://birtney.link)
+🖋 Blog：[birtney.link](https://komoribe.ink)
 
 📫 Email: [xvelpro8@gamil.com](mailto:xvelpro8@gamil.com)
 
-💬 Wechat: [click here](https://tiandankanfeng.github.io/about/)
+💬 Wechat: [click here](https://tiandankanfeng.github.io/about/) 
 
 
 
