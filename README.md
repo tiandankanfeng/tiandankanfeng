@@ -6,7 +6,7 @@ Concentrate on yourself, it's enough.
 
 💻 Interested in distributed storage system, db storage, cs, middleware, reactive.
 
-🖋 Blog：[komoribe.link](https://komoribe.ink)
+🖋 Blog：[birtney.link](https://komoribe.ink)
 
 📫 Email: [xvelpro8@gamil.com](mailto:xvelpro8@gamil.com)
 
