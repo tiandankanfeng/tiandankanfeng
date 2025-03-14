@@ -35,9 +35,9 @@ Concentrate on yourself, it's enough.
 
 #### ⭐ Check out my recent stars
 
-- [openai/openai-realtime-console](https://github.com/openai/openai-realtime-console) - React app for inspecting, building and debugging with the Realtime API (2 days ago)
+- [openai/openai-realtime-console](https://github.com/openai/openai-realtime-console) - React app for inspecting, building and debugging with the Realtime API (3 days ago)
 - [bumingbaipod/podcast](https://github.com/bumingbaipod/podcast) - 此 GitHub 作为《不明白播客》官网的备份站，用于分享文字版播客。  版权所有 ©️ 不明白播客 bumingbai.net (1 week ago)
-- [xingpingcn/enhanced-FaaS-in-China](https://github.com/xingpingcn/enhanced-FaaS-in-China) - 提升部署在cloudflare、vercel或netlify的网页在中国的访问速度和稳定性 Improve the access speed and stability in China of web pages hosted on cloudflare, vercel or netlify by merely changing your CNAME record. cf优选域名 | cf优选ip | cloudflare | vercel | netlify | 加速 | 国内 | 中国 | 境内 | 大陆 (1 week ago)
+- [xingpingcn/enhanced-FaaS-in-China](https://github.com/xingpingcn/enhanced-FaaS-in-China) - 提升部署在cloudflare、vercel或netlify的网页在中国的访问速度和稳定性 Improve the access speed and stability in China of web pages hosted on cloudflare, vercel or netlify by merely changing your CNAME record. cf优选域名 | cf优选ip | cloudflare | vercel | netlify | 加速 | 国内 | 中国 | 境内 | 大陆 (2 weeks ago)
 - [zilliztech/deep-searcher](https://github.com/zilliztech/deep-searcher) - Open Source Deep Research Alternative to Reason and Search on Private Data. Written in Python. (2 weeks ago)
 - [google/fonts](https://github.com/google/fonts) - Font files available from Google Fonts, and a public issue tracker for all things Google Fonts (2 weeks ago)
 
