@@ -35,10 +35,10 @@ Concentrate on yourself, it's enough.
 
 #### ⭐ Check out my recent stars
 
-- [logancyang/obsidian-copilot](https://github.com/logancyang/obsidian-copilot) - THE Copilot in Obsidian (1 day ago)
-- [cloudreve/Cloudreve](https://github.com/cloudreve/Cloudreve) - 🌩支持多家云存储的云盘系统 (Self-hosted file management and sharing system, supports multiple storage providers) (1 day ago)
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Finetune Llama 3.3, DeepSeek-R1, Gemma 3 &amp; Reasoning LLMs 2x faster with 70% less memory! 🦥 (2 days ago)
-- [openai/openai-realtime-console](https://github.com/openai/openai-realtime-console) - React app for inspecting, building and debugging with the Realtime API (6 days ago)
+- [logancyang/obsidian-copilot](https://github.com/logancyang/obsidian-copilot) - THE Copilot in Obsidian (2 days ago)
+- [cloudreve/Cloudreve](https://github.com/cloudreve/Cloudreve) - 🌩支持多家云存储的云盘系统 (Self-hosted file management and sharing system, supports multiple storage providers) (2 days ago)
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Finetune Llama 3.3, DeepSeek-R1, Gemma 3 &amp; Reasoning LLMs 2x faster with 70% less memory! 🦥 (3 days ago)
+- [openai/openai-realtime-console](https://github.com/openai/openai-realtime-console) - React app for inspecting, building and debugging with the Realtime API (1 week ago)
 - [bumingbaipod/podcast](https://github.com/bumingbaipod/podcast) - 此 GitHub 作为《不明白播客》官网的备份站，用于分享文字版播客。  版权所有 ©️ 不明白播客 bumingbai.net (2 weeks ago)
 
 #### 🔨 Check out my recent pull requests
