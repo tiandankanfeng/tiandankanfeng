@@ -35,8 +35,8 @@ Concentrate on yourself, it's enough.
 
 #### ⭐ Check out my recent stars
 
-- [EstrellaXD/Auto_Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) - AutoBangumi - 全自动追番工具 (today)
-- [mindverse/Second-Me](https://github.com/mindverse/Second-Me) - Train your AI self, amplify you, bridge the world (1 day ago)
+- [EstrellaXD/Auto_Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) - AutoBangumi - 全自动追番工具 (1 day ago)
+- [mindverse/Second-Me](https://github.com/mindverse/Second-Me) - Train your AI self, amplify you, bridge the world (2 days ago)
 - [logancyang/obsidian-copilot](https://github.com/logancyang/obsidian-copilot) - THE Copilot in Obsidian (1 week ago)
 - [cloudreve/Cloudreve](https://github.com/cloudreve/Cloudreve) - 🌩支持多家云存储的云盘系统 (Self-hosted file management and sharing system, supports multiple storage providers) (1 week ago)
 - [unslothai/unsloth](https://github.com/unslothai/unsloth) - Finetune Llama 3.3, DeepSeek-R1, Gemma 3 &amp; Reasoning LLMs 2x faster with 70% less memory! 🦥 (1 week ago)
