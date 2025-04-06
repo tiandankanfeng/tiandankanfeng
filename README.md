@@ -35,11 +35,11 @@ Concentrate on yourself, it's enough.
 
 #### ⭐ Check out my recent stars
 
-- [coracoo/awesome_docker_cn](https://github.com/coracoo/awesome_docker_cn) - 上百款可docker部署的项目，包含项目地址、项目部署教程等。 (today)
-- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications. (today)
-- [wlabby-1/PeppaPigConfigurationGuide](https://github.com/wlabby-1/PeppaPigConfigurationGuide) -  (3 days ago)
-- [zaidmukaddam/scira](https://github.com/zaidmukaddam/scira) - Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet. Powered by Vercel AI SDK! Search with models like Grok 2.0. (4 days ago)
-- [wallabag/wallabag](https://github.com/wallabag/wallabag) - wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely. (6 days ago)
+- [mayushans/awesome-selfhosted-chinese](https://github.com/mayushans/awesome-selfhosted-chinese) - 可以运行在您自己的服务器上的网络服务和Web 应用程序的列表 (1 day ago)
+- [coracoo/awesome_docker_cn](https://github.com/coracoo/awesome_docker_cn) - 上百款可docker部署的项目，包含项目地址、项目部署教程等。 (1 day ago)
+- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications. (1 day ago)
+- [wlabby-1/PeppaPigConfigurationGuide](https://github.com/wlabby-1/PeppaPigConfigurationGuide) -  (4 days ago)
+- [zaidmukaddam/scira](https://github.com/zaidmukaddam/scira) - Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet. Powered by Vercel AI SDK! Search with models like Grok 2.0. (5 days ago)
 
 #### 🔨 Check out my recent pull requests
 
