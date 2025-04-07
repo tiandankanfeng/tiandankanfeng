@@ -35,11 +35,11 @@ Concentrate on yourself, it's enough.
 
 #### ⭐ Check out my recent stars
 
-- [ScienceNoBorders/ExperienceSharing](https://github.com/ScienceNoBorders/ExperienceSharing) - 一位程序员的成长之路，以及读书、经验交流角。 (today)
-- [HarborLibrary/Political-Science](https://github.com/HarborLibrary/Political-Science) - 政治  (today)
-- [mayushans/awesome-selfhosted-chinese](https://github.com/mayushans/awesome-selfhosted-chinese) - 可以运行在您自己的服务器上的网络服务和Web 应用程序的列表 (1 day ago)
-- [coracoo/awesome_docker_cn](https://github.com/coracoo/awesome_docker_cn) - 上百款可docker部署的项目，包含项目地址、项目部署教程等。 (1 day ago)
-- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications. (1 day ago)
+- [ScienceNoBorders/ExperienceSharing](https://github.com/ScienceNoBorders/ExperienceSharing) - 一位程序员的成长之路，以及读书、经验交流角。 (1 day ago)
+- [HarborLibrary/Political-Science](https://github.com/HarborLibrary/Political-Science) - 政治  (1 day ago)
+- [mayushans/awesome-selfhosted-chinese](https://github.com/mayushans/awesome-selfhosted-chinese) - 可以运行在您自己的服务器上的网络服务和Web 应用程序的列表 (2 days ago)
+- [coracoo/awesome_docker_cn](https://github.com/coracoo/awesome_docker_cn) - 上百款可docker部署的项目，包含项目地址、项目部署教程等。 (2 days ago)
+- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications. (2 days ago)
 
 #### 🔨 Check out my recent pull requests
 
