@@ -35,11 +35,11 @@ Concentrate on yourself, it's enough.
 
 #### ⭐ Check out my recent stars
 
-- [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/ (today)
-- [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) - 10 Lessons to Get Started Building AI Agents (today)
-- [modelcontextprotocol/java-sdk](https://github.com/modelcontextprotocol/java-sdk) - The official Java SDK for Model Context Protocol servers and clients. Maintained in collaboration with Spring AI (1 day ago)
-- [ScienceNoBorders/ExperienceSharing](https://github.com/ScienceNoBorders/ExperienceSharing) - 一位程序员的成长之路，以及读书、经验交流角。 (2 days ago)
-- [HarborLibrary/Political-Science](https://github.com/HarborLibrary/Political-Science) - 政治  (2 days ago)
+- [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/ (1 day ago)
+- [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) - 10 Lessons to Get Started Building AI Agents (1 day ago)
+- [modelcontextprotocol/java-sdk](https://github.com/modelcontextprotocol/java-sdk) - The official Java SDK for Model Context Protocol servers and clients. Maintained in collaboration with Spring AI (2 days ago)
+- [ScienceNoBorders/ExperienceSharing](https://github.com/ScienceNoBorders/ExperienceSharing) - 一位程序员的成长之路，以及读书、经验交流角。 (3 days ago)
+- [HarborLibrary/Political-Science](https://github.com/HarborLibrary/Political-Science) - 政治  (3 days ago)
 
 #### 🔨 Check out my recent pull requests
 
