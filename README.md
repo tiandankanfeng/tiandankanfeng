@@ -35,11 +35,11 @@ Concentrate on yourself, it's enough.
 
 #### ⭐ Check out my recent stars
 
-- [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI 🤖 PyPi: autogen-agentchat Discord: https://aka.ms/autogen-discord Office Hour: https://aka.ms/autogen-officehour (today)
-- [krillinai/KrillinAI](https://github.com/krillinai/KrillinAI) -  A video translation and dubbing tool powered by LLMs, offering professional-grade translations and one-click full-process deployment. It can generate content optimized for platforms like YouTube，TikTok, and Shorts.  基于AI大模型的视频翻译和配音工具，专业级翻译，一键部署全流程，可以生成适配抖音，小红书，哔哩哔哩，视频号，TikTok，Youtube Shorts等形态的内容 (today)
-- [oomol-lab/pdf-craft](https://github.com/oomol-lab/pdf-craft) - PDF craft can convert PDF files into various other formats. This project will focus on processing PDF files of scanned books. The project has just started. (3 days ago)
-- [Azure/co-op-translator](https://github.com/Azure/co-op-translator) - Easily automate the translation of your documentation into multiple languages, powered by Azure AI Services (4 days ago)
-- [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub&#39;s official MCP Server (5 days ago)
+- [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI 🤖 PyPi: autogen-agentchat Discord: https://aka.ms/autogen-discord Office Hour: https://aka.ms/autogen-officehour (1 day ago)
+- [krillinai/KrillinAI](https://github.com/krillinai/KrillinAI) -  A video translation and dubbing tool powered by LLMs, offering professional-grade translations and one-click full-process deployment. It can generate content optimized for platforms like YouTube，TikTok, and Shorts.  基于AI大模型的视频翻译和配音工具，专业级翻译，一键部署全流程，可以生成适配抖音，小红书，哔哩哔哩，视频号，TikTok，Youtube Shorts等形态的内容 (1 day ago)
+- [oomol-lab/pdf-craft](https://github.com/oomol-lab/pdf-craft) - PDF craft can convert PDF files into various other formats. This project will focus on processing PDF files of scanned books. The project has just started. (4 days ago)
+- [Azure/co-op-translator](https://github.com/Azure/co-op-translator) - Easily automate the translation of your documentation into multiple languages, powered by Azure AI Services (5 days ago)
+- [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub&#39;s official MCP Server (6 days ago)
 
 #### 🔨 Check out my recent pull requests
 
