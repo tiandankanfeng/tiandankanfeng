@@ -62,11 +62,11 @@ Concentrate on yourself, it's enough.
 
 #### 👯 Check out my recent followers
 
+- [trinhminhtriet](https://github.com/trinhminhtriet)
 - [nholuongut](https://github.com/nholuongut)
 - [Connor9994](https://github.com/Connor9994)
 - [idimetrix](https://github.com/idimetrix)
 - [cassimahmedattia](https://github.com/cassimahmedattia)
-- [Asbaharoon](https://github.com/Asbaharoon)
 
 ![Metrics](/metrics.plugin.achievements.compact.svg)
 ![Metrics](/metrics.plugin.anilist.characters.svg)
