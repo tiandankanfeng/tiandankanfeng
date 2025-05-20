@@ -45,15 +45,15 @@ Concentrate on yourself, it's enough.
 
 #### 📜 Check out my recent blog posts
 <!-- BLOG-POST-LIST:START -->
-- 🦒 [我独自前行（第二期）](https://birtney.link/article/1c6de3d9-fc4e-8070-bf0e-c960cecd6e42) 
+- 🦒 [不妨大梦一场（第三期）](https://birtney.link/article/1dbde3d9-fc4e-8023-aace-ce3cffec4ac1) 
 
-- 🐲 [踏上天命之旅（第一期）](https://birtney.link/article/1a2de3d9-fc4e-807c-909d-de77468a3e54) 
+- 🐲 [我独自前行（第二期）](https://birtney.link/article/1c6de3d9-fc4e-8070-bf0e-c960cecd6e42) 
 
-- 💡 [十一月-允许一切发生，然后勇敢面对](https://birtney.link/article/life-article14) 
+- 💡 [踏上天命之旅（第一期）](https://birtney.link/article/1a2de3d9-fc4e-807c-909d-de77468a3e54) 
 
-- 👺 [十月-允许一切如其所是](https://birtney.link/article/life-article13) 
+- 👺 [十一月-允许一切发生，然后勇敢面对](https://birtney.link/article/life-article14) 
 
-- 🚦 [八月-循此苦旅，以抵繁星](https://birtney.link/article/life-article12) 
+- 🚦 [十月-允许一切如其所是](https://birtney.link/article/life-article13) 
 <!-- BLOG-POST-LIST:END -->
 
 #### 👯 Check out my recent followers
