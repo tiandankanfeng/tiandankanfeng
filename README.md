@@ -37,11 +37,11 @@ Concentrate on yourself, it's enough.
 
 #### ⭐ Check out my recent stars
 
+- [redis/redis-om-spring](https://github.com/redis/redis-om-spring) - Spring Data Redis extensions for better search, documents models, and more (today)
 - [ppl-ai/modelcontextprotocol](https://github.com/ppl-ai/modelcontextprotocol) - A Model Context Protocol Server connector for Perplexity API, to enable web search without leaving the MCP ecosystem. (1 week ago)
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers. (1 week ago)
 - [algerkong/AlgerMusicPlayer](https://github.com/algerkong/AlgerMusicPlayer) - 一个第三方音乐播放器、本地服务、桌面歌词、音乐下载、远程控制 (1 week ago)
 - [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub. (1 week ago)
-- [Byaidu/PDFMathTranslate](https://github.com/Byaidu/PDFMathTranslate) - PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero (3 weeks ago)
 
 #### 🔨 Check out my recent pull requests
 
@@ -51,15 +51,15 @@ Concentrate on yourself, it's enough.
 
 #### 📜 Check out my recent blog posts
 
-- 🦒 [我独自前行（第二期）](https://birtney.link/article/1c6de3d9-fc4e-8070-bf0e-c960cecd6e42) 
+- 🦒 [不妨大梦一场（第三期）](https://birtney.link/article/1dbde3d9-fc4e-8023-aace-ce3cffec4ac1) 
 
-- 🐲 [踏上天命之旅（第一期）](https://birtney.link/article/1a2de3d9-fc4e-807c-909d-de77468a3e54) 
+- 🐲 [我独自前行（第二期）](https://birtney.link/article/1c6de3d9-fc4e-8070-bf0e-c960cecd6e42) 
 
-- 💡 [十一月-允许一切发生，然后勇敢面对](https://birtney.link/article/life-article14) 
+- 💡 [踏上天命之旅（第一期）](https://birtney.link/article/1a2de3d9-fc4e-807c-909d-de77468a3e54) 
 
-- 👺 [十月-允许一切如其所是](https://birtney.link/article/life-article13) 
+- 👺 [十一月-允许一切发生，然后勇敢面对](https://birtney.link/article/life-article14) 
 
-- 🚦 [八月-循此苦旅，以抵繁星](https://birtney.link/article/life-article12) 
+- 🚦 [十月-允许一切如其所是](https://birtney.link/article/life-article13) 
 
 
 #### 👯 Check out my recent followers
