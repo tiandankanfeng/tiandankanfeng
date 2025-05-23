@@ -37,8 +37,8 @@ Concentrate on yourself, it's enough.
 
 #### ⭐ Check out my recent stars
 
-- [linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer) - 一款提示词优化器，助力于编写高质量的提示词 (today)
-- [redis/redis-om-spring](https://github.com/redis/redis-om-spring) - Spring Data Redis extensions for better search, documents models, and more (2 days ago)
+- [linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer) - 一款提示词优化器，助力于编写高质量的提示词 (1 day ago)
+- [redis/redis-om-spring](https://github.com/redis/redis-om-spring) - Spring Data Redis extensions for better search, documents models, and more (3 days ago)
 - [ppl-ai/modelcontextprotocol](https://github.com/ppl-ai/modelcontextprotocol) - A Model Context Protocol Server connector for Perplexity API, to enable web search without leaving the MCP ecosystem. (1 week ago)
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers. (1 week ago)
 - [algerkong/AlgerMusicPlayer](https://github.com/algerkong/AlgerMusicPlayer) - 一个第三方音乐播放器、本地服务、桌面歌词、音乐下载、远程控制 (1 week ago)
