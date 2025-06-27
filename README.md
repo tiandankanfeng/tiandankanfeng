@@ -37,8 +37,8 @@ Concentrate on yourself, it's enough.
 
 #### ⭐ Check out my recent stars
 
-- [PKU-DAIR/Starter-Guide](https://github.com/PKU-DAIR/Starter-Guide) - A comprehensive guide for beginners in the field of data management and artificial intelligence. (3 days ago)
-- [yzhao062/cs-paper-checklist](https://github.com/yzhao062/cs-paper-checklist) - A final sanity checklist to help your CS paper get accepted, not desk rejected. (3 days ago)
+- [PKU-DAIR/Starter-Guide](https://github.com/PKU-DAIR/Starter-Guide) - A comprehensive guide for beginners in the field of data management and artificial intelligence. (4 days ago)
+- [yzhao062/cs-paper-checklist](https://github.com/yzhao062/cs-paper-checklist) - A final sanity checklist to help your CS paper get accepted, not desk rejected. (4 days ago)
 - [songquanpeng/message-pusher](https://github.com/songquanpeng/message-pusher) - 搭建专属于你的消息推送服务，支持多种消息推送方式，支持 Markdown，基于 Golang 仅单可执行文件，开箱即用 (1 week ago)
 - [certimate-go/certimate](https://github.com/certimate-go/certimate) - 开源的SSL证书管理工具，可以帮助你自动申请、部署SSL证书，并在证书即将过期时自动续期。An open-source SSL certificate management tool that helps you automatically apply for and deploy SSL certificates, as well as automatically renew them when they are about to expire. (1 week ago)
 - [ayangweb/Awesome-BongoCat](https://github.com/ayangweb/Awesome-BongoCat) - 🚀 汇聚优质的第三方 BongoCat 模型！ (1 week ago)
