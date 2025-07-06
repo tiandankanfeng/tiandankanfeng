@@ -37,7 +37,7 @@ Concentrate on yourself, it's enough.
 
 #### ⭐ Check out my recent stars
 
-- [LibreSpark/LibreTV](https://github.com/LibreSpark/LibreTV) - 一分钟搭建影视站，支持Vercel/Docker等部署方式 (today)
+- [LibreSpark/LibreTV](https://github.com/LibreSpark/LibreTV) - 一分钟搭建影视站，支持Vercel/Docker等部署方式 (1 day ago)
 - [xiao-zaiyi/illa-helper](https://github.com/xiao-zaiyi/illa-helper) - 浸入式学语言助手 (Immersive Language Learning Assistant) (1 week ago)
 - [PKU-DAIR/Starter-Guide](https://github.com/PKU-DAIR/Starter-Guide) - A comprehensive guide for beginners in the field of data management and artificial intelligence. (1 week ago)
 - [yzhao062/cs-paper-checklist](https://github.com/yzhao062/cs-paper-checklist) - A final sanity checklist to help your CS paper get accepted, not desk rejected. (1 week ago)
