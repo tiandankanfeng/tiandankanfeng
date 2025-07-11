@@ -37,11 +37,11 @@ Concentrate on yourself, it's enough.
 
 #### ⭐ Check out my recent stars
 
+- [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.  (today)
 - [opensolon/solon-ai](https://github.com/opensolon/solon-ai) - Java AI（智能体） 全场景应用开发框架（LLM，Function Call，RAG，Embedding，Reranking，Flow，MCP Server，Mcp Client，Mcp Proxy）。同时兼容 java8 ~ java24。也可嵌入到 SpringBoot2、jFinal、Vert.x 等框架中使用。 (1 day ago)
 - [yuruotong1/autoMate](https://github.com/yuruotong1/autoMate) - Like Manus, Computer Use Agent(CUA) and Omniparser, we are computer-using agents.AI-driven local automation assistant that uses natural language to make computers work by themselves (2 days ago)
 - [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS (2 days ago)
 - [Afilmory/afilmory](https://github.com/Afilmory/afilmory) - A personal photography website celebrating the art of capturing moments with a nostalgic, retro vibe. Blending aperture, film, and memory. (5 days ago)
-- [LibreSpark/LibreTV](https://github.com/LibreSpark/LibreTV) - 一分钟搭建影视站，支持Vercel/Docker等部署方式 (6 days ago)
 
 #### 🔨 Check out my recent pull requests
 
