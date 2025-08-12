@@ -37,11 +37,11 @@ Concentrate on yourself, it's enough.
 
 #### ⭐ Check out my recent stars
 
-- [zaidmukaddam/scira](https://github.com/zaidmukaddam/scira) - Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet and cites it too. Powered by Vercel AI SDK! Search with models like xAI&#39;s Grok 3. (5 days ago)
-- [souzatharsis/podcastfy](https://github.com/souzatharsis/podcastfy) - An Open Source Python alternative to NotebookLM&#39;s podcast feature: Transforming Multimodal Content into Captivating Multilingual Audio Conversations with GenAI (6 days ago)
+- [zaidmukaddam/scira](https://github.com/zaidmukaddam/scira) - Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet and cites it too. Powered by Vercel AI SDK! Search with models like xAI&#39;s Grok 3. (6 days ago)
+- [souzatharsis/podcastfy](https://github.com/souzatharsis/podcastfy) - An Open Source Python alternative to NotebookLM&#39;s podcast feature: Transforming Multimodal Content into Captivating Multilingual Audio Conversations with GenAI (1 week ago)
 - [bee-san/RustScan](https://github.com/bee-san/RustScan) - 🤖 The Modern Port Scanner 🤖 (2 weeks ago)
 - [ZhiXuanWang/cf-speed-dns](https://github.com/ZhiXuanWang/cf-speed-dns) - CF优选IP工具。动态获取Cloudflare优选IP，CloudflareSpeedTest测速。 (3 weeks ago)
-- [blinkospace/blinko](https://github.com/blinkospace/blinko) - An open-source, self-hosted personal AI note tool prioritizing privacy, built using TypeScript . (3 weeks ago)
+- [blinkospace/blinko](https://github.com/blinkospace/blinko) - An open-source, self-hosted personal AI note tool prioritizing privacy, built using TypeScript . (4 weeks ago)
 
 #### 🔨 Check out my recent pull requests
 
@@ -65,10 +65,10 @@ Concentrate on yourself, it's enough.
 #### 👯 Check out my recent followers
 
 - [haogege8888](https://github.com/haogege8888)
-- [seckinyasar](https://github.com/seckinyasar)
 - [nholuongut](https://github.com/nholuongut)
 - [Connor9994](https://github.com/Connor9994)
 - [idimetrix](https://github.com/idimetrix)
+- [cassimahmedattia](https://github.com/cassimahmedattia)
 
 ![Metrics](/metrics.plugin.achievements.compact.svg)
 ![Metrics](/metrics.plugin.anilist.characters.svg)
