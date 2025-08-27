@@ -51,15 +51,9 @@ Concentrate on yourself, it's enough.
 
 #### 📜 Check out my recent blog posts
 
-- 🦒 [稳中修心（第六期）](https://birtney.link/article/odyssey-article-01) 
+- 🦒 [Looking forward to some interesting projects in 2023](http://tiandankanfeng.github.io/2023/01/24/Looking-forward-to-some-interesting-projects-in-2023/) 
 
-- 🐲 [追随兴趣（第五期）](https://birtney.link/article/life-article19) 
-
-- 💡 [把握当下（第四期）](https://birtney.link/article/life-article18) 
-
-- 👺 [不妨大梦一场（第三期）](https://birtney.link/article/life-article17) 
-
-- 🚦 [我独自前行（第二期）](https://birtney.link/article/life-article16) 
+- 🐲 [The top ten luxury goods](http://tiandankanfeng.github.io/2022/11/20/The-top-ten-luxury-goods/) 
 
 
 #### 👯 Check out my recent followers
