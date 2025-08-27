@@ -37,11 +37,11 @@ Concentrate on yourself, it's enough.
 
 #### ⭐ Check out my recent stars
 
+- [network-quality/community](https://github.com/network-quality/community) - A place (wiki) to coordinate the activity of the community of people interested in the network-quality project. (today)
 - [sambecker/exif-photo-blog](https://github.com/sambecker/exif-photo-blog) - Photo blog, reporting 🤓 EXIF camera details (aperture, shutter speed, ISO) for each image. (2 days ago)
 - [parseablehq/developer-hub](https://github.com/parseablehq/developer-hub) - This is the Parseable documentation repository (3 days ago)
 - [mihomo-party-org/mihomo-party](https://github.com/mihomo-party-org/mihomo-party) - :electron: Another Mihomo GUI.  (1 week ago)
 - [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama&#39;s altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. (1 week ago)
-- [bepass-org/oblivion-desktop](https://github.com/bepass-org/oblivion-desktop) - Oblivion Desktop - Unofficial Warp Client for Windows/Mac/Linux (1 week ago)
 
 #### 🔨 Check out my recent pull requests
 
@@ -51,9 +51,15 @@ Concentrate on yourself, it's enough.
 
 #### 📜 Check out my recent blog posts
 
-- 🦒 [Looking forward to some interesting projects in 2023](http://tiandankanfeng.github.io/2023/01/24/Looking-forward-to-some-interesting-projects-in-2023/) 
+- 🦒 [稳中修心（第六期）](https://birtney.link/article/odyssey-article-01) 
 
-- 🐲 [The top ten luxury goods](http://tiandankanfeng.github.io/2022/11/20/The-top-ten-luxury-goods/) 
+- 🐲 [追随兴趣（第五期）](https://birtney.link/article/life-article19) 
+
+- 💡 [把握当下（第四期）](https://birtney.link/article/life-article18) 
+
+- 👺 [不妨大梦一场（第三期）](https://birtney.link/article/life-article17) 
+
+- 🚦 [我独自前行（第二期）](https://birtney.link/article/life-article16) 
 
 
 #### 👯 Check out my recent followers
