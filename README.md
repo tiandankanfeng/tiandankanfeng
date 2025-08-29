@@ -37,9 +37,9 @@ Concentrate on yourself, it's enough.
 
 #### ⭐ Check out my recent stars
 
-- [network-quality/community](https://github.com/network-quality/community) - A place (wiki) to coordinate the activity of the community of people interested in the network-quality project. (1 day ago)
-- [sambecker/exif-photo-blog](https://github.com/sambecker/exif-photo-blog) - Photo blog, reporting 🤓 EXIF camera details (aperture, shutter speed, ISO) for each image. (3 days ago)
-- [parseablehq/developer-hub](https://github.com/parseablehq/developer-hub) - This is the Parseable documentation repository (4 days ago)
+- [network-quality/community](https://github.com/network-quality/community) - A place (wiki) to coordinate the activity of the community of people interested in the network-quality project. (2 days ago)
+- [sambecker/exif-photo-blog](https://github.com/sambecker/exif-photo-blog) - Photo blog, reporting 🤓 EXIF camera details (aperture, shutter speed, ISO) for each image. (4 days ago)
+- [parseablehq/developer-hub](https://github.com/parseablehq/developer-hub) - This is the Parseable documentation repository (5 days ago)
 - [mihomo-party-org/mihomo-party](https://github.com/mihomo-party-org/mihomo-party) - :electron: Another Mihomo GUI.  (1 week ago)
 - [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama&#39;s altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. (1 week ago)
 
