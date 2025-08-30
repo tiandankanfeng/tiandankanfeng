@@ -29,11 +29,11 @@ Concentrate on yourself, it's enough.
 
 #### 🌱 Check out my recent projects
 
+- [tiandankanfeng/LibreTV](https://github.com/tiandankanfeng/LibreTV) - 
 - [tiandankanfeng/remote-mcp-server-authless](https://github.com/tiandankanfeng/remote-mcp-server-authless) - 
 - [tiandankanfeng/ms-ra-forwarder](https://github.com/tiandankanfeng/ms-ra-forwarder) - 
 - [tiandankanfeng/mkdocs](https://github.com/tiandankanfeng/mkdocs) - 
 - [tiandankanfeng/discussion-blog](https://github.com/tiandankanfeng/discussion-blog) - 
-- [tiandankanfeng/Cource](https://github.com/tiandankanfeng/Cource) - Share some wonderful cources which I&#39;m learning.
 
 #### ⭐ Check out my recent stars
 
@@ -64,11 +64,11 @@ Concentrate on yourself, it's enough.
 
 #### 👯 Check out my recent followers
 
+- [ipqwery](https://github.com/ipqwery)
 - [haogege8888](https://github.com/haogege8888)
 - [nholuongut](https://github.com/nholuongut)
 - [Connor9994](https://github.com/Connor9994)
 - [idimetrix](https://github.com/idimetrix)
-- [cassimahmedattia](https://github.com/cassimahmedattia)
 
 ![Metrics](/metrics.plugin.achievements.compact.svg)
 ![Metrics](/metrics.plugin.anilist.characters.svg)
