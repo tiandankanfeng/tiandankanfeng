@@ -37,9 +37,9 @@ Concentrate on yourself, it's enough.
 
 #### ⭐ Check out my recent stars
 
-- [parseablehq/parseable](https://github.com/parseablehq/parseable) - Parseable is an observability platform built for the modern - cloud native, AI era. (today)
-- [network-quality/community](https://github.com/network-quality/community) - A place (wiki) to coordinate the activity of the community of people interested in the network-quality project. (4 days ago)
-- [sambecker/exif-photo-blog](https://github.com/sambecker/exif-photo-blog) - Photo blog, reporting 🤓 EXIF camera details (aperture, shutter speed, ISO) for each image. (6 days ago)
+- [parseablehq/parseable](https://github.com/parseablehq/parseable) - Parseable is an observability platform built for the modern - cloud native, AI era. (1 day ago)
+- [network-quality/community](https://github.com/network-quality/community) - A place (wiki) to coordinate the activity of the community of people interested in the network-quality project. (5 days ago)
+- [sambecker/exif-photo-blog](https://github.com/sambecker/exif-photo-blog) - Photo blog, reporting 🤓 EXIF camera details (aperture, shutter speed, ISO) for each image. (1 week ago)
 - [parseablehq/developer-hub](https://github.com/parseablehq/developer-hub) - This is the Parseable documentation repository (1 week ago)
 - [mihomo-party-org/clash-party](https://github.com/mihomo-party-org/clash-party) - :electron: Another Mihomo GUI.  (1 week ago)
 
