@@ -64,11 +64,11 @@ Concentrate on yourself, it's enough.
 
 #### 👯 Check out my recent followers
 
+- [seckinyasar](https://github.com/seckinyasar)
 - [ipqwery](https://github.com/ipqwery)
 - [haogege8888](https://github.com/haogege8888)
 - [nholuongut](https://github.com/nholuongut)
 - [Connor9994](https://github.com/Connor9994)
-- [idimetrix](https://github.com/idimetrix)
 
 ![Metrics](/metrics.plugin.achievements.compact.svg)
 ![Metrics](/metrics.plugin.anilist.characters.svg)
