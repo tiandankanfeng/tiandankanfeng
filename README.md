@@ -37,11 +37,11 @@ Concentrate on yourself, it's enough.
 
 #### ⭐ Check out my recent stars
 
-- [apecloud/ApeRAG](https://github.com/apecloud/ApeRAG) - ApeRAG: Best choice for building your own Knowledge Graph and for Context Engineering (1 day ago)
-- [bytebot-ai/bytebot](https://github.com/bytebot-ai/bytebot) - Bytebot is a self-hosted AI desktop agent that automates computer tasks through natural language commands, operating within a containerized Linux desktop environment. (1 day ago)
+- [apecloud/ApeRAG](https://github.com/apecloud/ApeRAG) - ApeRAG: Best choice for building your own Knowledge Graph and for Context Engineering (2 days ago)
+- [bytebot-ai/bytebot](https://github.com/bytebot-ai/bytebot) - Bytebot is a self-hosted AI desktop agent that automates computer tasks through natural language commands, operating within a containerized Linux desktop environment. (2 days ago)
 - [parseablehq/parseable](https://github.com/parseablehq/parseable) - Parseable is an observability platform built for the modern - cloud native, AI era. (1 week ago)
 - [network-quality/community](https://github.com/network-quality/community) - A place (wiki) to coordinate the activity of the community of people interested in the network-quality project. (1 week ago)
-- [sambecker/exif-photo-blog](https://github.com/sambecker/exif-photo-blog) - Photo blog, reporting 🤓 EXIF camera details (aperture, shutter speed, ISO) for each image. (1 week ago)
+- [sambecker/exif-photo-blog](https://github.com/sambecker/exif-photo-blog) - Photo blog, reporting 🤓 EXIF camera details (aperture, shutter speed, ISO) for each image. (2 weeks ago)
 
 #### 🔨 Check out my recent pull requests
 
