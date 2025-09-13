@@ -51,15 +51,15 @@ Concentrate on yourself, it's enough.
 
 #### 📜 Check out my recent blog posts
 
-- 🦒 [稳中修心（第六期）](https://birtney.link/article/odyssey-article-01) 
+- 🦒 [未知名的夏天（第七期）](https://birtney.link/article/25fde3d9-fc4e-8002-b3de-e6de3a320eec) 
 
-- 🐲 [追随兴趣（第五期）](https://birtney.link/article/life-article19) 
+- 🐲 [稳中修心（第六期）](https://birtney.link/article/odyssey-article-01) 
 
-- 💡 [把握当下（第四期）](https://birtney.link/article/life-article18) 
+- 💡 [追随兴趣（第五期）](https://birtney.link/article/life-article19) 
 
-- 👺 [不妨大梦一场（第三期）](https://birtney.link/article/life-article17) 
+- 👺 [把握当下（第四期）](https://birtney.link/article/life-article18) 
 
-- 🚦 [我独自前行（第二期）](https://birtney.link/article/life-article16) 
+- 🚦 [不妨大梦一场（第三期）](https://birtney.link/article/life-article17) 
 
 
 #### 👯 Check out my recent followers
