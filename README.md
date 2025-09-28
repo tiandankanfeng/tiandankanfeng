@@ -41,7 +41,7 @@ Concentrate on yourself, it's enough.
 - [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents) -  (2 weeks ago)
 - [apecloud/ApeRAG](https://github.com/apecloud/ApeRAG) - ApeRAG: Production-ready GraphRAG with multi-modal indexing, AI agents, MCP support, and scalable K8s deployment (3 weeks ago)
 - [bytebot-ai/bytebot](https://github.com/bytebot-ai/bytebot) - Bytebot is a self-hosted AI desktop agent that automates computer tasks through natural language commands, operating within a containerized Linux desktop environment. (3 weeks ago)
-- [parseablehq/parseable](https://github.com/parseablehq/parseable) - Parseable is an observability platform built for the modern - cloud native, AI era. (3 weeks ago)
+- [parseablehq/parseable](https://github.com/parseablehq/parseable) - Parseable is an observability platform built for the modern - cloud native, AI era. (4 weeks ago)
 
 #### 🔨 Check out my recent pull requests
 
