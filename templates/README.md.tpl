@@ -45,7 +45,7 @@ Concentrate on yourself, it's enough.
 
 #### 📜 Check out my recent blog posts
 <!-- BLOG-POST-LIST:START -->
-- 🦒 [未知名的夏天（第七期）](https://birtney.link/article/25fde3d9-fc4e-8002-b3de-e6de3a320eec) 
+- 🦒 [未知名的夏天（第七期）](https://birtney.link/article/odyssey-article-02) 
 
 - 🐲 [稳中修心（第六期）](https://birtney.link/article/odyssey-article-01) 
 
