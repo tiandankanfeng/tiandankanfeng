@@ -37,11 +37,11 @@ Concentrate on yourself, it's enough.
 
 #### ⭐ Check out my recent stars
 
+- [tangly1024/TrendWaveTracker](https://github.com/tangly1024/TrendWaveTracker) - 📈 ​​双模式趋势波段PineScript指标 | 左侧回调&#43;右侧突破 | 适用于TradingView (today)
 - [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) - 🖥 Control your display&#39;s brightness &amp; volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs. (2 days ago)
 - [OpenListTeam/OpenList](https://github.com/OpenListTeam/OpenList) - A new AList Fork to Anti Trust Crisis (5 days ago)
 - [windwq/blog](https://github.com/windwq/blog) - 风无前的博客 (5 days ago)
 - [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go (2 weeks ago)
-- [github/copilot-cli](https://github.com/github/copilot-cli) - GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal.  (2 weeks ago)
 
 #### 🔨 Check out my recent pull requests
 
