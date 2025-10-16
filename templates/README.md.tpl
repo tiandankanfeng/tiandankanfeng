@@ -51,9 +51,9 @@ Concentrate on yourself, it's enough.
 
 - 💡 [追随兴趣（第五期）](https://birtney.link/article/life-article19) 
 
-- 👺 [把握当下（第四期）](https://birtney.link/article/life-article18) 
+- 👺 [不妨大梦一场（第三期）](https://birtney.link/article/life-article17) 
 
-- 🚦 [不妨大梦一场（第三期）](https://birtney.link/article/life-article17) 
+- 🚦 [踏上天命之旅（第一期）](https://birtney.link/article/life-article15) 
 <!-- BLOG-POST-LIST:END -->
 
 #### 👯 Check out my recent followers
