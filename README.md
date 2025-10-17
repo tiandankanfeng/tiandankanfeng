@@ -37,10 +37,10 @@ Concentrate on yourself, it's enough.
 
 #### ⭐ Check out my recent stars
 
-- [tangly1024/TrendWaveTracker](https://github.com/tangly1024/TrendWaveTracker) - 📈 ​​双模式趋势波段PineScript指标 | 左侧回调&#43;右侧突破 | 适用于TradingView (1 day ago)
-- [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) - 🖥 Control your display&#39;s brightness &amp; volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs. (3 days ago)
-- [OpenListTeam/OpenList](https://github.com/OpenListTeam/OpenList) - A new AList Fork to Anti Trust Crisis (6 days ago)
-- [windwq/blog](https://github.com/windwq/blog) - 风无前的博客 (6 days ago)
+- [tangly1024/TrendWaveTracker](https://github.com/tangly1024/TrendWaveTracker) - 📈 ​​双模式趋势波段PineScript指标 | 左侧回调&#43;右侧突破 | 适用于TradingView (2 days ago)
+- [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) - 🖥 Control your display&#39;s brightness &amp; volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs. (4 days ago)
+- [OpenListTeam/OpenList](https://github.com/OpenListTeam/OpenList) - A new AList Fork to Anti Trust Crisis (1 week ago)
+- [windwq/blog](https://github.com/windwq/blog) - 风无前的博客 (1 week ago)
 - [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go (2 weeks ago)
 
 #### 🔨 Check out my recent pull requests
