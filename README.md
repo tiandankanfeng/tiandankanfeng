@@ -37,11 +37,11 @@ Concentrate on yourself, it's enough.
 
 #### ⭐ Check out my recent stars
 
+- [jingyaogong/minimind](https://github.com/jingyaogong/minimind) - 🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h! (today)
 - [Done-0/fuck-u-code](https://github.com/Done-0/fuck-u-code) - Legacy-Mess Detector – assess the “legacy-mess level” of your code and output a beautiful report | 屎山代码检测器，评估代码的“屎山等级”并输出美观的报告 (1 day ago)
 - [tangly1024/TrendWaveTracker](https://github.com/tangly1024/TrendWaveTracker) - 📈 ​​双模式趋势波段PineScript指标 | 左侧回调&#43;右侧突破 | 适用于TradingView (3 days ago)
 - [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) - 🖥 Control your display&#39;s brightness &amp; volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs. (5 days ago)
 - [OpenListTeam/OpenList](https://github.com/OpenListTeam/OpenList) - A new AList Fork to Anti Trust Crisis (1 week ago)
-- [windwq/blog](https://github.com/windwq/blog) - 风无前的博客 (1 week ago)
 
 #### 🔨 Check out my recent pull requests
 
