@@ -37,11 +37,11 @@ Concentrate on yourself, it's enough.
 
 #### ⭐ Check out my recent stars
 
+- [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool (today)
 - [deta/surf](https://github.com/deta/surf) - Personal AI Notebooks. Organize files &amp; webpages and generate notes from them. Open source, local &amp; open data, open model choice (incl. local). (4 days ago)
 - [emcie-co/parlant](https://github.com/emcie-co/parlant) - LLM agents built for control. Designed for real-world use. Deployed in minutes. (4 days ago)
 - [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) - An Open Source implementation of Notebook LM with more flexibility and features (1 week ago)
 - [ourongxing/newsnow](https://github.com/ourongxing/newsnow) - Elegant reading of real-time and hottest news (1 week ago)
-- [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Skills (1 week ago)
 
 #### 🔨 Check out my recent pull requests
 
