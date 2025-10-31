@@ -37,7 +37,7 @@ Concentrate on yourself, it's enough.
 
 #### ⭐ Check out my recent stars
 
-- [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool (3 days ago)
+- [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool (4 days ago)
 - [deta/surf](https://github.com/deta/surf) - Personal AI Notebooks. Organize files &amp; webpages and generate notes from them. Open source, local &amp; open data, open model choice (incl. local). (1 week ago)
 - [emcie-co/parlant](https://github.com/emcie-co/parlant) - LLM agents built for control. Designed for real-world use. Deployed in minutes. (1 week ago)
 - [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) - An Open Source implementation of Notebook LM with more flexibility and features (1 week ago)
@@ -47,7 +47,7 @@ Concentrate on yourself, it's enough.
 
 - [Web3](https://github.com/tangly1024/NotionNext/pull/1228) on [tangly1024/NotionNext](https://github.com/tangly1024/NotionNext) (2 years ago)
 - [Deploy/4everland](https://github.com/tiandankanfeng/Birtney-NotionNext/pull/1) on [tiandankanfeng/Birtney-NotionNext](https://github.com/tiandankanfeng/Birtney-NotionNext) (2 years ago)
-- [feat: use ConcurrentHashMap instead of HashMap with Sync(as HashTable…](https://github.com/alibaba/QLExpress/pull/221) on [alibaba/QLExpress](https://github.com/alibaba/QLExpress) (2 years ago)
+- [feat: use ConcurrentHashMap instead of HashMap with Sync(as HashTable…](https://github.com/alibaba/QLExpress/pull/221) on [alibaba/QLExpress](https://github.com/alibaba/QLExpress) (3 years ago)
 
 #### 📜 Check out my recent blog posts
 
