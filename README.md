@@ -37,9 +37,9 @@ Concentrate on yourself, it's enough.
 
 #### ⭐ Check out my recent stars
 
-- [f/git-rewrite-commits](https://github.com/f/git-rewrite-commits) - AI-powered git commit message rewriter using Ollama or GPT (1 day ago)
-- [glidea/banana-prompt-quicker](https://github.com/glidea/banana-prompt-quicker) - 🍌Awesome Prompts; Nano Banana；Banana Pro; Gemini；AI Studio；Prompt Quickly [商店版本 1.3.0，最新版本 1.4.0&#43;，可选择本地安装抢先体验新功能，具体版本差异见下方 release note] (1 day ago)
-- [hellodigua/code996](https://github.com/hellodigua/code996) - 统计 Git 项目的 commit 时间分布，进而推导出项目的编码工作强度。 Analyzes the commit time distribution of Git projects to infer coding work intensity. (1 day ago)
+- [f/git-rewrite-commits](https://github.com/f/git-rewrite-commits) - AI-powered git commit message rewriter using Ollama or GPT (2 days ago)
+- [glidea/banana-prompt-quicker](https://github.com/glidea/banana-prompt-quicker) - 🍌Awesome Prompts; Nano Banana；Banana Pro; Gemini；AI Studio；Prompt Quickly [商店版本 1.3.0，最新版本 1.4.0&#43;，可选择本地安装抢先体验新功能，具体版本差异见下方 release note] (2 days ago)
+- [hellodigua/code996](https://github.com/hellodigua/code996) - 统计 Git 项目的 commit 时间分布，进而推导出项目的编码工作强度。 Analyzes the commit time distribution of Git projects to infer coding work intensity. (2 days ago)
 - [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - 🎯 告别信息过载，AI 助你看懂新闻资讯热点，简单的舆情监控分析 - 多平台热点聚合&#43;基于 MCP 的AI分析工具。监控35个平台（抖音、知乎、B站、华尔街见闻、财联社等），智能筛选&#43;自动推送&#43;AI对话分析（用自然语言深度挖掘新闻：趋势追踪、情感分析、相似检索等13种工具）。支持企业微信/个人微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 推送，1分钟手机通知，无需编程。支持Docker部署⭐ 让算法为你服务，用AI理解热点【 当前仅推荐Docker部署，Fork/Actions方式暂停（正在与GitHub官方沟通中）】 (3 weeks ago)
 - [knownsec/aipyapp](https://github.com/knownsec/aipyapp) - AI-Powered Python &amp; Python-Powered AI (Python-Use) (3 weeks ago)
 
@@ -64,11 +64,11 @@ Concentrate on yourself, it's enough.
 
 #### 👯 Check out my recent followers
 
+- [animakalia7520-oss](https://github.com/animakalia7520-oss)
 - [ibadBargir](https://github.com/ibadBargir)
 - [ipqwery](https://github.com/ipqwery)
 - [haogege8888](https://github.com/haogege8888)
 - [nholuongut](https://github.com/nholuongut)
-- [Connor9994](https://github.com/Connor9994)
 
 ![Metrics](/metrics.plugin.achievements.compact.svg)
 ![Metrics](/metrics.plugin.anilist.characters.svg)
