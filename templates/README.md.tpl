@@ -45,15 +45,15 @@ Concentrate on yourself, it's enough.
 
 #### 📜 Check out my recent blog posts
 <!-- BLOG-POST-LIST:START -->
-- 🦒 [未知名的夏天（第七期）](https://birtney.link/article/odyssey-article-02) 
+- 🦒 [秋末落叶飘舞（第九期）](https://birtney.link/article/odyssey-article-04) 
 
-- 🐲 [稳中修心（第六期）](https://birtney.link/article/odyssey-article-01) 
+- 🐲 [体验当下（第八期）](https://birtney.link/article/odyssey-article-03) 
 
-- 💡 [追随兴趣（第五期）](https://birtney.link/article/life-article19) 
+- 💡 [未知名的夏天（第七期）](https://birtney.link/article/odyssey-article-02) 
 
-- 👺 [不妨大梦一场（第三期）](https://birtney.link/article/life-article17) 
+- 👺 [稳中修心（第六期）](https://birtney.link/article/odyssey-article-01) 
 
-- 🚦 [踏上天命之旅（第一期）](https://birtney.link/article/life-article15) 
+- 🚦 [追随兴趣（第五期）](https://birtney.link/article/life-article19) 
 <!-- BLOG-POST-LIST:END -->
 
 #### 👯 Check out my recent followers
