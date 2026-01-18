@@ -37,8 +37,8 @@ Concentrate on yourself, it's enough.
 
 #### ⭐ Check out my recent stars
 
-- [codeman008/Financial_freedom](https://github.com/codeman008/Financial_freedom) - Technical guide to making money and investing（最全赚钱投资指南） (4 days ago)
-- [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - AI Agent &#43; Coding Agent &#43; 300&#43; assistants: agentic AI desktop with autonomous coding, intelligent automation, and unified access to frontier LLMs. (5 days ago)
+- [codeman008/Financial_freedom](https://github.com/codeman008/Financial_freedom) - Technical guide to making money and investing（最全赚钱投资指南） (5 days ago)
+- [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - AI Agent &#43; Coding Agent &#43; 300&#43; assistants: agentic AI desktop with autonomous coding, intelligent automation, and unified access to frontier LLMs. (6 days ago)
 - [HKUDS/Paper2Slides](https://github.com/HKUDS/Paper2Slides) - &#34;Paper2Slides: From Paper to Presentation in One Click&#34; (1 week ago)
 - [WangRongsheng/awesome-LLM-resources](https://github.com/WangRongsheng/awesome-LLM-resources) - 🧑‍🚀 全世界最好的LLM资料总结（多模态生成、Agent、辅助编程、AI审稿、数据处理、模型训练、模型推理、o1 模型、MCP、小语言模型、视觉语言模型） | Summary of the world&#39;s best LLM resources.  (2 weeks ago)
 - [exo-explore/exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚ (3 weeks ago)
