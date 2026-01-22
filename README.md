@@ -37,8 +37,8 @@ Concentrate on yourself, it's enough.
 
 #### ⭐ Check out my recent stars
 
-- [kouchao/TiantianFundApi](https://github.com/kouchao/TiantianFundApi) - 天天基金网 Node.js API service, 东方财富, 基金api, 基金接口, 股票接口 (3 days ago)
-- [x2rr/funds](https://github.com/x2rr/funds) - 自选基金助手是一款Chrome扩展，用来快速获取关注基金的实时数据，查看自选基金的实时估值情况 (3 days ago)
+- [kouchao/TiantianFundApi](https://github.com/kouchao/TiantianFundApi) - 天天基金网 Node.js API service, 东方财富, 基金api, 基金接口, 股票接口 (4 days ago)
+- [x2rr/funds](https://github.com/x2rr/funds) - 自选基金助手是一款Chrome扩展，用来快速获取关注基金的实时数据，查看自选基金的实时估值情况 (4 days ago)
 - [codeman008/Financial_freedom](https://github.com/codeman008/Financial_freedom) - Technical guide to making money and investing（最全赚钱投资指南） (1 week ago)
 - [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - AI Agent &#43; Coding Agent &#43; 300&#43; assistants: agentic AI desktop with autonomous coding, intelligent automation, and unified access to frontier LLMs. (1 week ago)
 - [HKUDS/Paper2Slides](https://github.com/HKUDS/Paper2Slides) - &#34;Paper2Slides: From Paper to Presentation in One Click&#34; (2 weeks ago)
