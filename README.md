@@ -37,11 +37,11 @@ Concentrate on yourself, it's enough.
 
 #### ⭐ Check out my recent stars
 
-- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400&#43; integrations. (1 day ago)
-- [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills (3 days ago)
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400&#43; integrations. (2 days ago)
+- [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills (4 days ago)
 - [kouchao/TiantianFundApi](https://github.com/kouchao/TiantianFundApi) - 天天基金网 Node.js API service, 东方财富, 基金api, 基金接口, 股票接口 (1 week ago)
 - [x2rr/funds](https://github.com/x2rr/funds) - 自选基金助手是一款Chrome扩展，用来快速获取关注基金的实时数据，查看自选基金的实时估值情况 (1 week ago)
-- [codeman008/Financial_freedom](https://github.com/codeman008/Financial_freedom) - Technical guide to making money and investing（最全赚钱投资指南） (1 week ago)
+- [codeman008/Financial_freedom](https://github.com/codeman008/Financial_freedom) - Technical guide to making money and investing（最全赚钱投资指南） (2 weeks ago)
 
 #### 🔨 Check out my recent pull requests
 
