@@ -37,11 +37,11 @@ Concentrate on yourself, it's enough.
 
 #### ⭐ Check out my recent stars
 
+- [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models. (today)
 - [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) - Memory engine and app that is extremely fast, scalable. The Memory API for the AI era. (2 days ago)
 - [MemTensor/MemOS](https://github.com/MemTensor/MemOS) - OS-Level Memory Layer for LLMs, AI Agents &amp; Multi-Agent Systems with long-term, working, and external memory. (2 days ago)
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400&#43; integrations. (4 days ago)
 - [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills (6 days ago)
-- [kouchao/TiantianFundApi](https://github.com/kouchao/TiantianFundApi) - 天天基金网 Node.js API service, 东方财富, 基金api, 基金接口, 股票接口 (1 week ago)
 
 #### 🔨 Check out my recent pull requests
 
