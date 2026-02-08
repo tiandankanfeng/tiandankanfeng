@@ -37,7 +37,7 @@ Concentrate on yourself, it's enough.
 
 #### ⭐ Check out my recent stars
 
-- [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) - The awesome collection of OpenClaw Skills. Formerly known as Moltbot, originally Clawdbot. (today)
+- [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) - The awesome collection of OpenClaw Skills. Formerly known as Moltbot, originally Clawdbot. (1 day ago)
 - [BytePioneer-AI/openclaw-china](https://github.com/BytePioneer-AI/openclaw-china) - OpenClaw中国插件：支持飞书，钉钉，QQ，企业微信，微信 (1 week ago)
 - [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models. (1 week ago)
 - [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) - Memory engine and app that is extremely fast, scalable. The Memory API for the AI era. (1 week ago)
@@ -51,15 +51,15 @@ Concentrate on yourself, it's enough.
 
 #### 📜 Check out my recent blog posts
 
-- 🦒 [秋末落叶飘舞（第九期）](https://birtney.link/article/odyssey-article-04) 
+- 🦒 [挥舞 Lollapalooza 之剑](https://birtney.link/article/2f3de3d9-fc4e-80ed-9552-da70a9acf17b) 
 
-- 🐲 [体验当下（第八期）](https://birtney.link/article/odyssey-article-03) 
+- 🐲 [秋末落叶飘舞（第九期）](https://birtney.link/article/odyssey-article-04) 
 
-- 💡 [未知名的夏天（第七期）](https://birtney.link/article/odyssey-article-02) 
+- 💡 [体验当下（第八期）](https://birtney.link/article/odyssey-article-03) 
 
-- 👺 [稳中修心（第六期）](https://birtney.link/article/odyssey-article-01) 
+- 👺 [未知名的夏天（第七期）](https://birtney.link/article/odyssey-article-02) 
 
-- 🚦 [追随兴趣（第五期）](https://birtney.link/article/life-article19) 
+- 🚦 [稳中修心（第六期）](https://birtney.link/article/odyssey-article-01) 
 
 
 #### 👯 Check out my recent followers
