@@ -41,7 +41,7 @@ Concentrate on yourself, it's enough.
 - [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents) - 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程 (2 days ago)
 - [Lordog/dive-into-llms](https://github.com/Lordog/dive-into-llms) - 《动手学大模型Dive into LLMs》系列编程实践教程 (3 days ago)
 - [hsliuping/TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN) - 基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版 (2 weeks ago)
-- [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) - The awesome collection of OpenClaw Skills. Formerly known as Moltbot, originally Clawdbot. (3 weeks ago)
+- [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) - The awesome collection of OpenClaw skills. 5,400&#43; skills filtered and categorized from the official OpenClaw Skills Registry.🦞 (3 weeks ago)
 
 #### 🔨 Check out my recent pull requests
 
