@@ -37,8 +37,8 @@ Concentrate on yourself, it's enough.
 
 #### ⭐ Check out my recent stars
 
-- [srizzon/git-city](https://github.com/srizzon/git-city) - Your GitHub profile as a 3D pixel art building in an interactive city (today)
-- [xmanrui/OpenClaw-bot-review](https://github.com/xmanrui/OpenClaw-bot-review) - A lightweight web dashboard for viewing all your OpenClaw Bots/Agents/Models/Sessions status at a glance. (4 days ago)
+- [srizzon/git-city](https://github.com/srizzon/git-city) - Your GitHub profile as a 3D pixel art building in an interactive city (1 day ago)
+- [xmanrui/OpenClaw-bot-review](https://github.com/xmanrui/OpenClaw-bot-review) - A lightweight web dashboard for viewing all your OpenClaw Bots/Agents/Models/Sessions status at a glance. (5 days ago)
 - [whoamihappyhacking/lazycat-skills](https://github.com/whoamihappyhacking/lazycat-skills) - 这是一套专为 **懒猫微服 (LazyCat MicroServer)** 平台开发者打造的 AI 智能体技能包 (Agent Skills)。 (1 week ago)
 - [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - &#34;🐈 nanobot: The Ultra-Lightweight OpenClaw&#34; (1 week ago)
 - [sipeed/picoclaw](https://github.com/sipeed/picoclaw) - Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity (1 week ago)
