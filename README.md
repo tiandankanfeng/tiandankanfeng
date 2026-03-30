@@ -37,11 +37,11 @@ Concentrate on yourself, it's enough.
 
 #### ⭐ Check out my recent stars
 
+- [calesthio/Crucix](https://github.com/calesthio/Crucix) - Your personal intelligence agent. Watches the world from multiple data sources and pings you when something changes. (today)
 - [JimLiu/baoyu-skills](https://github.com/JimLiu/baoyu-skills) -  (1 day ago)
 - [Tght1211/lan-proxy-gateway](https://github.com/Tght1211/lan-proxy-gateway) - 把你的 Mac 变成局域网透明代理网关，让 Switch、智能电视等设备科学上网 (1 day ago)
 - [lijigang/ljg-skills](https://github.com/lijigang/ljg-skills) -  (5 days ago)
 - [srizzon/git-city](https://github.com/srizzon/git-city) - Your GitHub profile as a 3D pixel art building in an interactive city (2 weeks ago)
-- [xmanrui/OpenClaw-bot-review](https://github.com/xmanrui/OpenClaw-bot-review) - A lightweight web dashboard for viewing all your OpenClaw Bots/Agents/Models/Sessions status at a glance. (2 weeks ago)
 
 #### 🔨 Check out my recent pull requests
 
