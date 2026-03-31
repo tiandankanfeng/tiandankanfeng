@@ -37,11 +37,11 @@ Concentrate on yourself, it's enough.
 
 #### ⭐ Check out my recent stars
 
+- [instructkr/claw-code](https://github.com/instructkr/claw-code) - Better Harness Tools, not merely storing the archive of leaked Claude Code but also make shit things done. Now rewriting in Rust. (today)
 - [calesthio/Crucix](https://github.com/calesthio/Crucix) - Your personal intelligence agent. Watches the world from multiple data sources and pings you when something changes. (1 day ago)
 - [JimLiu/baoyu-skills](https://github.com/JimLiu/baoyu-skills) -  (2 days ago)
 - [Tght1211/lan-proxy-gateway](https://github.com/Tght1211/lan-proxy-gateway) - 把你的 Mac 变成局域网透明代理网关，让 Switch、智能电视等设备科学上网 (2 days ago)
 - [lijigang/ljg-skills](https://github.com/lijigang/ljg-skills) -  (6 days ago)
-- [srizzon/git-city](https://github.com/srizzon/git-city) - Your GitHub profile as a 3D pixel art building in an interactive city (2 weeks ago)
 
 #### 🔨 Check out my recent pull requests
 
