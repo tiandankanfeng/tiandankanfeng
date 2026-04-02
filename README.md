@@ -37,10 +37,10 @@ Concentrate on yourself, it's enough.
 
 #### ⭐ Check out my recent stars
 
-- [instructkr/claw-code](https://github.com/instructkr/claw-code) - The fastest repo in history to surpass 100K stars ⭐. Better Harness Tools that make real things done. Built in Rust using oh-my-codex. (2 days ago)
+- [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - [Notice] The repo temporarily locked while ownership transfer. in the meantime we maintain on here: https://github.com/ultraworkers/claw-code-parity. The fastest repo in history to surpass 100K stars ⭐. Better Harness Tools that make real things done. Built in Rust using oh-my-codex. (2 days ago)
 - [calesthio/Crucix](https://github.com/calesthio/Crucix) - Your personal intelligence agent. Watches the world from multiple data sources and pings you when something changes. (3 days ago)
 - [JimLiu/baoyu-skills](https://github.com/JimLiu/baoyu-skills) -  (4 days ago)
-- [Tght1211/lan-proxy-gateway](https://github.com/Tght1211/lan-proxy-gateway) - 把你的 Mac 变成局域网透明代理网关，让 Switch、智能电视等设备科学上网 (4 days ago)
+- [Tght1211/lan-proxy-gateway](https://github.com/Tght1211/lan-proxy-gateway) - 把你的电脑变成全屋科学上网网关，Switch / PS5 / Apple TV / 智能电视改个网关就能用。支持 macOS / Linux / Windows (4 days ago)
 - [lijigang/ljg-skills](https://github.com/lijigang/ljg-skills) -  (1 week ago)
 
 #### 🔨 Check out my recent pull requests
