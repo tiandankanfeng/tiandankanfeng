@@ -39,11 +39,11 @@ Concentrate on yourself, it's enough.
 
 #### ⭐ Check out my recent stars
 
+- [talkvalue/Buddi](https://github.com/talkvalue/Buddi) - A macOS notch companion for Claude Code — your buddy lives here now. (today)
 - [grayashh/buddy-reroll](https://github.com/grayashh/buddy-reroll) - Reroll your Claude Code /buddy companion to any species, rarity, eye, hat, and shiny combo (1 day ago)
 - [Arthur-Ficial/apfel](https://github.com/Arthur-Ficial/apfel) - The free AI already on your Mac. CLI tool, OpenAI-compatible server, and interactive chat — all on-device via Apple Intelligence. No API keys, no cloud, no downloads. (1 day ago)
 - [limbopro/Paolujichang](https://github.com/limbopro/Paolujichang) - 科学上网🕸️之跑路机场名单收集（2020-2026），欢迎投稿。Ad🔗🈲🙅❌ (1 day ago)
 - [alibaba/OpenSandbox](https://github.com/alibaba/OpenSandbox) - Secure, Fast, and Extensible Sandbox runtime for AI agents. (2 days ago)
-- [777genius/claude_agent_teams_ui](https://github.com/777genius/claude_agent_teams_ui) - You&#39;re the CTO, agents are your team. They handle tasks on their own, message each other, and review each other&#39;s work. You just watch the kanban board and give high-level commands. Codex/Claude. (3 days ago)
 
 #### 🔨 Check out my recent pull requests
 
