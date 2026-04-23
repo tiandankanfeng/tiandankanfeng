@@ -39,11 +39,11 @@ Concentrate on yourself, it's enough.
 
 #### ⭐ Check out my recent stars
 
+- [xstongxue/best-skills](https://github.com/xstongxue/best-skills) - 通用高质量 Skills 合集🔥 (today)
 - [tw93/Kami](https://github.com/tw93/Kami) - 👩‍🚒 Good content deserves good paper. (1 day ago)
 - [Open-Dev-Society/OpenStock](https://github.com/Open-Dev-Society/OpenStock) - OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free. (2 days ago)
 - [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) - A Claude Code plugin that shows what&#39;s happening - context usage, active tools, running agents, and todo progress (3 days ago)
 - [jlcodes99/cockpit-tools](https://github.com/jlcodes99/cockpit-tools) -  🚀 通用 AI IDE 账号管理工具：支持 Antigravity / Codex / GitHub Copilot / Windsurf / Kiro / Cursor / Gemini-cli / CodeBuddy，多账号切换、配额监控、自动唤醒与多开实例管理。 🚀 Universal AI IDE account manager for Antigravity / Codex / GitHub Copilot / Windsurf / Kiro / Cursor / Gemini-cli / CodeBuddy, with multi-account switching, quota monitoring, wake-up automation, and multi-insta (4 days ago)
-- [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. (5 days ago)
 
 #### 🔨 Check out my recent pull requests
 
