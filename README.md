@@ -49,6 +49,7 @@ Concentrate on yourself, it's enough.
 
 #### 🔨 Check out my recent pull requests
 
+- [Add local settings for HTML permissions in Claude configuration](https://github.com/KaverinX/buddy-hub/pull/1) on [KaverinX/buddy-hub](https://github.com/KaverinX/buddy-hub) (today)
 - [Web3](https://github.com/tangly1024/NotionNext/pull/1228) on [tangly1024/NotionNext](https://github.com/tangly1024/NotionNext) (2 years ago)
 - [Deploy/4everland](https://github.com/tiandankanfeng/Birtney-NotionNext/pull/1) on [tiandankanfeng/Birtney-NotionNext](https://github.com/tiandankanfeng/Birtney-NotionNext) (2 years ago)
 - [feat: use ConcurrentHashMap instead of HashMap with Sync(as HashTable…](https://github.com/alibaba/QLExpress/pull/221) on [alibaba/QLExpress](https://github.com/alibaba/QLExpress) (3 years ago)
