@@ -45,15 +45,9 @@ Concentrate on yourself, it's enough.
 
 #### 📜 Check out my recent blog posts
 <!-- BLOG-POST-LIST:START -->
-- 🦒 [挥舞 Lollapalooza 之剑](https://birtney.link/article/2f3de3d9-fc4e-80ed-9552-da70a9acf17b) 
+- 🦒 [Looking forward to some interesting projects in 2023](http://tiandankanfeng.github.io/2023/01/24/Looking-forward-to-some-interesting-projects-in-2023/) 
 
-- 🐲 [秋末落叶飘舞（第九期）](https://birtney.link/article/odyssey-article-04) 
-
-- 💡 [体验当下（第八期）](https://birtney.link/article/odyssey-article-03) 
-
-- 👺 [未知名的夏天（第七期）](https://birtney.link/article/odyssey-article-02) 
-
-- 🚦 [稳中修心（第六期）](https://birtney.link/article/odyssey-article-01) 
+- 🐲 [The top ten luxury goods](http://tiandankanfeng.github.io/2022/11/20/The-top-ten-luxury-goods/) 
 <!-- BLOG-POST-LIST:END -->
 
 #### 👯 Check out my recent followers
