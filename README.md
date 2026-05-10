@@ -49,6 +49,7 @@ Concentrate on yourself, it's enough.
 
 #### 🔨 Check out my recent pull requests
 
+- [Feature homepage enrich](https://github.com/KaverinX/buddy-hub/pull/2) on [KaverinX/buddy-hub](https://github.com/KaverinX/buddy-hub) (today)
 - [Add local settings for HTML permissions in Claude configuration](https://github.com/KaverinX/buddy-hub/pull/1) on [KaverinX/buddy-hub](https://github.com/KaverinX/buddy-hub) (1 week ago)
 - [Web3](https://github.com/tangly1024/NotionNext/pull/1228) on [tangly1024/NotionNext](https://github.com/tangly1024/NotionNext) (2 years ago)
 - [Deploy/4everland](https://github.com/tiandankanfeng/Birtney-NotionNext/pull/1) on [tiandankanfeng/Birtney-NotionNext](https://github.com/tiandankanfeng/Birtney-NotionNext) (2 years ago)
