@@ -62,11 +62,11 @@ Concentrate on yourself, it's enough.
 
 #### 👯 Check out my recent followers
 
+- [helallao](https://github.com/helallao)
 - [abdulboyprogramming-arch](https://github.com/abdulboyprogramming-arch)
 - [animakalia7520-oss](https://github.com/animakalia7520-oss)
 - [ibadBargir](https://github.com/ibadBargir)
 - [ipqwery](https://github.com/ipqwery)
-- [haogege8888](https://github.com/haogege8888)
 
 ![Metrics](/metrics.plugin.achievements.compact.svg)
 ![Metrics](/metrics.plugin.anilist.characters.svg)
