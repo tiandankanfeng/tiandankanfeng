@@ -39,7 +39,7 @@ Concentrate on yourself, it's enough.
 
 #### ⭐ Check out my recent stars
 
-- [Qwen-Applications/Trace2Skill](https://github.com/Qwen-Applications/Trace2Skill) - Official codebase of the paper -- Trace2Skill: Distill Trajectory-Local Lessons into Transferable Agent Skills (1 day ago)
+- [Qwen-Applications/Trace2Skill](https://github.com/Qwen-Applications/Trace2Skill) - Official codebase of the paper -- Trace2Skill: Distill Trajectory-Local Lessons into Transferable Agent Skills (2 days ago)
 - [steipete/CodexBar](https://github.com/steipete/CodexBar) - Show usage stats for OpenAI Codex and Claude Code, without having to login. (1 week ago)
 - [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development (SDD) for AI coding assistants. (1 week ago)
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework &amp; software development methodology that works. (1 week ago)
