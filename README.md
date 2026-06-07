@@ -39,15 +39,15 @@ Concentrate on yourself, it's enough.
 
 #### ⭐ Check out my recent stars
 
-- [Qwen-Applications/Trace2Skill](https://github.com/Qwen-Applications/Trace2Skill) - Official codebase of the paper -- Trace2Skill: Distill Trajectory-Local Lessons into Transferable Agent Skills (4 days ago)
+- [Qwen-Applications/Trace2Skill](https://github.com/Qwen-Applications/Trace2Skill) - Official codebase of the paper -- Trace2Skill: Distill Trajectory-Local Lessons into Transferable Agent Skills (5 days ago)
 - [steipete/CodexBar](https://github.com/steipete/CodexBar) - Show usage stats for OpenAI Codex and Claude Code, without having to login. (1 week ago)
 - [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development (SDD) for AI coding assistants. (1 week ago)
-- [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework &amp; software development methodology that works. (1 week ago)
+- [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework &amp; software development methodology that works. (2 weeks ago)
 - [yizhiyanhua-ai/fireworks-tech-graph](https://github.com/yizhiyanhua-ai/fireworks-tech-graph) - Generate production-quality SVG&#43;PNG technical diagrams from natural language. 7 styles, UML support, and AI/Agent workflow patterns. (3 weeks ago)
 
 #### 🔨 Check out my recent pull requests
 
-- [Feature homepage enrich](https://github.com/KaverinX/buddy-hub/pull/2) on [KaverinX/buddy-hub](https://github.com/KaverinX/buddy-hub) (3 weeks ago)
+- [Feature homepage enrich](https://github.com/KaverinX/buddy-hub/pull/2) on [KaverinX/buddy-hub](https://github.com/KaverinX/buddy-hub) (4 weeks ago)
 - [Add local settings for HTML permissions in Claude configuration](https://github.com/KaverinX/buddy-hub/pull/1) on [KaverinX/buddy-hub](https://github.com/KaverinX/buddy-hub) (1 month ago)
 - [Web3](https://github.com/notionnext-org/NotionNext/pull/1228) on [notionnext-org/NotionNext](https://github.com/notionnext-org/NotionNext) (2 years ago)
 - [Deploy/4everland](https://github.com/tiandankanfeng/Birtney-NotionNext/pull/1) on [tiandankanfeng/Birtney-NotionNext](https://github.com/tiandankanfeng/Birtney-NotionNext) (2 years ago)
