@@ -39,9 +39,9 @@ Concentrate on yourself, it's enough.
 
 #### ⭐ Check out my recent stars
 
-- [helloianneo/ian-xiaohei-illustrations](https://github.com/helloianneo/ian-xiaohei-illustrations) - 中文小黑怪诞正文配图生成 Skill | 16:9 白底手绘 | 少量红橙蓝批注 | Codex Skill (2 days ago)
+- [helloianneo/ian-xiaohei-illustrations](https://github.com/helloianneo/ian-xiaohei-illustrations) - 中文小黑怪诞正文配图生成 Skill | 16:9 白底手绘 | 少量红橙蓝批注 | Codex Skill (3 days ago)
 - [Qwen-Applications/Trace2Skill](https://github.com/Qwen-Applications/Trace2Skill) - Official codebase of the paper -- Trace2Skill: Distill Trajectory-Local Lessons into Transferable Agent Skills (1 week ago)
-- [steipete/CodexBar](https://github.com/steipete/CodexBar) - Show usage stats for OpenAI Codex and Claude Code, without having to login. (1 week ago)
+- [steipete/CodexBar](https://github.com/steipete/CodexBar) - Show usage stats for OpenAI Codex and Claude Code, without having to login. (2 weeks ago)
 - [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development (SDD) for AI coding assistants. (2 weeks ago)
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework &amp; software development methodology that works. (2 weeks ago)
 
