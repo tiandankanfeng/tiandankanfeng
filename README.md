@@ -39,9 +39,9 @@ Concentrate on yourself, it's enough.
 
 #### ⭐ Check out my recent stars
 
-- [IvanWng97/pixtuoid](https://github.com/IvanWng97/pixtuoid) - Terminal pixel-art office for AI coding agents (1 day ago)
-- [zgwl/chinese-buy-us-stock-guide](https://github.com/zgwl/chinese-buy-us-stock-guide) - 美股指南 (1 day ago)
-- [helloianneo/ian-xiaohei-illustrations](https://github.com/helloianneo/ian-xiaohei-illustrations) - 中文小黑怪诞正文配图生成 Skill | 16:9 白底手绘 | 少量红橙蓝批注 | Codex Skill (4 days ago)
+- [IvanWng97/pixtuoid](https://github.com/IvanWng97/pixtuoid) - Terminal pixel-art office for AI coding agents (2 days ago)
+- [zgwl/chinese-buy-us-stock-guide](https://github.com/zgwl/chinese-buy-us-stock-guide) - 美股指南 (2 days ago)
+- [helloianneo/ian-xiaohei-illustrations](https://github.com/helloianneo/ian-xiaohei-illustrations) - 中文小黑怪诞正文配图生成 Skill | 16:9 白底手绘 | 少量红橙蓝批注 | Codex Skill (5 days ago)
 - [Qwen-Applications/Trace2Skill](https://github.com/Qwen-Applications/Trace2Skill) - Official codebase of the paper -- Trace2Skill: Distill Trajectory-Local Lessons into Transferable Agent Skills (1 week ago)
 - [steipete/CodexBar](https://github.com/steipete/CodexBar) - Show usage stats for OpenAI Codex and Claude Code, without having to login. (2 weeks ago)
 
@@ -50,7 +50,7 @@ Concentrate on yourself, it's enough.
 - [Feature homepage enrich](https://github.com/KaverinX/buddy-hub/pull/2) on [KaverinX/buddy-hub](https://github.com/KaverinX/buddy-hub) (1 month ago)
 - [Add local settings for HTML permissions in Claude configuration](https://github.com/KaverinX/buddy-hub/pull/1) on [KaverinX/buddy-hub](https://github.com/KaverinX/buddy-hub) (1 month ago)
 - [Web3](https://github.com/notionnext-org/NotionNext/pull/1228) on [notionnext-org/NotionNext](https://github.com/notionnext-org/NotionNext) (2 years ago)
-- [Deploy/4everland](https://github.com/tiandankanfeng/Birtney-NotionNext/pull/1) on [tiandankanfeng/Birtney-NotionNext](https://github.com/tiandankanfeng/Birtney-NotionNext) (2 years ago)
+- [Deploy/4everland](https://github.com/tiandankanfeng/Birtney-NotionNext/pull/1) on [tiandankanfeng/Birtney-NotionNext](https://github.com/tiandankanfeng/Birtney-NotionNext) (3 years ago)
 - [feat: use ConcurrentHashMap instead of HashMap with Sync(as HashTable…](https://github.com/alibaba/QLExpress/pull/221) on [alibaba/QLExpress](https://github.com/alibaba/QLExpress) (3 years ago)
 
 #### 📜 Check out my recent blog posts
