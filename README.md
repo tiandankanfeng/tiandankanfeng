@@ -39,8 +39,8 @@ Concentrate on yourself, it's enough.
 
 #### ⭐ Check out my recent stars
 
-- [fxsjy/jieba](https://github.com/fxsjy/jieba) - 结巴中文分词 (today)
-- [m5stack/StackChan](https://github.com/m5stack/StackChan) - StackChan open source! (5 days ago)
+- [fxsjy/jieba](https://github.com/fxsjy/jieba) - 结巴中文分词 (1 day ago)
+- [m5stack/StackChan](https://github.com/m5stack/StackChan) - StackChan open source! (6 days ago)
 - [IvanWng97/pixtuoid](https://github.com/IvanWng97/pixtuoid) - Terminal pixel-art office for AI coding agents (1 week ago)
 - [zgwl/chinese-buy-us-stock-guide](https://github.com/zgwl/chinese-buy-us-stock-guide) - 美股指南 (1 week ago)
 - [helloianneo/ian-xiaohei-illustrations](https://github.com/helloianneo/ian-xiaohei-illustrations) - 中文小黑怪诞正文配图生成 Skill | 16:9 白底手绘 | 少量红橙蓝批注 | Codex Skill (1 week ago)
