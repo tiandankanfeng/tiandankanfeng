@@ -39,8 +39,8 @@ Concentrate on yourself, it's enough.
 
 #### ⭐ Check out my recent stars
 
-- [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) - Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees. (3 days ago)
-- [fxsjy/jieba](https://github.com/fxsjy/jieba) - 结巴中文分词 (4 days ago)
+- [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) - Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees. (4 days ago)
+- [fxsjy/jieba](https://github.com/fxsjy/jieba) - 结巴中文分词 (5 days ago)
 - [m5stack/StackChan](https://github.com/m5stack/StackChan) - StackChan open source! (1 week ago)
 - [IvanWng97/pixtuoid](https://github.com/IvanWng97/pixtuoid) - Terminal pixel-art office for AI coding agents (1 week ago)
 - [zgwl/chinese-buy-us-stock-guide](https://github.com/zgwl/chinese-buy-us-stock-guide) - 美股指南 (1 week ago)
