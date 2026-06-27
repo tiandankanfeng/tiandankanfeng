@@ -39,8 +39,8 @@ Concentrate on yourself, it's enough.
 
 #### ⭐ Check out my recent stars
 
-- [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) - Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more. (today)
-- [OpenGithubs/github-monthly-rank](https://github.com/OpenGithubs/github-monthly-rank) - Github开源项目:每月📈飙升榜 top30,每月1号早上8点更新 (today)
+- [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) - Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more. (1 day ago)
+- [OpenGithubs/github-monthly-rank](https://github.com/OpenGithubs/github-monthly-rank) - Github开源项目:每月📈飙升榜 top30,每月1号早上8点更新 (1 day ago)
 - [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) - Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees. (1 week ago)
 - [fxsjy/jieba](https://github.com/fxsjy/jieba) - 结巴中文分词 (1 week ago)
 - [m5stack/StackChan](https://github.com/m5stack/StackChan) - StackChan open source! (2 weeks ago)
