@@ -39,8 +39,8 @@ Concentrate on yourself, it's enough.
 
 #### ⭐ Check out my recent stars
 
-- [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) - Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more. (1 day ago)
-- [OpenGithubs/github-monthly-rank](https://github.com/OpenGithubs/github-monthly-rank) - Github开源项目:每月📈飙升榜 top30,每月1号早上8点更新 (1 day ago)
+- [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) - Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more. (2 days ago)
+- [OpenGithubs/github-monthly-rank](https://github.com/OpenGithubs/github-monthly-rank) - Github开源项目:每月📈飙升榜 top30,每月1号早上8点更新 (2 days ago)
 - [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) - Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees. (1 week ago)
 - [fxsjy/jieba](https://github.com/fxsjy/jieba) - 结巴中文分词 (1 week ago)
 - [m5stack/StackChan](https://github.com/m5stack/StackChan) - StackChan open source! (2 weeks ago)
@@ -48,7 +48,7 @@ Concentrate on yourself, it's enough.
 #### 🔨 Check out my recent pull requests
 
 - [Feature homepage enrich](https://github.com/KaverinX/buddy-hub/pull/2) on [KaverinX/buddy-hub](https://github.com/KaverinX/buddy-hub) (1 month ago)
-- [Add local settings for HTML permissions in Claude configuration](https://github.com/KaverinX/buddy-hub/pull/1) on [KaverinX/buddy-hub](https://github.com/KaverinX/buddy-hub) (1 month ago)
+- [Add local settings for HTML permissions in Claude configuration](https://github.com/KaverinX/buddy-hub/pull/1) on [KaverinX/buddy-hub](https://github.com/KaverinX/buddy-hub) (2 months ago)
 - [Web3](https://github.com/notionnext-org/NotionNext/pull/1228) on [notionnext-org/NotionNext](https://github.com/notionnext-org/NotionNext) (3 years ago)
 - [Deploy/4everland](https://github.com/tiandankanfeng/Birtney-NotionNext/pull/1) on [tiandankanfeng/Birtney-NotionNext](https://github.com/tiandankanfeng/Birtney-NotionNext) (3 years ago)
 - [feat: use ConcurrentHashMap instead of HashMap with Sync(as HashTable…](https://github.com/alibaba/QLExpress/pull/221) on [alibaba/QLExpress](https://github.com/alibaba/QLExpress) (3 years ago)
