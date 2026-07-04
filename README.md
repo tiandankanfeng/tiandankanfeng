@@ -39,9 +39,9 @@ Concentrate on yourself, it's enough.
 
 #### ⭐ Check out my recent stars
 
-- [gnuhpc/ppt-master-plus](https://github.com/gnuhpc/ppt-master-plus) - PPT Master Plus skill: editable PPTX generation, beautification, speaker notes, live preview, and templates (1 day ago)
-- [nexmoe/VidBee](https://github.com/nexmoe/VidBee) - Download videos from almost any website worldwide (4 days ago)
-- [codexu/note-gen](https://github.com/codexu/note-gen) - A cross-platform Markdown AI note-taking software. (4 days ago)
+- [gnuhpc/ppt-master-plus](https://github.com/gnuhpc/ppt-master-plus) - PPT Master Plus skill: editable PPTX generation, beautification, speaker notes, live preview, and templates (2 days ago)
+- [nexmoe/VidBee](https://github.com/nexmoe/VidBee) - Download videos from almost any website worldwide (5 days ago)
+- [codexu/note-gen](https://github.com/codexu/note-gen) - A cross-platform Markdown AI note-taking software. (5 days ago)
 - [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) - Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more. (1 week ago)
 - [OpenGithubs/github-monthly-rank](https://github.com/OpenGithubs/github-monthly-rank) - Github开源项目:每月📈飙升榜 top30,每月1号早上8点更新 (1 week ago)
 
