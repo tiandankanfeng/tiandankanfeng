@@ -39,11 +39,11 @@ Concentrate on yourself, it's enough.
 
 #### ⭐ Check out my recent stars
 
+- [Jane-xiaoer/claude-skill-web-clone](https://github.com/Jane-xiaoer/claude-skill-web-clone) - Methodology for faithfully cloning any website (static / React / WebGL) — without copying AI-hallucinated code. Real source first. (today)
 - [gnuhpc/ppt-master-plus](https://github.com/gnuhpc/ppt-master-plus) - PPT Master Plus skill: editable PPTX generation, beautification, speaker notes, live preview, and templates (3 days ago)
 - [nexmoe/VidBee](https://github.com/nexmoe/VidBee) - Download videos from almost any website worldwide (6 days ago)
 - [codexu/note-gen](https://github.com/codexu/note-gen) - A cross-platform Markdown AI note-taking software. (6 days ago)
 - [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) - Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more. (1 week ago)
-- [OpenGithubs/github-monthly-rank](https://github.com/OpenGithubs/github-monthly-rank) - Github开源项目:每月📈飙升榜 top30,每月1号早上8点更新 (1 week ago)
 
 #### 🔨 Check out my recent pull requests
 
