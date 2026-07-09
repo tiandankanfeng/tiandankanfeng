@@ -41,15 +41,15 @@ Concentrate on yourself, it's enough.
 
 #### ⭐ Check out my recent stars
 
-- [Jane-xiaoer/claude-skill-web-clone](https://github.com/Jane-xiaoer/claude-skill-web-clone) - Methodology for faithfully cloning any website (static / React / WebGL) — without copying AI-hallucinated code. Real source first. (3 days ago)
-- [gnuhpc/ppt-master-plus](https://github.com/gnuhpc/ppt-master-plus) - PPT Master Plus skill: editable PPTX generation, beautification, speaker notes, live preview, and templates (6 days ago)
+- [Jane-xiaoer/claude-skill-web-clone](https://github.com/Jane-xiaoer/claude-skill-web-clone) - Methodology for faithfully cloning any website (static / React / WebGL) — without copying AI-hallucinated code. Real source first. (4 days ago)
+- [gnuhpc/ppt-master-plus](https://github.com/gnuhpc/ppt-master-plus) - PPT Master Plus skill: editable PPTX generation, beautification, speaker notes, live preview, and templates (1 week ago)
 - [nexmoe/VidBee](https://github.com/nexmoe/VidBee) - Download videos from almost any website worldwide (1 week ago)
 - [codexu/note-gen](https://github.com/codexu/note-gen) - A cross-platform Markdown AI note-taking software. (1 week ago)
 - [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) - Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more. (1 week ago)
 
 #### 🔨 Check out my recent pull requests
 
-- [Feature homepage enrich](https://github.com/KaverinX/buddy-hub/pull/2) on [KaverinX/buddy-hub](https://github.com/KaverinX/buddy-hub) (1 month ago)
+- [Feature homepage enrich](https://github.com/KaverinX/buddy-hub/pull/2) on [KaverinX/buddy-hub](https://github.com/KaverinX/buddy-hub) (2 months ago)
 - [Add local settings for HTML permissions in Claude configuration](https://github.com/KaverinX/buddy-hub/pull/1) on [KaverinX/buddy-hub](https://github.com/KaverinX/buddy-hub) (2 months ago)
 - [Web3](https://github.com/notionnext-org/NotionNext/pull/1228) on [notionnext-org/NotionNext](https://github.com/notionnext-org/NotionNext) (3 years ago)
 - [Deploy/4everland](https://github.com/tiandankanfeng/Birtney-NotionNext/pull/1) on [tiandankanfeng/Birtney-NotionNext](https://github.com/tiandankanfeng/Birtney-NotionNext) (3 years ago)
