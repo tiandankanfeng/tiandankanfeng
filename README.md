@@ -43,7 +43,7 @@ Concentrate on yourself, it's enough.
 
 #### ⭐ Check out my recent stars
 
-- [langfuse/skills](https://github.com/langfuse/skills) - Agent Skills for Langfuse, the open source LLM engineering platform for tracing, prompt management, and evaluation (today)
+- [langfuse/skills](https://github.com/langfuse/skills) - Agent Skills for Langfuse, the open source LLM engineering platform for tracing, prompt management, and evaluation (1 day ago)
 - [Jane-xiaoer/claude-skill-web-clone](https://github.com/Jane-xiaoer/claude-skill-web-clone) - Methodology for faithfully cloning any website (static / React / WebGL) — without copying AI-hallucinated code. Real source first. (1 week ago)
 - [gnuhpc/ppt-master-plus](https://github.com/gnuhpc/ppt-master-plus) - PPT Master Plus skill: editable PPTX generation, beautification, speaker notes, live preview, and templates (1 week ago)
 - [nexmoe/VidBee](https://github.com/nexmoe/VidBee) - Download videos from almost any website worldwide (2 weeks ago)
