@@ -43,11 +43,11 @@ Concentrate on yourself, it's enough.
 
 #### ⭐ Check out my recent stars
 
+- [claude-code-best/claude-code](https://github.com/claude-code-best/claude-code) - 原汁原昧 Claude Code 可运行,可构建, 可调试版; 生产级工程化, 企业级可靠性; 安全无毒, 内存泄露修复 (today)
+- [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - from vibe coding to agentic engineering - practice makes claude perfect (today)
+- [lyra81604/zhengxi-views](https://github.com/lyra81604/zhengxi-views) - 可溯源的郑希(易方达基金经理)投研 Agent Skill——基于他全部公开观点原文 &#43; 有原话佐证的投资方法 &#43; 全市场基金真实数据，能溯源问答、按他框架给基金打分，绝不杜撰。⚠️仅研究学习辅助，不构成投资建议‼️website是郑希主页！ (today)
+- [hehonghui/awesome-english-ebooks](https://github.com/hehonghui/awesome-english-ebooks) - 经济学人(含音频)、纽约客、卫报、连线、大西洋月刊等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新 (today)
 - [langfuse/skills](https://github.com/langfuse/skills) - Agent Skills for Langfuse, the open source LLM engineering platform for tracing, prompt management, and evaluation (1 day ago)
-- [Jane-xiaoer/claude-skill-web-clone](https://github.com/Jane-xiaoer/claude-skill-web-clone) - Methodology for faithfully cloning any website (static / React / WebGL) — without copying AI-hallucinated code. Real source first. (1 week ago)
-- [gnuhpc/ppt-master-plus](https://github.com/gnuhpc/ppt-master-plus) - PPT Master Plus skill: editable PPTX generation, beautification, speaker notes, live preview, and templates (1 week ago)
-- [nexmoe/VidBee](https://github.com/nexmoe/VidBee) - Download videos from almost any website worldwide (2 weeks ago)
-- [codexu/note-gen](https://github.com/codexu/note-gen) - A cross-platform Markdown AI note-taking software. (2 weeks ago)
 
 #### 🔨 Check out my recent pull requests
 
