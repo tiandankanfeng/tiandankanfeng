@@ -41,7 +41,7 @@ Concentrate on yourself, it's enough.
 
 #### ⭐ Check out my recent stars
 
-- [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on (1 day ago)
+- [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on (2 days ago)
 - [yonggekkk/Cloudflare-vless-trojan](https://github.com/yonggekkk/Cloudflare-vless-trojan) - CF-workers/pages代理脚本：支持Vless-ws(tls)、Trojan-ws(tls)；Socks5/http本地代理脚本：可选ECH-TLS、普通TLS、无TLS三种代理模式 (2 weeks ago)
 - [zhinianboke/xianyu-auto-reply](https://github.com/zhinianboke/xianyu-auto-reply) - 闲鱼自动回复管理系统是一个基于 Python &#43; FastAPI 开发的自动化客服系统，专为闲鱼平台设计。系统通过 WebSocket 连接闲鱼服务器，实时接收和处理消息，提供智能化的自动回复服务。同时集成闲鱼自动发货，自动评价，自动擦亮等功能，实现闲鱼虚拟商品自动化流程。 (2 weeks ago)
 - [ObservedObserver/Macchiato](https://github.com/ObservedObserver/Macchiato) - Keep your Mac awake while your code agent works — even with screen off, lid closed (2 weeks ago)
