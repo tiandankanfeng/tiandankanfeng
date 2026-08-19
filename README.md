@@ -41,8 +41,8 @@ Concentrate on yourself, it's enough.
 
 #### ⭐ Check out my recent stars
 
-- [byoungd/up](https://github.com/byoungd/up) - An advanced guide which might benefit you a lot 🎉 . 人生进阶指南 离谱的人生 离谱的英语学习指南/英语学习教程/英语学习/学英语 (3 days ago)
-- [fainshare/Liam-Skills](https://github.com/fainshare/Liam-Skills) - 我的核心技能包，分享给大家。 (6 days ago)
+- [byoungd/up](https://github.com/byoungd/up) - An advanced guide which might benefit you a lot 🎉 . 人生进阶指南 离谱的人生 离谱的英语学习指南/英语学习教程/英语学习/学英语 (4 days ago)
+- [fainshare/Liam-Skills](https://github.com/fainshare/Liam-Skills) - 我的核心技能包，分享给大家。 (1 week ago)
 - [joeseesun/herdr-guide](https://github.com/joeseesun/herdr-guide) - Herdr 软件全面调研、使用价值分析与上手教程 | An independent practical guide to Herdr (1 week ago)
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on (1 week ago)
 - [yonggekkk/Cloudflare-vless-trojan](https://github.com/yonggekkk/Cloudflare-vless-trojan) - CF-workers/pages代理脚本：支持Vless-ws(tls)、Trojan-ws(tls)；Socks5/http本地代理脚本：可选ECH-TLS、普通TLS、无TLS三种代理模式 (3 weeks ago)
