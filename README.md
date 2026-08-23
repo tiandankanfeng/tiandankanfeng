@@ -42,7 +42,7 @@ Concentrate on yourself, it's enough.
 #### ⭐ Check out my recent stars
 
 - [p0deje/Maccy](https://github.com/p0deje/Maccy) - Lightweight clipboard manager for macOS (1 day ago)
-- [byoungd/up](https://github.com/byoungd/up) - An advanced guide which might benefit you a lot 🎉 . 人生进阶指南 离谱的人生 离谱的英语学习指南/英语学习教程/英语学习/学英语 (1 week ago)
+- [byoungd/up](https://github.com/byoungd/up) - An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 离谱的人生/人生进阶 离谱的英语学习指南/英语学习教程/英语学习/学英语 (1 week ago)
 - [fainshare/Liam-Skills](https://github.com/fainshare/Liam-Skills) - 我的核心技能包，分享给大家。 (1 week ago)
 - [joeseesun/herdr-guide](https://github.com/joeseesun/herdr-guide) - Herdr 软件全面调研、使用价值分析与上手教程 | An independent practical guide to Herdr (1 week ago)
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on (2 weeks ago)
