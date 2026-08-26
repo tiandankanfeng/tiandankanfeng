@@ -41,11 +41,11 @@ Concentrate on yourself, it's enough.
 
 #### ⭐ Check out my recent stars
 
-- [p0deje/Maccy](https://github.com/p0deje/Maccy) - Lightweight clipboard manager for macOS (3 days ago)
+- [anthropics/claude-plugins-community](https://github.com/anthropics/claude-plugins-community) - Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission. (1 day ago)
+- [yizhiyanhua-ai/fireworks-open-eli5](https://github.com/yizhiyanhua-ai/fireworks-open-eli5) - Evidence-aware interactive visual explainers for Codex and Claude Code. (1 day ago)
+- [p0deje/Maccy](https://github.com/p0deje/Maccy) - Lightweight clipboard manager for macOS (4 days ago)
 - [byoungd/up](https://github.com/byoungd/up) - An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 离谱的人生/人生进阶 离谱的英语学习指南/英语学习教程/英语学习/学英语 (1 week ago)
-- [fainshare/Liam-Skills](https://github.com/fainshare/Liam-Skills) - 我的核心技能包，分享给大家。 (1 week ago)
-- [joeseesun/herdr-guide](https://github.com/joeseesun/herdr-guide) - Herdr 软件全面调研、使用价值分析与上手教程 | An independent practical guide to Herdr (2 weeks ago)
-- [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on (2 weeks ago)
+- [fainshare/Liam-Skills](https://github.com/fainshare/Liam-Skills) - 我的核心技能包，分享给大家。 (2 weeks ago)
 
 #### 🔨 Check out my recent pull requests
 
