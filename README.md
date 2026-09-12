@@ -41,11 +41,11 @@ Concentrate on yourself, it's enough.
 
 #### ⭐ Check out my recent stars
 
-- [apache/maka](https://github.com/apache/maka) - Apache Maka (Incubating) is a high-performance agent workspace that keeps a complete record of everything it did. (4 days ago)
-- [Carstin520/token-remain](https://github.com/Carstin520/token-remain) - A privacy-first macOS menu bar app for tracking AI coding quotas, reset times, token usage, and costs across 21&#43; tools. (4 days ago)
-- [snap-research/locomo](https://github.com/snap-research/locomo) -  (5 days ago)
-- [multica-ai/multica](https://github.com/multica-ai/multica) - Make humans and AI agents work as one team — open-source and self-hostable. (6 days ago)
-- [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy&#39;s observations on LLM coding pitfalls. (6 days ago)
+- [apache/maka](https://github.com/apache/maka) - Apache Maka (Incubating) is a high-performance agent workspace that keeps a complete record of everything it did. (5 days ago)
+- [Carstin520/token-remain](https://github.com/Carstin520/token-remain) - A privacy-first macOS menu bar app for tracking AI coding quotas, reset times, token usage, and costs across 21&#43; tools. (5 days ago)
+- [snap-research/locomo](https://github.com/snap-research/locomo) -  (6 days ago)
+- [multica-ai/multica](https://github.com/multica-ai/multica) - Make humans and AI agents work as one team — open-source and self-hostable. (1 week ago)
+- [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy&#39;s observations on LLM coding pitfalls. (1 week ago)
 
 #### 🔨 Check out my recent pull requests
 
