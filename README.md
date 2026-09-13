@@ -31,13 +31,15 @@ Concentrate on yourself, it's enough.
 
 
 
+
+
 #### 🌱 Check out my recent projects
 
+- [tiandankanfeng/forest-exploration](https://github.com/tiandankanfeng/forest-exploration) - 
 - [tiandankanfeng/LibreTV](https://github.com/tiandankanfeng/LibreTV) - 
 - [tiandankanfeng/remote-mcp-server-authless](https://github.com/tiandankanfeng/remote-mcp-server-authless) - 
 - [tiandankanfeng/ms-ra-forwarder](https://github.com/tiandankanfeng/ms-ra-forwarder) - 
 - [tiandankanfeng/mkdocs](https://github.com/tiandankanfeng/mkdocs) - 
-- [tiandankanfeng/discussion-blog](https://github.com/tiandankanfeng/discussion-blog) - 
 
 #### ⭐ Check out my recent stars
 
