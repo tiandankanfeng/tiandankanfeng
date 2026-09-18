@@ -43,11 +43,11 @@ Concentrate on yourself, it's enough.
 
 #### ⭐ Check out my recent stars
 
+- [alibaba/open-code-review](https://github.com/alibaba/open-code-review) - Secure, fast, efficient, battle-tested at Alibaba&#39;s scale. Hybrid architecture code review tool: deterministic pipelines &#43; LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible. (today)
 - [cmliu/edgetunnel](https://github.com/cmliu/edgetunnel) - edgetunnel2 VLESS/Trojan/SS 多功能面板 (1 day ago)
 - [makecindy/cindy](https://github.com/makecindy/cindy) - Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。 (5 days ago)
 - [apache/maka](https://github.com/apache/maka) - Apache Maka (Incubating) is a high-performance agent workspace that keeps a complete record of everything it did. (1 week ago)
 - [Carstin520/token-remain](https://github.com/Carstin520/token-remain) - A privacy-first macOS menu bar app for tracking AI coding quotas, reset times, token usage, and costs across 21&#43; tools. (1 week ago)
-- [snap-research/locomo](https://github.com/snap-research/locomo) -  (1 week ago)
 
 #### 🔨 Check out my recent pull requests
 
