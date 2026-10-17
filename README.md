@@ -74,11 +74,11 @@ Concentrate on yourself, it's enough.
 
 #### 👯 Check out my recent followers
 
+- [sysadminroot0x7F](https://github.com/sysadminroot0x7F)
 - [lxcadoza993](https://github.com/lxcadoza993)
 - [abdulboyprogramming-arch](https://github.com/abdulboyprogramming-arch)
 - [animakalia7520-oss](https://github.com/animakalia7520-oss)
 - [ibadBargir](https://github.com/ibadBargir)
-- [ipqwery](https://github.com/ipqwery)
 
 ![Metrics](/metrics.plugin.achievements.compact.svg)
 ![Metrics](/metrics.plugin.anilist.characters.svg)
