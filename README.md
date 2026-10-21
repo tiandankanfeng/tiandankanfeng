@@ -45,8 +45,8 @@ Concentrate on yourself, it's enough.
 
 #### ⭐ Check out my recent stars
 
-- [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) - Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages (2 days ago)
-- [mmqz/cpa-multi-plugins](https://github.com/mmqz/cpa-multi-plugins) - CPA (CLIProxyAPI) plugins for CodeBuddy (CN&#43;Intl) / WorkBuddy / Trae (Intl&#43;CN&#43;SOLO CN) / Qoder (Intl&#43;CN). Multi-platform OAuth providers with check-in, quota tracking, and credit lifecycle management. (6 days ago)
+- [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) - Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages (3 days ago)
+- [mmqz/cpa-multi-plugins](https://github.com/mmqz/cpa-multi-plugins) - CPA (CLIProxyAPI) plugins for CodeBuddy (CN&#43;Intl) / WorkBuddy / Trae (Intl&#43;CN&#43;SOLO CN) / Qoder (Intl&#43;CN). Multi-platform OAuth providers with check-in, quota tracking, and credit lifecycle management. (1 week ago)
 - [5rahim/seanime](https://github.com/5rahim/seanime) - Open-source media server with a web interface and desktop app for anime and manga. (1 week ago)
 - [saragordic/window-sweaters](https://github.com/saragordic/window-sweaters) - A macOS menu-bar app that dresses your windows in knitted borders. (4 weeks ago)
 - [alibaba/open-code-review](https://github.com/alibaba/open-code-review) - Secure, fast, efficient, battle-tested at Alibaba&#39;s scale. Hybrid architecture code review tool: deterministic pipelines &#43; LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible. (1 month ago)
@@ -61,15 +61,9 @@ Concentrate on yourself, it's enough.
 
 #### 📜 Check out my recent blog posts
 
-- 🦒 [⚾️ 等待最佳击球位置（第十一期）](https://birtney.link/article/36ede3d9-fc4e-8065-8000-df558cdf2978) 
+- 🦒 [Looking forward to some interesting projects in 2023](http://tiandankanfeng.github.io/2023/01/24/Looking-forward-to-some-interesting-projects-in-2023/) 
 
-- 🐲 [挥舞 Lollapalooza 之剑（第十期](https://birtney.link/article/2f3de3d9-fc4e-80ed-9552-da70a9acf17b) 
-
-- 💡 [秋末落叶飘舞（第九期）](https://birtney.link/article/odyssey-article-04) 
-
-- 👺 [体验当下（第八期）](https://birtney.link/article/odyssey-article-03) 
-
-- 🚦 [未知名的夏天（第七期）](https://birtney.link/article/odyssey-article-02) 
+- 🐲 [The top ten luxury goods](http://tiandankanfeng.github.io/2022/11/20/The-top-ten-luxury-goods/) 
 
 
 #### 👯 Check out my recent followers
