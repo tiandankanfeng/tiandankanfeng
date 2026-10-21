@@ -45,9 +45,15 @@ Concentrate on yourself, it's enough.
 
 #### 📜 Check out my recent blog posts
 <!-- BLOG-POST-LIST:START -->
-- 🦒 [Looking forward to some interesting projects in 2023](http://tiandankanfeng.github.io/2023/01/24/Looking-forward-to-some-interesting-projects-in-2023/) 
+- 🦒 [⚾️ 等待最佳击球位置（第十一期）](https://birtney.link/article/36ede3d9-fc4e-8065-8000-df558cdf2978) 
 
-- 🐲 [The top ten luxury goods](http://tiandankanfeng.github.io/2022/11/20/The-top-ten-luxury-goods/) 
+- 🐲 [挥舞 Lollapalooza 之剑（第十期](https://birtney.link/article/2f3de3d9-fc4e-80ed-9552-da70a9acf17b) 
+
+- 💡 [秋末落叶飘舞（第九期）](https://birtney.link/article/odyssey-article-04) 
+
+- 👺 [体验当下（第八期）](https://birtney.link/article/odyssey-article-03) 
+
+- 🚦 [未知名的夏天（第七期）](https://birtney.link/article/odyssey-article-02) 
 <!-- BLOG-POST-LIST:END -->
 
 #### 👯 Check out my recent followers
