@@ -45,11 +45,11 @@ Concentrate on yourself, it's enough.
 
 #### ⭐ Check out my recent stars
 
+- [imputnet/helium](https://github.com/imputnet/helium) - Private, fast, and honest web browser (today)
+- [designfuchen/word-atlas](https://github.com/designfuchen/word-atlas) - 词光 · 一词一画，点亮雅思 — 7,298 IELTS words, each with an original illustration, UK/US audio, 14,596 example sentences and FSRS review. Free, open source, no login. Dataset CC BY 4.0. (today)
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. (1 day ago)
 - [asciimoo/hister](https://github.com/asciimoo/hister) - Your own search engine (2 days ago)
 - [peach-mitao/peach](https://github.com/peach-mitao/peach) - Peach 蜜桃：单用户、本地优先的个人媒体系统 · Single-user, local-first personal media system (3 days ago)
-- [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) - Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages (1 week ago)
-- [mmqz/cpa-multi-plugins](https://github.com/mmqz/cpa-multi-plugins) - CPA (CLIProxyAPI) plugins for CodeBuddy (CN&#43;Intl) / WorkBuddy / Trae (Intl&#43;CN&#43;SOLO CN) / Qoder (Intl&#43;CN). Multi-platform OAuth providers with check-in, quota tracking, and credit lifecycle management. (1 week ago)
 
 #### 🔨 Check out my recent pull requests
 
@@ -61,15 +61,15 @@ Concentrate on yourself, it's enough.
 
 #### 📜 Check out my recent blog posts
 
-- 🦒 [⚾️ 等待最佳击球位置（第十一期）](https://komoribe.ink/article/36ede3d9-fc4e-8065-8000-df558cdf2978) 
+- 🦒 [🌿 漫游札记 ｜把折腾过成日常&lpar;第一期&rpar;](https://komoribe.ink/article/404de3d9-fc4e-8030-8757-fa64879bb818) 
 
-- 🐲 [挥舞 Lollapalooza 之剑（第十期](https://komoribe.ink/article/2f3de3d9-fc4e-80ed-9552-da70a9acf17b) 
+- 🐲 [⚾️ 等待最佳击球位置（第十一期）](https://komoribe.ink/article/36ede3d9-fc4e-8065-8000-df558cdf2978) 
 
-- 💡 [秋末落叶飘舞（第九期）](https://komoribe.ink/article/odyssey-article-04) 
+- 💡 [挥舞 Lollapalooza 之剑（第十期](https://komoribe.ink/article/2f3de3d9-fc4e-80ed-9552-da70a9acf17b) 
 
-- 👺 [体验当下（第八期）](https://komoribe.ink/article/odyssey-article-03) 
+- 👺 [秋末落叶飘舞（第九期）](https://komoribe.ink/article/odyssey-article-04) 
 
-- 🚦 [未知名的夏天（第七期）](https://komoribe.ink/article/odyssey-article-02) 
+- 🚦 [体验当下（第八期）](https://komoribe.ink/article/odyssey-article-03) 
 
 
 #### 👯 Check out my recent followers
