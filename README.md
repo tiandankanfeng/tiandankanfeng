@@ -46,7 +46,7 @@ Concentrate on yourself, it's enough.
 #### ⭐ Check out my recent stars
 
 - [imputnet/helium](https://github.com/imputnet/helium) - Private, fast, and honest web browser (today)
-- [designfuchen/word-atlas](https://github.com/designfuchen/word-atlas) - 词光 · 一词一画，点亮雅思 — 7,298 IELTS words, each with an original illustration, UK/US audio, 14,596 example sentences and FSRS review. Free, open source, no login. Dataset CC BY 4.0. (today)
+- [designfuchen/word-atlas](https://github.com/designfuchen/word-atlas) - 词光 · Word Atlas — Illustrated IELTS vocabulary with 7,298 words, UK/US audio and FSRS review. Open-source app &#43; CC BY 4.0 dataset. (today)
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. (1 day ago)
 - [asciimoo/hister](https://github.com/asciimoo/hister) - Your own search engine (2 days ago)
 - [peach-mitao/peach](https://github.com/peach-mitao/peach) - Peach 蜜桃：单用户、本地优先的个人媒体系统 · Single-user, local-first personal media system (3 days ago)
