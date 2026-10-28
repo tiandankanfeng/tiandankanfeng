@@ -45,11 +45,11 @@ Concentrate on yourself, it's enough.
 
 #### ⭐ Check out my recent stars
 
-- [imputnet/helium](https://github.com/imputnet/helium) - Private, fast, and honest web browser (1 day ago)
-- [designfuchen/word-atlas](https://github.com/designfuchen/word-atlas) - 词光 · Word Atlas — Illustrated IELTS vocabulary with 7,298 words, UK/US audio and FSRS review. Open-source app &#43; CC BY 4.0 dataset. (1 day ago)
-- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. (2 days ago)
-- [asciimoo/hister](https://github.com/asciimoo/hister) - Your own search engine (3 days ago)
-- [peach-mitao/peach](https://github.com/peach-mitao/peach) - Peach: Local-first video metadata scraper and media manager. (4 days ago)
+- [imputnet/helium](https://github.com/imputnet/helium) - Private, fast, and honest web browser (2 days ago)
+- [designfuchen/word-atlas](https://github.com/designfuchen/word-atlas) - 词光 · Word Atlas — Illustrated IELTS vocabulary with 7,298 words, UK/US audio and FSRS review. Open-source app &#43; CC BY 4.0 dataset. (2 days ago)
+- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. (3 days ago)
+- [asciimoo/hister](https://github.com/asciimoo/hister) - Your own search engine (4 days ago)
+- [peach-mitao/peach](https://github.com/peach-mitao/peach) - Peach: Local-first video metadata scraper and media manager. (5 days ago)
 
 #### 🔨 Check out my recent pull requests
 
