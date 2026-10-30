@@ -45,11 +45,11 @@ Concentrate on yourself, it's enough.
 
 #### ⭐ Check out my recent stars
 
-- [JustVugg/colibri](https://github.com/JustVugg/colibri) - Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦 (1 day ago)
-- [imputnet/helium](https://github.com/imputnet/helium) - Private, fast, and honest web browser (3 days ago)
-- [designfuchen/word-atlas](https://github.com/designfuchen/word-atlas) - 词光 · Word Atlas — Illustrated IELTS vocabulary with 7,298 words, UK/US audio and FSRS review. Open-source app &#43; CC BY 4.0 dataset. (3 days ago)
-- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. (4 days ago)
-- [asciimoo/hister](https://github.com/asciimoo/hister) - Your own search engine (5 days ago)
+- [JustVugg/colibri](https://github.com/JustVugg/colibri) - Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦 (2 days ago)
+- [imputnet/helium](https://github.com/imputnet/helium) - Private, fast, and honest web browser (4 days ago)
+- [designfuchen/word-atlas](https://github.com/designfuchen/word-atlas) - 词光 · Word Atlas — Illustrated IELTS vocabulary with 7,298 words, UK/US audio and FSRS review. Open-source app &#43; CC BY 4.0 dataset. (4 days ago)
+- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. (5 days ago)
+- [asciimoo/hister](https://github.com/asciimoo/hister) - Your own search engine (6 days ago)
 
 #### 🔨 Check out my recent pull requests
 
