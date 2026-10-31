@@ -1,12 +1,14 @@
-Hi, I'm here!👋
+Hi, I'm Komoribe 👋
 <br>
-Concentrate on yourself, it's enough.
+Working on agents, and on myself.
+
+🛠 Exploring agent engineering, harness design, and how agents learn and evolve.
+
+🌱 Building with AI, while keeping my own voice in what I make.
 <br>
-🎓 Just a cs programmer.
+Growing at my own pace. Looking inward for direction.
 
-💻 Interested in distributed storage system, db storage, cs, middleware, reactive.
-
-🖋 Blog：[komoribe.ink](https://komoribe.ink)
+🖋 Blog: [komoribe.ink](https://komoribe.ink)
 
 📫 Email: [xvelpro8@gmail.com](mailto:xvelpro8@gmail.com)
 
