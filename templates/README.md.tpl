@@ -8,7 +8,7 @@ Working on agents, and on myself.
 <br>
 Growing at my own pace. Looking inward for direction.
 
-🖋 Blog: [komoribe.ink](https://komoribe.ink)
+🖋 Blog: [komoribe.ink](https://komoribe.ink) · [Support what I make ↗](https://sponsor.komoribe.ink/)
 
 📫 Email: [xvelpro8@gmail.com](mailto:xvelpro8@gmail.com)
 
