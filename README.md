@@ -39,7 +39,7 @@ Growing at my own pace. Looking inward for direction.
 
 #### 🌱 Check out my recent projects
 
-- [tiandankanfeng/Windowline](https://github.com/tiandankanfeng/Windowline) - Native macOS window shelf with hanging previews, precise window activation, and Space switching.
+- [tiandankanfeng/Windowline](https://github.com/tiandankanfeng/Windowline) - Every window. Every display. One line.
 - [tiandankanfeng/forest-exploration](https://github.com/tiandankanfeng/forest-exploration) - 
 - [tiandankanfeng/LibreTV](https://github.com/tiandankanfeng/LibreTV) - 
 - [tiandankanfeng/remote-mcp-server-authless](https://github.com/tiandankanfeng/remote-mcp-server-authless) - 
@@ -63,15 +63,15 @@ Growing at my own pace. Looking inward for direction.
 
 #### 📜 Check out my recent blog posts
 
-- 🦒 [🌿 漫游札记 ｜把折腾过成日常&lpar;第一期&rpar;](https://komoribe.ink/article/404de3d9-fc4e-8030-8757-fa64879bb818) 
+- 🦒 [🌿 漫游札记 ｜最近又迷上了点什么&lpar;第二期&rpar;](https://komoribe.ink/article/40ade3d9-fc4e-8005-a723-f8a88d68cae6) 
 
-- 🐲 [⚾️ 等待最佳击球位置（第十一期）](https://komoribe.ink/article/36ede3d9-fc4e-8065-8000-df558cdf2978) 
+- 🐲 [23Y总结](https://komoribe.ink/article/f6389799-6046-45ac-bd78-f4c21bcd0b76) 
 
-- 💡 [挥舞 Lollapalooza 之剑（第十期](https://komoribe.ink/article/2f3de3d9-fc4e-80ed-9552-da70a9acf17b) 
+- 💡 [在健身房的若干姿势](https://komoribe.ink/article/exercise-lab-article-1) 
 
-- 👺 [秋末落叶飘舞（第九期）](https://komoribe.ink/article/odyssey-article-04) 
+- 👺 [好好锻炼](https://komoribe.ink/article/life-article4) 
 
-- 🚦 [体验当下（第八期）](https://komoribe.ink/article/odyssey-article-03) 
+- 🚦 [缄默的时代](https://komoribe.ink/article/life-article3) 
 
 
 #### 👯 Check out my recent followers
