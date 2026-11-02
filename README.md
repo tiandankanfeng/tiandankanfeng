@@ -16,11 +16,6 @@ Growing at my own pace. Looking inward for direction.
 
 
 
-![Metrics](/github-metrics.svg)
-![Metrics](/metrics.plugin.languages.details.svg)
-![Metrics](/metrics.plugin.languages.recent.svg)
-![Metrics](/metrics.plugin.stars.svg)
-![Metrics](/metrics.plugin.topics.svg)
 
 
 
