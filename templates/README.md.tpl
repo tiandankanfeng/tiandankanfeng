@@ -58,11 +58,4 @@ Growing at my own pace. Looking inward for direction.
 - 🚦 [缄默的时代](https://komoribe.ink/article/life-article3) 
 <!-- BLOG-POST-LIST:END -->
 
-#### 👯 Check out my recent followers
-{{range followers 5}}
-- [{{.Login}}]({{.URL}})
-{{- end}}
-
-![Metrics](/metrics.plugin.achievements.compact.svg)
-
 <!-- [![Netease recently played](https://netease-recent-profile.vercel.app/?id=409050718&type=0)](https://netease-recent-profile.vercel.app/?id=409050718&type=0) -->

@@ -74,14 +74,3 @@ Growing at my own pace. Looking inward for direction.
 - 🚦 [缄默的时代](https://komoribe.ink/article/life-article3) 
 
 
-#### 👯 Check out my recent followers
-
-- [sysadminroot0x7F](https://github.com/sysadminroot0x7F)
-- [abdulboyprogramming-arch](https://github.com/abdulboyprogramming-arch)
-- [animakalia7520-oss](https://github.com/animakalia7520-oss)
-- [ibadBargir](https://github.com/ibadBargir)
-- [ipqwery](https://github.com/ipqwery)
-
-![Metrics](/metrics.plugin.achievements.compact.svg)
-
-
