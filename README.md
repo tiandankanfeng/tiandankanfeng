@@ -12,7 +12,6 @@ Growing at my own pace. Looking inward for direction.
 
 📫 Email: [xvelpro8@gmail.com](mailto:xvelpro8@gmail.com)
 
-💬 Wechat: [click here](https://tiandankanfeng.github.io/about/) 
 
 
 
