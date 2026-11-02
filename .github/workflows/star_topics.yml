@@ -101,29 +101,6 @@ jobs:
             scripter, packager, explorer, infographile, manager
           plugin_achievements_display: compact
           plugin_achievements_threshold: X
-      - name: Favorites characters  
-        uses: lowlighter/metrics@latest
-        with:
-          user: tiandankanfeng
-          plugin_anilist_user: Velpro
-          filename: metrics.plugin.anilist.characters.svg
-          token: NOT_NEEDED
-          base: ""
-          plugin_anilist: yes
-          plugin_anilist_sections: characters
-          plugin_anilist_limit_characters: 22
-      - name: Favorites anime and currently watching
-        uses: lowlighter/metrics@latest
-        with:
-          user: tiandankanfeng
-          filename: metrics.plugin.anilist.svg
-          token: NOT_NEEDED
-          base: ""
-          plugin_anilist: yes
-          plugin_anilist_user: Velpro
-          plugin_anilist_medias: anime
-          plugin_anilist_sections: favorites, watching
-          plugin_anilist_limit: 8
 
 
 

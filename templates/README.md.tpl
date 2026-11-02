@@ -64,7 +64,5 @@ Growing at my own pace. Looking inward for direction.
 {{- end}}
 
 ![Metrics](/metrics.plugin.achievements.compact.svg)
-![Metrics](/metrics.plugin.anilist.characters.svg)
-![Metrics](/metrics.plugin.anilist.svg)
 
 <!-- [![Netease recently played](https://netease-recent-profile.vercel.app/?id=409050718&type=0)](https://netease-recent-profile.vercel.app/?id=409050718&type=0) -->

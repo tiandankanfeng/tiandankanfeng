@@ -83,7 +83,5 @@ Growing at my own pace. Looking inward for direction.
 - [ipqwery](https://github.com/ipqwery)
 
 ![Metrics](/metrics.plugin.achievements.compact.svg)
-![Metrics](/metrics.plugin.anilist.characters.svg)
-![Metrics](/metrics.plugin.anilist.svg)
 
 
