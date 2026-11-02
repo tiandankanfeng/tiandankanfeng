@@ -45,17 +45,4 @@ Growing at my own pace. Looking inward for direction.
 - [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
 
-#### 📜 Check out my recent blog posts
-<!-- BLOG-POST-LIST:START -->
-- 🦒 [🌿 漫游札记 ｜最近又迷上了点什么&lpar;第二期&rpar;](https://komoribe.ink/article/40ade3d9-fc4e-8005-a723-f8a88d68cae6) 
-
-- 🐲 [23Y总结](https://komoribe.ink/article/f6389799-6046-45ac-bd78-f4c21bcd0b76) 
-
-- 💡 [在健身房的若干姿势](https://komoribe.ink/article/exercise-lab-article-1) 
-
-- 👺 [好好锻炼](https://komoribe.ink/article/life-article4) 
-
-- 🚦 [缄默的时代](https://komoribe.ink/article/life-article3) 
-<!-- BLOG-POST-LIST:END -->
-
 <!-- [![Netease recently played](https://netease-recent-profile.vercel.app/?id=409050718&type=0)](https://netease-recent-profile.vercel.app/?id=409050718&type=0) -->

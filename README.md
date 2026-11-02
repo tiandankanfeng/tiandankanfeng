@@ -61,17 +61,3 @@ Growing at my own pace. Looking inward for direction.
 - [Deploy/4everland](https://github.com/tiandankanfeng/Birtney-NotionNext/pull/1) on [tiandankanfeng/Birtney-NotionNext](https://github.com/tiandankanfeng/Birtney-NotionNext) (3 years ago)
 - [feat: use ConcurrentHashMap instead of HashMap with Sync(as HashTable…](https://github.com/alibaba/QLExpress/pull/221) on [alibaba/QLExpress](https://github.com/alibaba/QLExpress) (4 years ago)
 
-#### 📜 Check out my recent blog posts
-
-- 🦒 [🌿 漫游札记 ｜最近又迷上了点什么&lpar;第二期&rpar;](https://komoribe.ink/article/40ade3d9-fc4e-8005-a723-f8a88d68cae6) 
-
-- 🐲 [23Y总结](https://komoribe.ink/article/f6389799-6046-45ac-bd78-f4c21bcd0b76) 
-
-- 💡 [在健身房的若干姿势](https://komoribe.ink/article/exercise-lab-article-1) 
-
-- 👺 [好好锻炼](https://komoribe.ink/article/life-article4) 
-
-- 🚦 [缄默的时代](https://komoribe.ink/article/life-article3) 
-
-
-
