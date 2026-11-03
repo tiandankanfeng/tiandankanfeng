@@ -41,7 +41,7 @@ Growing at my own pace. Looking inward for direction.
 
 #### ⭐ Check out my recent stars
 
-- [JustVugg/colibri](https://github.com/JustVugg/colibri) - Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦 (6 days ago)
+- [JustVugg/colibri](https://github.com/JustVugg/colibri) - A hierarchical inference engine for frontier MoE models: hot experts on the GPU (CUDA, Vulkan), warm ones in RAM, cold ones streamed from NVMe. Written in C, runs on the hardware you already own. (6 days ago)
 - [imputnet/helium](https://github.com/imputnet/helium) - Private, fast, and honest web browser (1 week ago)
 - [designfuchen/word-atlas](https://github.com/designfuchen/word-atlas) - 词光 · Word Atlas — Illustrated IELTS vocabulary with 7,298 words, UK/US audio and FSRS review. Open-source app &#43; CC BY 4.0 dataset. (1 week ago)
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. (1 week ago)
