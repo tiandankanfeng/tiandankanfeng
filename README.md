@@ -1,45 +1,22 @@
-Hi, I'm Komoribe 👋
-<br>
+Hi, I’m Komoribe.
+
 Working on agents, and on myself.
 
-🛠 Exploring agent engineering, harness design, and how agents learn and evolve.
-
-🌱 Building with AI, while keeping my own voice in what I make.
-<br>
+Exploring agent engineering, harness design, and how agents learn and evolve.
+Building with AI, while keeping my own voice in what I make.
 Growing at my own pace. Looking inward for direction.
 
-🖋 Blog: [komoribe.ink](https://komoribe.ink) · [Support what I make ↗](https://sponsor.komoribe.ink/)
+[Blog](https://komoribe.ink) · [Support my work](https://sponsor.komoribe.ink/) · [Email](mailto:xvelpro8@gmail.com)
 
-📫 Email: [xvelpro8@gmail.com](mailto:xvelpro8@gmail.com)
+### What I’m making
 
+**Unau**
 
+Find windows across displays and group them by task. Keep-awake and keyboard-cleaning tools are close at hand, too.
 
+[Visit unau.run](https://unau.run/) · [Release notes](https://github.com/tiandankanfeng/Unau-Updates/releases)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#### 🌱 Check out my recent projects
-
-- [tiandankanfeng/Unau-Updates](https://github.com/tiandankanfeng/Unau-Updates) - Public downloads, release notes, and signed update feeds for Unau. Source code is maintained separately.
-- [tiandankanfeng/Windowline](https://github.com/tiandankanfeng/Windowline) - Every window. Every display. One line.
-- [tiandankanfeng/forest-exploration](https://github.com/tiandankanfeng/forest-exploration) - 
-- [tiandankanfeng/LibreTV](https://github.com/tiandankanfeng/LibreTV) - 
-- [tiandankanfeng/remote-mcp-server-authless](https://github.com/tiandankanfeng/remote-mcp-server-authless) - 
-
-#### ⭐ Check out my recent stars
+### Recent stars
 
 - [xingpingcn/enhanced-FaaS-in-China](https://github.com/xingpingcn/enhanced-FaaS-in-China) - 提升部署在cloudflare、vercel或netlify的网页在中国的访问速度和稳定性   cf优选域名 | cf优选ip | cloudflare | vercel | netlify | 加速 | 国内 | 中国 | 境内 | 大陆 (today)
 - [JustVugg/colibri](https://github.com/JustVugg/colibri) - A hierarchical inference engine for frontier MoE models: hot experts on the GPU (CUDA, Vulkan), warm ones in RAM, cold ones streamed from NVMe. Written in C, runs on the hardware you already own. (1 week ago)
@@ -47,12 +24,10 @@ Growing at my own pace. Looking inward for direction.
 - [designfuchen/word-atlas](https://github.com/designfuchen/word-atlas) - 词光 · Word Atlas — Illustrated IELTS vocabulary with 7,298 words, UK/US audio and FSRS review. Open-source app &#43; CC BY 4.0 dataset. (1 week ago)
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. (1 week ago)
 
-#### 🔨 Check out my recent pull requests
+### Recent pull requests
 
 - [Feature homepage enrich](https://github.com/KaverinX/buddy-hub/pull/2) on [KaverinX/buddy-hub](https://github.com/KaverinX/buddy-hub) (6 months ago)
 - [Add local settings for HTML permissions in Claude configuration](https://github.com/KaverinX/buddy-hub/pull/1) on [KaverinX/buddy-hub](https://github.com/KaverinX/buddy-hub) (6 months ago)
 - [Web3](https://github.com/notionnext-org/NotionNext/pull/1228) on [notionnext-org/NotionNext](https://github.com/notionnext-org/NotionNext) (3 years ago)
 - [Deploy/4everland](https://github.com/tiandankanfeng/Birtney-NotionNext/pull/1) on [tiandankanfeng/Birtney-NotionNext](https://github.com/tiandankanfeng/Birtney-NotionNext) (3 years ago)
 - [feat: use ConcurrentHashMap instead of HashMap with Sync(as HashTable…](https://github.com/alibaba/QLExpress/pull/221) on [alibaba/QLExpress](https://github.com/alibaba/QLExpress) (4 years ago)
-
-
