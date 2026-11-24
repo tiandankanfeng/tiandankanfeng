@@ -21,11 +21,11 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="435.1836645404909" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="435.1836645404909" y="0" width="9.301870995039572" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="444.4855355355305" y="0" width="7.717138690036571" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="452.2026742255671" y="0" width="4.821727863672288" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="457.02440208923935" y="0" width="2.975597910760646" height="8" fill="#F05138"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="435.1066393618151" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="435.1066393618151" y="0" width="9.300224613675121" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="444.40686397549024" y="0" width="7.715772797805543" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="452.12263677329577" y="0" width="4.820874443655666" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="456.94351121695144" y="0" width="3.056488783048587" height="8" fill="#F05138"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -38,7 +38,7 @@
                             </div>
                             <small>
                                 <div>216 MB</div>
-                                <div>94.61%</div>
+                                <div>94.59%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -61,8 +61,8 @@
                                 Swift
                             </div>
                             <small>
-                                <div>1.48 MB</div>
-                                <div>0.65%</div>
+                                <div>1.52 MB</div>
+                                <div>0.66%</div>
                             </small>
                         </div>
                     </section>
